@@ -1,0 +1,78 @@
+{
+ "recipe_name": "Studio Ghibli Sugar Cookies",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "200g granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 200,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "200g unsalted room temp butter",
+   "name": "unsalted butter",
+   "quantity": 200,
+   "unit": "g",
+   "note": "room temperature"
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "400g plain flour",
+   "name": "all-purpose flour",
+   "quantity": 400,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "food colouring",
+   "name": "food coloring",
+   "quantity": null,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "cocoa powder",
+   "name": "cocoa powder",
+   "quantity": null,
+   "unit": null,
+   "note": "for brown colour"
+  },
+  {
+   "raw": "2 cups icing sugar",
+   "name": "powdered sugar",
+   "quantity": 2,
+   "unit": "cup",
+   "note": "icing"
+  },
+  {
+   "raw": "3 tbsp water",
+   "name": "water",
+   "quantity": 3,
+   "unit": "tbsp",
+   "note": "icing"
+  },
+  {
+   "raw": "1 1/2 tsp honey",
+   "name": "honey",
+   "quantity": 1.5,
+   "unit": "tsp",
+   "note": "icing"
+  }
+ ]
+}

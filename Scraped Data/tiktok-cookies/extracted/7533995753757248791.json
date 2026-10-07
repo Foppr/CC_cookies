@@ -1,0 +1,85 @@
+{
+ "recipe_name": "Brown Butter Chocolate Chip Cookies (Greek)",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "140 γρ καβουρδισμένο βούτυρο",
+   "name": "butter",
+   "quantity": 140,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "140 μαύρη ζάχαρη",
+   "name": "dark brown sugar",
+   "quantity": 140,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "60 κρυσταλλική ζάχαρη",
+   "name": "granulated sugar",
+   "quantity": 60,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 μεγάλο αυγό",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 κουταλιά σούπας φρέσκο γάλα",
+   "name": "milk",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "1 κουταλάκι εκχύλισμα βανίλιας",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "220 γρ αλεύρι",
+   "name": "all-purpose flour",
+   "quantity": 220,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "3/4 κουταλάκι σόδα",
+   "name": "baking soda",
+   "quantity": 0.75,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 κουταλάκι αλάτι",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "80 γρ κουβερτούρα",
+   "name": "dark chocolate",
+   "quantity": 80,
+   "unit": "g",
+   "note": "chopped"
+  },
+  {
+   "raw": "100 γρ σταγόνες κουβερτούρας",
+   "name": "chocolate chips",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  }
+ ]
+}

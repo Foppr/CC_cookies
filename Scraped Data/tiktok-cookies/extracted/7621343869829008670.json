@@ -1,0 +1,92 @@
+{
+ "recipe_name": "Grandma's Sour Cream Sugar Cookies",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "1 Cup Soft Butter",
+   "name": "butter",
+   "quantity": 1,
+   "unit": "cup",
+   "note": "softened"
+  },
+  {
+   "raw": "1 1/2 Cups Sugar",
+   "name": "granulated sugar",
+   "quantity": 1.5,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "2 Eggs",
+   "name": "egg",
+   "quantity": 2,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 Cup Sour Cream",
+   "name": "sour cream",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 1/2 TSP Vanilla",
+   "name": "vanilla extract",
+   "quantity": 1.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "4 1/2 Cups Flour",
+   "name": "all-purpose flour",
+   "quantity": 4.5,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 TSP Salt",
+   "name": "salt",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 TSP Baking Soda",
+   "name": "baking soda",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 TSP Nutmeg",
+   "name": "nutmeg",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "3 TBSP Meringue Powder",
+   "name": "meringue powder",
+   "quantity": 3,
+   "unit": "tbsp",
+   "note": "icing"
+  },
+  {
+   "raw": "1/2 cup Warm Water",
+   "name": "water",
+   "quantity": 0.5,
+   "unit": "cup",
+   "note": "icing"
+  },
+  {
+   "raw": "4 Cups Powdered Sugar",
+   "name": "powdered sugar",
+   "quantity": 4,
+   "unit": "cup",
+   "note": "icing"
+  }
+ ]
+}

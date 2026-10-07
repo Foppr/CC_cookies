@@ -1,0 +1,127 @@
+{
+ "recipe_name": "Frosted Cinnamon Roll Cookies",
+ "cookie_type": "cinnamon",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "3 tablespoons (42 g) salted butter, softened",
+   "name": "salted butter",
+   "quantity": 42,
+   "unit": "g",
+   "note": "swirl"
+  },
+  {
+   "raw": "70 g brown sugar, packed",
+   "name": "brown sugar",
+   "quantity": 70,
+   "unit": "g",
+   "note": "swirl"
+  },
+  {
+   "raw": "2 1/4 tsps cinnamon",
+   "name": "cinnamon",
+   "quantity": 2.25,
+   "unit": "tsp",
+   "note": "swirl"
+  },
+  {
+   "raw": "1/2 cup (113 g) unsalted butter",
+   "name": "unsalted butter",
+   "quantity": 113,
+   "unit": "g",
+   "note": "room temperature"
+  },
+  {
+   "raw": "1/2 cup (100 g) granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 large egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": "room temperature"
+  },
+  {
+   "raw": "1 teaspoons vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 1/2 cups (180 g) all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 180,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1/2 teaspoon baking powder",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp cornstarch",
+   "name": "cornstarch",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "heaping 1/4 teaspoon salt",
+   "name": "salt",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "2 ounces cream cheese, softened",
+   "name": "cream cheese",
+   "quantity": 2,
+   "unit": "oz",
+   "note": "frosting"
+  },
+  {
+   "raw": "4 Tablespoons unsalted butter, softened",
+   "name": "unsalted butter",
+   "quantity": 4,
+   "unit": "tbsp",
+   "note": "frosting"
+  },
+  {
+   "raw": "1 1/2 cups powdered sugar",
+   "name": "powdered sugar",
+   "quantity": 1.5,
+   "unit": "cup",
+   "note": "frosting"
+  },
+  {
+   "raw": "1/2 teaspoon vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": "frosting"
+  },
+  {
+   "raw": "1 teaspoon milk or cream",
+   "name": "milk",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": "frosting"
+  },
+  {
+   "raw": "Ground cinnamon, for sprinkling",
+   "name": "cinnamon",
+   "quantity": null,
+   "unit": null,
+   "note": "topping"
+  }
+ ]
+}

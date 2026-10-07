@@ -1,0 +1,78 @@
+{
+ "recipe_name": "Freezer Cookie Dough Chocolate Chunk Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "150g plain flour",
+   "name": "all-purpose flour",
+   "quantity": 150,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "½ tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "100g granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "160g soft light brown sugar",
+   "name": "light brown sugar",
+   "quantity": 160,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "½ tsp salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": "plus flaky salt to finish"
+  },
+  {
+   "raw": "115g melted unsalted butter",
+   "name": "unsalted butter",
+   "quantity": 115,
+   "unit": "g",
+   "note": "melted"
+  },
+  {
+   "raw": "1 egg / flax egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": "or flax egg"
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "80g milk chocolate",
+   "name": "milk chocolate",
+   "quantity": 80,
+   "unit": "g",
+   "note": "chopped"
+  },
+  {
+   "raw": "80g dark chocolate",
+   "name": "dark chocolate",
+   "quantity": 80,
+   "unit": "g",
+   "note": "chopped"
+  }
+ ]
+}

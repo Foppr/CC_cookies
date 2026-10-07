@@ -1,0 +1,64 @@
+{
+ "recipe_name": "Classic Vanilla Cut-Out Sugar Cookies",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "1 cup (227 g) unsalted butter, softened",
+   "name": "unsalted butter",
+   "quantity": 227,
+   "unit": "g",
+   "note": "softened"
+  },
+  {
+   "raw": "1 cup (200 g) sugar",
+   "name": "granulated sugar",
+   "quantity": 200,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 large egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "2 tsp (10 ml) vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "¼ tsp baking powder",
+   "name": "baking powder",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 tbsp (8 g) cornstarch",
+   "name": "cornstarch",
+   "quantity": 8,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "½ tsp salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "2¾ cups + 1 tbsp (350 g) all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 350,
+   "unit": "g",
+   "note": null
+  }
+ ]
+}

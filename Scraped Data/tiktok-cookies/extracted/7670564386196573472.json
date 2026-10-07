@@ -1,0 +1,85 @@
+{
+ "recipe_name": "Brown Butter Macadamia White Chocolate Cookies",
+ "cookie_type": "white chocolate",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "120 gram roomboter",
+   "name": "butter",
+   "quantity": 120,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "75 gram kristalsuiker",
+   "name": "granulated sugar",
+   "quantity": 75,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "100 gram lichtbruine basterdsuiker",
+   "name": "light brown sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 ei",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1,5 tl vanille extract",
+   "name": "vanilla extract",
+   "quantity": 1.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "240 gram bloem",
+   "name": "all-purpose flour",
+   "quantity": 240,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 tl bakpoeder",
+   "name": "baking powder",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "0,5 tl baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "3 gram zout",
+   "name": "salt",
+   "quantity": 3,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "80 gram gehakte macademianoten",
+   "name": "macadamia nuts",
+   "quantity": 80,
+   "unit": "g",
+   "note": "chopped"
+  },
+  {
+   "raw": "150 gram witte chocolade",
+   "name": "white chocolate",
+   "quantity": 150,
+   "unit": "g",
+   "note": null
+  }
+ ]
+}

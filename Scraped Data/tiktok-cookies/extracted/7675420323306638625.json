@@ -1,0 +1,64 @@
+{
+ "recipe_name": "Brown Butter Cookies (no-chip base)",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "280g salted butter",
+   "name": "salted butter",
+   "quantity": 280,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "1 cup brown sugar",
+   "name": "brown sugar",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 cup white sugar",
+   "name": "granulated sugar",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "2 eggs",
+   "name": "egg",
+   "quantity": 2,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "Vanilla, to taste",
+   "name": "vanilla extract",
+   "quantity": null,
+   "unit": null,
+   "note": "to taste"
+  },
+  {
+   "raw": "1 teaspoon baking soda",
+   "name": "baking soda",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "¼ teaspoon baking powder",
+   "name": "baking powder",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "3 cups all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 3,
+   "unit": "cup",
+   "note": null
+  }
+ ]
+}

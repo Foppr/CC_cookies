@@ -1,0 +1,57 @@
+{
+ "recipe_name": "Soft No-Spread Sugar Cookies (decorating)",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "3 cups all purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 3,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "2 tsp baking powder",
+   "name": "baking powder",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 tsp salt",
+   "name": "salt",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 cup (2 sticks) cold unsalted butter",
+   "name": "unsalted butter",
+   "quantity": 1,
+   "unit": "cup",
+   "note": "cold"
+  },
+  {
+   "raw": "1 cup granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  }
+ ]
+}

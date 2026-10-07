@@ -1,0 +1,57 @@
+{
+ "recipe_name": "No-Chill Cut-Out Sugar Cookies (Katrina's)",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "audio",
+ "ingredients": [
+  {
+   "raw": "One cup or two sticks of butter softened",
+   "name": "butter",
+   "quantity": 1,
+   "unit": "cup",
+   "note": "softened"
+  },
+  {
+   "raw": "One cup of regular sugar",
+   "name": "granulated sugar",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "one egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "one and a half teaspoon vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "Three cups of all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 3,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "Half a teaspoon of salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "Two teaspoons of baking powder",
+   "name": "baking powder",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  }
+ ]
+}

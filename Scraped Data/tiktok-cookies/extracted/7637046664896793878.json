@@ -1,0 +1,78 @@
+{
+ "recipe_name": "Brown Butter NYC Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "175g unsalted butter (125g browned)",
+   "name": "unsalted butter",
+   "quantity": 175,
+   "unit": "g",
+   "note": "browned to 125g"
+  },
+  {
+   "raw": "175g light brown sugar",
+   "name": "light brown sugar",
+   "quantity": 175,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tsp vanilla (optional!)",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": "optional"
+  },
+  {
+   "raw": "275g plain flour",
+   "name": "all-purpose flour",
+   "quantity": 275,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1tbsp cornflour",
+   "name": "cornstarch",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "1 + 1/2 tsp baking powder",
+   "name": "baking powder",
+   "quantity": 1.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp bicarbonate of soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp sea salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "300g chocolate",
+   "name": "chocolate",
+   "quantity": 300,
+   "unit": "g",
+   "note": "chopped bars"
+  }
+ ]
+}

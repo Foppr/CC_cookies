@@ -1,0 +1,113 @@
+{
+ "recipe_name": "Brown Butter Chocolate Chip Cookies (Balkan)",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "280 g glatkog brašna",
+   "name": "all-purpose flour",
+   "quantity": 280,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "¼ kašičice sode bikarbone",
+   "name": "baking soda",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "½ kašičice praška za pecivo",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 kašičica gustina",
+   "name": "cornstarch",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "200 g tamnog smeđeg šećera",
+   "name": "dark brown sugar",
+   "quantity": 200,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "40 g kristal šećera",
+   "name": "granulated sugar",
+   "quantity": 40,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 jaje",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": "room temperature"
+  },
+  {
+   "raw": "1 žumanjak",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "225 g maslaca",
+   "name": "butter",
+   "quantity": 225,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "1 kašika paste od vanilije",
+   "name": "vanilla bean paste",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "150g čokoladnih kapljica",
+   "name": "chocolate chips",
+   "quantity": 150,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "85 g sjeckane čokolade",
+   "name": "chocolate",
+   "quantity": 85,
+   "unit": "g",
+   "note": "chopped"
+  },
+  {
+   "raw": "prstohvat soli",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "prstohvat cimeta",
+   "name": "cinnamon",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "½ kašičice instant kafe",
+   "name": "espresso powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  }
+ ]
+}

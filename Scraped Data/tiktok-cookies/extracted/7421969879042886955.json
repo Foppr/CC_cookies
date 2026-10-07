@@ -1,0 +1,36 @@
+{
+ "recipe_name": "Healthy Banana Breakfast Cookies",
+ "cookie_type": "breakfast",
+ "is_recipe": true,
+ "source": "audio",
+ "ingredients": [
+  {
+   "raw": "two mashed bananas",
+   "name": "banana",
+   "quantity": 2,
+   "unit": null,
+   "note": "mashed"
+  },
+  {
+   "raw": "half a cup of flaxseed meal",
+   "name": "flaxseed meal",
+   "quantity": 0.5,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "three tablespoons of peanut butter",
+   "name": "peanut butter",
+   "quantity": 3,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "dark chocolate chips",
+   "name": "dark chocolate chips",
+   "quantity": null,
+   "unit": null,
+   "note": null
+  }
+ ]
+}

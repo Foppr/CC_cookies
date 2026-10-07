@@ -1,0 +1,64 @@
+{
+ "recipe_name": "Two Big Healthy PB Chocolate Chip Cookies",
+ "cookie_type": "healthy",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "50g peanut butter",
+   "name": "peanut butter",
+   "quantity": 50,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 egg white",
+   "name": "egg white",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "30g flour",
+   "name": "all-purpose flour",
+   "quantity": 30,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "10g coconut sugar",
+   "name": "coconut sugar",
+   "quantity": 10,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "4,5g baking powder",
+   "name": "baking powder",
+   "quantity": 4.5,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "8g dark chocolate chips",
+   "name": "dark chocolate chips",
+   "quantity": 8,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "vanilla",
+   "name": "vanilla extract",
+   "quantity": null,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "a pinch of salt",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  }
+ ]
+}

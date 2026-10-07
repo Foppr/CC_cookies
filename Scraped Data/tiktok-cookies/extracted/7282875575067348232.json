@@ -1,0 +1,71 @@
+{
+ "recipe_name": "NYC-Style Cookies (Arabic)",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "100 غرام زبده",
+   "name": "butter",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "ربع كوب سكر ابيض",
+   "name": "granulated sugar",
+   "quantity": 0.25,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "كوب الاثلث سكر بني",
+   "name": "brown sugar",
+   "quantity": 0.333,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 بيض",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "غطا فانيليا",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "capful",
+   "note": null
+  },
+  {
+   "raw": "ملعقه صغيره نشا",
+   "name": "cornstarch",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "ملعقه صغيره بكنج الصودا",
+   "name": "baking soda",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "كوب وربع دقيق منخول",
+   "name": "all-purpose flour",
+   "quantity": 1.25,
+   "unit": "cup",
+   "note": "sifted"
+  },
+  {
+   "raw": "شوكلت بلجيكي",
+   "name": "chocolate",
+   "quantity": null,
+   "unit": null,
+   "note": "Belgian"
+  }
+ ]
+}

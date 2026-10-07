@@ -1,0 +1,71 @@
+{
+ "recipe_name": "Brownie Cookies",
+ "cookie_type": "brownie",
+ "is_recipe": true,
+ "source": "audio",
+ "ingredients": [
+  {
+   "raw": "116 grams of plain flour",
+   "name": "all-purpose flour",
+   "quantity": 116,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "a teaspoon of baking powder",
+   "name": "baking powder",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "three large eggs",
+   "name": "egg",
+   "quantity": 3,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "250 grams of granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 250,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "a teaspoon of salt",
+   "name": "salt",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "a tablespoon of canola oil",
+   "name": "vegetable oil",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "226 grams of dark chocolate",
+   "name": "dark chocolate",
+   "quantity": 226,
+   "unit": "g",
+   "note": "melted"
+  },
+  {
+   "raw": "70 grams of butter",
+   "name": "butter",
+   "quantity": 70,
+   "unit": "g",
+   "note": "melted"
+  },
+  {
+   "raw": "25 grams of cocoa powder",
+   "name": "cocoa powder",
+   "quantity": 25,
+   "unit": "g",
+   "note": null
+  }
+ ]
+}

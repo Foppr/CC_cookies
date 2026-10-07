@@ -1,0 +1,64 @@
+{
+ "recipe_name": "Banana Oat Protein Cookies",
+ "cookie_type": "healthy",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "100g banana",
+   "name": "banana",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "70g rolled oats",
+   "name": "rolled oats",
+   "quantity": 70,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "30g whey protein",
+   "name": "protein powder",
+   "quantity": 30,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "15g peanut butter",
+   "name": "peanut butter",
+   "quantity": 15,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 egg white (35g)",
+   "name": "egg white",
+   "quantity": 35,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "3g baking powder",
+   "name": "baking powder",
+   "quantity": 3,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "10g walnuts",
+   "name": "walnuts",
+   "quantity": 10,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "Optional: vanilla, cinnamon, orange zest",
+   "name": "cinnamon",
+   "quantity": null,
+   "unit": null,
+   "note": "optional, with vanilla and orange zest"
+  }
+ ]
+}

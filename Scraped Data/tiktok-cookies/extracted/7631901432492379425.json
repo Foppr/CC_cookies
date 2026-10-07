@@ -1,0 +1,85 @@
+{
+ "recipe_name": "Biscoff White Chocolate Cookies",
+ "cookie_type": "biscoff",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "85 g butter, softened",
+   "name": "butter",
+   "quantity": 85,
+   "unit": "g",
+   "note": "softened"
+  },
+  {
+   "raw": "75 g granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 75,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "75 g brown sugar",
+   "name": "brown sugar",
+   "quantity": 75,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "½ tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "180 g all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 180,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "½ tsp baking powder",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "½ tsp salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "100 g white chocolate",
+   "name": "white chocolate",
+   "quantity": 100,
+   "unit": "g",
+   "note": "plus extra for topping"
+  },
+  {
+   "raw": "50 g Biscoff Cookies",
+   "name": "lotus biscoff biscuits",
+   "quantity": 50,
+   "unit": "g",
+   "note": "plus extra for topping"
+  },
+  {
+   "raw": "melted biscoff spread",
+   "name": "speculoos spread",
+   "quantity": null,
+   "unit": null,
+   "note": "drizzle"
+  }
+ ]
+}

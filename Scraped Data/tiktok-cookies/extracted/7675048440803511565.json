@@ -1,0 +1,50 @@
+{
+ "recipe_name": "Healthy Protein Chocolate Chip Cookies",
+ "cookie_type": "healthy",
+ "is_recipe": true,
+ "source": "audio",
+ "ingredients": [
+  {
+   "raw": "one half cup oat flour",
+   "name": "oat flour",
+   "quantity": 0.5,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "one scoop vanilla protein",
+   "name": "protein powder",
+   "quantity": 1,
+   "unit": "scoop",
+   "note": "vanilla"
+  },
+  {
+   "raw": "two whole eggs",
+   "name": "egg",
+   "quantity": 2,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "two tablespoons peanut butter",
+   "name": "peanut butter",
+   "quantity": 2,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "a drizzle of maple syrup",
+   "name": "maple syrup",
+   "quantity": null,
+   "unit": "drizzle",
+   "note": null
+  },
+  {
+   "raw": "dark chocolate",
+   "name": "dark chocolate",
+   "quantity": null,
+   "unit": null,
+   "note": "topping"
+  }
+ ]
+}

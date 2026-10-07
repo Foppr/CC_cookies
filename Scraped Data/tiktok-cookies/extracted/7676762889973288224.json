@@ -1,0 +1,57 @@
+{
+ "recipe_name": "Chewy White Chocolate Cookies (budget)",
+ "cookie_type": "white chocolate",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "100 g roomboter",
+   "name": "butter",
+   "quantity": 100,
+   "unit": "g",
+   "note": "melted"
+  },
+  {
+   "raw": "220 g bloem",
+   "name": "all-purpose flour",
+   "quantity": 220,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 ei",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "120 g bruine suiker",
+   "name": "brown sugar",
+   "quantity": 120,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "20 g vanillesuiker",
+   "name": "vanilla sugar",
+   "quantity": 20,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "Scheutje bakpoeder",
+   "name": "baking powder",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "Witte chocolade chips naar smaak",
+   "name": "white chocolate chips",
+   "quantity": null,
+   "unit": null,
+   "note": "to taste"
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "recipe_name": "1-2-3 Bakery Butter Cookies (ratio)",
+ "cookie_type": "butter",
+ "is_recipe": true,
+ "source": "audio",
+ "ingredients": [
+  {
+   "raw": "1 deel suiker",
+   "name": "granulated sugar",
+   "quantity": 1,
+   "unit": "part",
+   "note": null
+  },
+  {
+   "raw": "2 delen boter",
+   "name": "butter",
+   "quantity": 2,
+   "unit": "part",
+   "note": null
+  },
+  {
+   "raw": "3 delen bloem",
+   "name": "all-purpose flour",
+   "quantity": 3,
+   "unit": "part",
+   "note": null
+  },
+  {
+   "raw": "ei",
+   "name": "egg",
+   "quantity": null,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "bakpoeder",
+   "name": "baking powder",
+   "quantity": null,
+   "unit": null,
+   "note": null
+  }
+ ]
+}

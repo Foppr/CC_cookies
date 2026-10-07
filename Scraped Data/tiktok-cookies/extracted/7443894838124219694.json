@@ -1,0 +1,99 @@
+{
+ "recipe_name": "Cinnamon Roll Cookies",
+ "cookie_type": "cinnamon",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "70g butter softened",
+   "name": "butter",
+   "quantity": 70,
+   "unit": "g",
+   "note": "filling"
+  },
+  {
+   "raw": "1 tbsp cinnamon",
+   "name": "cinnamon",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": "filling"
+  },
+  {
+   "raw": "100g brown sugar",
+   "name": "brown sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": "filling"
+  },
+  {
+   "raw": "227g unsalted butter",
+   "name": "unsalted butter",
+   "quantity": 227,
+   "unit": "g",
+   "note": "room temperature"
+  },
+  {
+   "raw": "1/2 tbsp vanilla bean paste",
+   "name": "vanilla bean paste",
+   "quantity": 0.5,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "290g granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 290,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "2 large eggs",
+   "name": "egg",
+   "quantity": 2,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "420g all purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 420,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 tsp cream of tartar",
+   "name": "cream of tartar",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 tsp baking soda",
+   "name": "baking soda",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "Pinch of salt",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "50g granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 50,
+   "unit": "g",
+   "note": "rolling"
+  },
+  {
+   "raw": "1 tbsp cinnamon",
+   "name": "cinnamon",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": "rolling"
+  }
+ ]
+}

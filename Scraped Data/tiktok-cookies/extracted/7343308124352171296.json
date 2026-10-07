@@ -1,0 +1,141 @@
+{
+ "recipe_name": "Perfect Frosted Sugar Cookies (cake flour)",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "76 grams unsalted butter",
+   "name": "unsalted butter",
+   "quantity": 76,
+   "unit": "g",
+   "note": "room temperature"
+  },
+  {
+   "raw": "3 Tablespoons vegetable oil",
+   "name": "vegetable oil",
+   "quantity": 3,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "150 grams granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 150,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "90 grams powdered sugar",
+   "name": "powdered sugar",
+   "quantity": 90,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": "room temperature"
+  },
+  {
+   "raw": "2 teaspoons vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/8 teaspoon almond extract",
+   "name": "almond extract",
+   "quantity": 0.125,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 Tablespoon milk",
+   "name": "milk",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "274 grams cake flour",
+   "name": "cake flour",
+   "quantity": 274,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1/2 teaspoon baking powder",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/4 teaspoon baking soda",
+   "name": "baking soda",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 teaspoon salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "114 grams unsalted butter",
+   "name": "unsalted butter",
+   "quantity": 114,
+   "unit": "g",
+   "note": "frosting"
+  },
+  {
+   "raw": "360 grams powdered sugar",
+   "name": "powdered sugar",
+   "quantity": 360,
+   "unit": "g",
+   "note": "frosting"
+  },
+  {
+   "raw": "2 Tablespoons milk",
+   "name": "milk",
+   "quantity": 2,
+   "unit": "tbsp",
+   "note": "frosting"
+  },
+  {
+   "raw": "1 teaspoon vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": "frosting"
+  },
+  {
+   "raw": "1/8 teaspoon almond extract",
+   "name": "almond extract",
+   "quantity": 0.125,
+   "unit": "tsp",
+   "note": "frosting"
+  },
+  {
+   "raw": "1/4 teaspoon salt",
+   "name": "salt",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": "frosting"
+  },
+  {
+   "raw": "food coloring",
+   "name": "food coloring",
+   "quantity": null,
+   "unit": null,
+   "note": "frosting"
+  }
+ ]
+}

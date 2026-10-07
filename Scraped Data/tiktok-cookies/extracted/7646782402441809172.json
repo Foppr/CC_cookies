@@ -1,0 +1,99 @@
+{
+ "recipe_name": "Thick Bakery Style Chocolate Chip Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "170g unsalted butter, cold and cubed",
+   "name": "unsalted butter",
+   "quantity": 170,
+   "unit": "g",
+   "note": "cold, cubed"
+  },
+  {
+   "raw": "150g brown sugar",
+   "name": "brown sugar",
+   "quantity": 150,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "70g granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 70,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 egg yolk",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "2 tsp vanilla",
+   "name": "vanilla extract",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "300g all purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 300,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 tbsp cornstarch",
+   "name": "cornstarch",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/4 tsp baking powder",
+   "name": "baking powder",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "3/4 tsp salt",
+   "name": "salt",
+   "quantity": 0.75,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "250g chocolate chips",
+   "name": "chocolate chips",
+   "quantity": 250,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "Flakey sea salt (optional)",
+   "name": "flaky sea salt",
+   "quantity": null,
+   "unit": null,
+   "note": "optional topping"
+  }
+ ]
+}

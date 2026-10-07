@@ -1,0 +1,78 @@
+{
+ "recipe_name": "Chocolate Chip Cookies (7 large)",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "115 g salted butter, room temperature",
+   "name": "salted butter",
+   "quantity": 115,
+   "unit": "g",
+   "note": "room temperature"
+  },
+  {
+   "raw": "80 g brown sugar",
+   "name": "brown sugar",
+   "quantity": 80,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "80 g granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 80,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": "room temperature"
+  },
+  {
+   "raw": "180 g all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 180,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "6 g cornstarch",
+   "name": "cornstarch",
+   "quantity": 6,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "½ tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "4 g salt",
+   "name": "salt",
+   "quantity": 4,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "100 g chocolate chips",
+   "name": "chocolate chips",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "flaky sea salt",
+   "name": "flaky sea salt",
+   "quantity": null,
+   "unit": null,
+   "note": "topping"
+  }
+ ]
+}

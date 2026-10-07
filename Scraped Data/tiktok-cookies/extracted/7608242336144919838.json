@@ -1,0 +1,92 @@
+{
+ "recipe_name": "Soft & Chewy Brown Butter Chocolate Chip Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "¾ cup (170g) unsalted butter, browned",
+   "name": "unsalted butter",
+   "quantity": 170,
+   "unit": "g",
+   "note": "browned to 140g"
+  },
+  {
+   "raw": "2 tsp water or milk",
+   "name": "water",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "¾ cup (165g) brown sugar, packed",
+   "name": "brown sugar",
+   "quantity": 165,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "¼ cup (50g) granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 50,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": "room temperature"
+  },
+  {
+   "raw": "1 egg yolk",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": "room temperature"
+  },
+  {
+   "raw": "2 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1¾ cups (220g) all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 220,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "¾ tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.75,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "½ tsp salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "½ tsp cornstarch",
+   "name": "cornstarch",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 cup (170g) chocolate chips/chopped chocolate",
+   "name": "chocolate chips",
+   "quantity": 170,
+   "unit": "g",
+   "note": "half semi-sweet, half milk"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "recipe_name": "Brown Butter Chocolate Chip Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "1 cup + 2 tbsp unsalted butter",
+   "name": "unsalted butter",
+   "quantity": 1.125,
+   "unit": "cup",
+   "note": "browned"
+  },
+  {
+   "raw": "1 cup light brown sugar",
+   "name": "light brown sugar",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1/2 cup granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 0.5,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "2 eggs, at room temp",
+   "name": "egg",
+   "quantity": 2,
+   "unit": null,
+   "note": "room temperature"
+  },
+  {
+   "raw": "2 tsp vanilla bean paste",
+   "name": "vanilla bean paste",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "2 3/4 cups all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 2.75,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "3/4 tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.75,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 1/2 cups chocolate chips & some chopped chocolate",
+   "name": "chocolate chips",
+   "quantity": 1.5,
+   "unit": "cup",
+   "note": "plus some chopped chocolate"
+  }
+ ]
+}

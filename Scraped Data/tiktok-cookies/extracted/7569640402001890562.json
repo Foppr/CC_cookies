@@ -1,0 +1,78 @@
+{
+ "recipe_name": "Brown Butter Chocolate Chip Cookies (12)",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "120 g butter",
+   "name": "butter",
+   "quantity": 120,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "150 g brown sugar",
+   "name": "brown sugar",
+   "quantity": 150,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "50 g white sugar",
+   "name": "granulated sugar",
+   "quantity": 50,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "160 g flour",
+   "name": "all-purpose flour",
+   "quantity": 160,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "100 g chocolate chips",
+   "name": "chocolate chips",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "100 g chopped chocolate",
+   "name": "chocolate",
+   "quantity": 100,
+   "unit": "g",
+   "note": "chopped"
+  }
+ ]
+}

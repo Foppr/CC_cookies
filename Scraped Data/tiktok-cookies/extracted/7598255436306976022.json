@@ -1,0 +1,85 @@
+{
+ "recipe_name": "Slice-and-Bake Cinnamon Roll Cookies with Maple Glaze",
+ "cookie_type": "cinnamon",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "115g unsalted butter, cold",
+   "name": "unsalted butter",
+   "quantity": 115,
+   "unit": "g",
+   "note": "cold"
+  },
+  {
+   "raw": "190g light brown sugar",
+   "name": "light brown sugar",
+   "quantity": 190,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 cold egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": "cold"
+  },
+  {
+   "raw": "245g plain flour",
+   "name": "all-purpose flour",
+   "quantity": 245,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 tbsp cornflour",
+   "name": "cornstarch",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "½ tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "25g unsalted butter, melted",
+   "name": "unsalted butter",
+   "quantity": 25,
+   "unit": "g",
+   "note": "filling"
+  },
+  {
+   "raw": "60g light brown sugar",
+   "name": "light brown sugar",
+   "quantity": 60,
+   "unit": "g",
+   "note": "filling"
+  },
+  {
+   "raw": "1½ tbsp ground cinnamon",
+   "name": "cinnamon",
+   "quantity": 1.5,
+   "unit": "tbsp",
+   "note": "filling"
+  },
+  {
+   "raw": "100g icing sugar",
+   "name": "powdered sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": "glaze"
+  },
+  {
+   "raw": "1–2 tbsp maple syrup",
+   "name": "maple syrup",
+   "quantity": 1.5,
+   "unit": "tbsp",
+   "note": "glaze"
+  }
+ ]
+}

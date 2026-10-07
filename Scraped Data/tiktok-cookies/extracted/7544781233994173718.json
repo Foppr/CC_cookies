@@ -1,0 +1,92 @@
+{
+ "recipe_name": "Raspberry White Chocolate Cookies (Norwegian)",
+ "cookie_type": "white chocolate",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "300g hvetemel",
+   "name": "all-purpose flour",
+   "quantity": 300,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 ts bakepulver",
+   "name": "baking powder",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 ts vaniljesukker",
+   "name": "vanilla sugar",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1,5 ss maisstivelse",
+   "name": "cornstarch",
+   "quantity": 1.5,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "1ts salt",
+   "name": "salt",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "225g brunt sukker",
+   "name": "brown sugar",
+   "quantity": 225,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "85g hvitt sukker",
+   "name": "granulated sugar",
+   "quantity": 85,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 eggeplomme",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "225g smør (kaldt)",
+   "name": "butter",
+   "quantity": 225,
+   "unit": "g",
+   "note": "cold"
+  },
+  {
+   "raw": "300g hvit hakket sjokolade",
+   "name": "white chocolate",
+   "quantity": 300,
+   "unit": "g",
+   "note": "chopped"
+  },
+  {
+   "raw": "260-270g bringebær",
+   "name": "raspberries",
+   "quantity": 265,
+   "unit": "g",
+   "note": null
+  }
+ ]
+}

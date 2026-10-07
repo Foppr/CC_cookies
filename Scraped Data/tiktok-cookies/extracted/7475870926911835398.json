@@ -1,0 +1,148 @@
+{
+ "recipe_name": "Red Velvet Raspberry Cheesecake Cookies",
+ "cookie_type": "red velvet",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "115g butter (softened)",
+   "name": "butter",
+   "quantity": 115,
+   "unit": "g",
+   "note": "softened"
+  },
+  {
+   "raw": "100g brown sugar",
+   "name": "brown sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "80g granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 80,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tbsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "Red food coloring",
+   "name": "red food coloring",
+   "quantity": null,
+   "unit": null,
+   "note": "to taste"
+  },
+  {
+   "raw": "225g all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 225,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "10g cocoa powder",
+   "name": "cocoa powder",
+   "quantity": 10,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "10g cornstarch",
+   "name": "cornstarch",
+   "quantity": 10,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "4g baking soda",
+   "name": "baking soda",
+   "quantity": 4,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1g baking powder",
+   "name": "baking powder",
+   "quantity": 1,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1/4 tsp salt",
+   "name": "salt",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "100g white chocolate (chopped)",
+   "name": "white chocolate",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "100g mixed chocolate chips (milk & dark)",
+   "name": "chocolate chips",
+   "quantity": 100,
+   "unit": "g",
+   "note": "milk and dark"
+  },
+  {
+   "raw": "100g cream cheese (softened)",
+   "name": "cream cheese",
+   "quantity": 100,
+   "unit": "g",
+   "note": "filling"
+  },
+  {
+   "raw": "25g powdered sugar",
+   "name": "powdered sugar",
+   "quantity": 25,
+   "unit": "g",
+   "note": "filling"
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": "filling"
+  },
+  {
+   "raw": "100g raspberries",
+   "name": "raspberries",
+   "quantity": 100,
+   "unit": "g",
+   "note": "jam"
+  },
+  {
+   "raw": "2 tbsp sugar",
+   "name": "granulated sugar",
+   "quantity": 2,
+   "unit": "tbsp",
+   "note": "jam"
+  },
+  {
+   "raw": "1/2 tsp cornstarch",
+   "name": "cornstarch",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": "jam"
+  }
+ ]
+}

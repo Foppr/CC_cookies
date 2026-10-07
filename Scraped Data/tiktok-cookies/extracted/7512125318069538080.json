@@ -1,0 +1,92 @@
+{
+ "recipe_name": "Ultimate Brown Butter Chocolate Chip Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "both",
+ "ingredients": [
+  {
+   "raw": "180 gr. bloem",
+   "name": "all-purpose flour",
+   "quantity": 180,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "0.5 tsp. baksoda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "0.5 tsp. bakpoeder",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "0.5 tsp. zout",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "115 gr. roomboter",
+   "name": "butter",
+   "quantity": 115,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "100 gr. lichtbruine basterdsuiker",
+   "name": "light brown sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "50 gr. kristalsuiker",
+   "name": "granulated sugar",
+   "quantity": 50,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 ei",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tsp. vanille",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "100 gr. pure chocolade",
+   "name": "dark chocolate",
+   "quantity": 100,
+   "unit": "g",
+   "note": "chopped"
+  },
+  {
+   "raw": "50 gr. melk chocolade",
+   "name": "milk chocolate",
+   "quantity": 50,
+   "unit": "g",
+   "note": "chopped"
+  },
+  {
+   "raw": "Zeezout vlokken",
+   "name": "flaky sea salt",
+   "quantity": null,
+   "unit": null,
+   "note": "optional"
+  }
+ ]
+}

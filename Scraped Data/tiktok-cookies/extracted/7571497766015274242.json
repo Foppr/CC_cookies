@@ -1,0 +1,99 @@
+{
+ "recipe_name": "Biscoff-Stuffed Cookies",
+ "cookie_type": "biscoff",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "10 tsp Biscoff spread (for filling)",
+   "name": "speculoos spread",
+   "quantity": 10,
+   "unit": "tsp",
+   "note": "frozen filling"
+  },
+  {
+   "raw": "120 g melted butter",
+   "name": "butter",
+   "quantity": 120,
+   "unit": "g",
+   "note": "melted"
+  },
+  {
+   "raw": "100 g brown sugar",
+   "name": "brown sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "50 g white sugar",
+   "name": "granulated sugar",
+   "quantity": 50,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "80 g Biscoff spread",
+   "name": "speculoos spread",
+   "quantity": 80,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "200 g flour",
+   "name": "all-purpose flour",
+   "quantity": 200,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp baking powder",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "pinch of salt",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "100 g white chocolate chips",
+   "name": "white chocolate chips",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "100 g crushed Biscoff cookies",
+   "name": "lotus biscoff biscuits",
+   "quantity": 100,
+   "unit": "g",
+   "note": "crushed"
+  }
+ ]
+}

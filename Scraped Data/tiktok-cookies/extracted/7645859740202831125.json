@@ -1,0 +1,113 @@
+{
+ "recipe_name": "High-Protein Low-Calorie Choc Chip Cookies",
+ "cookie_type": "healthy",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "Plain Flour, 100g",
+   "name": "all-purpose flour",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "PB2 Powder, 40g",
+   "name": "peanut butter powder",
+   "quantity": 40,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "Vanilla Protein Powder, 80g",
+   "name": "protein powder",
+   "quantity": 80,
+   "unit": "g",
+   "note": "whey/casein blend"
+  },
+  {
+   "raw": "Granulated Sweetener, 80g",
+   "name": "sweetener",
+   "quantity": 80,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "Corn Starch, 10g",
+   "name": "cornstarch",
+   "quantity": 10,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "Baking Powder, 1/2 tsp",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "Baking Soda, 1/4 tsp",
+   "name": "baking soda",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "Instant Coffee, 1/2 tsp",
+   "name": "espresso powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "Salt, pinch",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "Light Butter, 40g",
+   "name": "light butter",
+   "quantity": 40,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "Brown Sugar Replacement, 60g",
+   "name": "brown sugar substitute",
+   "quantity": 60,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "Unsweetened Applesauce, 135g",
+   "name": "applesauce",
+   "quantity": 135,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "Egg Whites, 200ml",
+   "name": "egg white",
+   "quantity": 200,
+   "unit": "ml",
+   "note": null
+  },
+  {
+   "raw": "Vanilla Extract, 1 tbsp",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "Sugar Free Dark Chocolate Chips, 80g",
+   "name": "dark chocolate chips",
+   "quantity": 80,
+   "unit": "g",
+   "note": "sugar-free"
+  }
+ ]
+}

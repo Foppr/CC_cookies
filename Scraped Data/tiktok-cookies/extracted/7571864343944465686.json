@@ -1,0 +1,85 @@
+{
+ "recipe_name": "Brown Butter Pecan Chocolate Cinnamon Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "150 gr roomboter",
+   "name": "butter",
+   "quantity": 150,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "110 gr bruine basterdsuiker",
+   "name": "light brown sugar",
+   "quantity": 110,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "135 gr kristalsuiker",
+   "name": "granulated sugar",
+   "quantity": 135,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "100 gr pecannoten",
+   "name": "pecans",
+   "quantity": 100,
+   "unit": "g",
+   "note": "toasted"
+  },
+  {
+   "raw": "1 ei",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "200 gr bloem, gezeefd",
+   "name": "all-purpose flour",
+   "quantity": 200,
+   "unit": "g",
+   "note": "sifted"
+  },
+  {
+   "raw": "1 tl bakpoeder",
+   "name": "baking powder",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 tl kaneel",
+   "name": "cinnamon",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 tl vanille",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "Snuf zout",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "120 gr melk chocolade",
+   "name": "milk chocolate",
+   "quantity": 120,
+   "unit": "g",
+   "note": null
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "recipe_name": "Rilakkuma Shaped Sugar Cookies",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "1/2 cup softened unsalted butter",
+   "name": "unsalted butter",
+   "quantity": 0.5,
+   "unit": "cup",
+   "note": "softened"
+  },
+  {
+   "raw": "1/3 cup (67g) granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 67,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "2tbsp brown sugar (28g)",
+   "name": "brown sugar",
+   "quantity": 28,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "vanilla extract",
+   "name": "vanilla extract",
+   "quantity": null,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "almond extract",
+   "name": "almond extract",
+   "quantity": null,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 3/4 cup (215g) a p flour",
+   "name": "all-purpose flour",
+   "quantity": 215,
+   "unit": "g",
+   "note": "or gluten-free"
+  },
+  {
+   "raw": "1/4 tsp salt",
+   "name": "salt",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/4 tsp baking powder",
+   "name": "baking powder",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  }
+ ]
+}

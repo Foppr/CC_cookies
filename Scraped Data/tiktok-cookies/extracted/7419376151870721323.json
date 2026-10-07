@@ -1,0 +1,113 @@
+{
+ "recipe_name": "Churro Cheesecake Cookies",
+ "cookie_type": "churro",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "3 ounces cream cheese, softened",
+   "name": "cream cheese",
+   "quantity": 3,
+   "unit": "oz",
+   "note": "filling"
+  },
+  {
+   "raw": "1½ tablespoon granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 1.5,
+   "unit": "tbsp",
+   "note": "filling"
+  },
+  {
+   "raw": "¼ teaspoon vanilla",
+   "name": "vanilla extract",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": "filling"
+  },
+  {
+   "raw": "½ cup granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 0.5,
+   "unit": "cup",
+   "note": "cinnamon sugar coating"
+  },
+  {
+   "raw": "4 teaspoons cinnamon",
+   "name": "cinnamon",
+   "quantity": 4,
+   "unit": "tsp",
+   "note": "cinnamon sugar coating"
+  },
+  {
+   "raw": "½ cup unsalted butter",
+   "name": "unsalted butter",
+   "quantity": 0.5,
+   "unit": "cup",
+   "note": "browned"
+  },
+  {
+   "raw": "½ cup+1 tablespoon packed brown sugar",
+   "name": "brown sugar",
+   "quantity": 0.5625,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "3 tablespoon granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 3,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "1 large egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "½ teaspoon vanilla",
+   "name": "vanilla extract",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1⅓ cups all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 1.333,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "½ teaspoon baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "½ teaspoon cinnamon",
+   "name": "cinnamon",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "¼ teaspoon salt",
+   "name": "salt",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "store-bought caramel",
+   "name": "caramel sauce",
+   "quantity": null,
+   "unit": null,
+   "note": "for serving"
+  }
+ ]
+}

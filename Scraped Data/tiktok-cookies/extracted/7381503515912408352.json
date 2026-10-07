@@ -1,0 +1,64 @@
+{
+ "recipe_name": "Chipless Chocolate Chip Cookies",
+ "cookie_type": "plain",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "100g unsalted butter, melted",
+   "name": "unsalted butter",
+   "quantity": 100,
+   "unit": "g",
+   "note": "melted"
+  },
+  {
+   "raw": "65g brown sugar",
+   "name": "brown sugar",
+   "quantity": 65,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "55g granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 55,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "160g all purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 160,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  }
+ ]
+}

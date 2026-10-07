@@ -1,0 +1,120 @@
+{
+ "recipe_name": "Bakery Style Chocolate Chip Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "3/4 cup (170g) unsalted butter, cold and cubed",
+   "name": "unsalted butter",
+   "quantity": 170,
+   "unit": "g",
+   "note": "cold, cubed"
+  },
+  {
+   "raw": "3/4 cup (150g) dark brown sugar",
+   "name": "dark brown sugar",
+   "quantity": 150,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1/3 cup (65g) granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 65,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 large egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 egg yolk",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "2 tsp vanilla bean paste",
+   "name": "vanilla bean paste",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "2 cups (240g) all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 240,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 tsp cornstarch",
+   "name": "cornstarch",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 tsp espresso powder",
+   "name": "espresso powder",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 tbsp milk powder",
+   "name": "milk powder",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "1/4 tsp baking powder",
+   "name": "baking powder",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "3/4 tsp salt",
+   "name": "salt",
+   "quantity": 0.75,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 cup semi sweet chocolate chips",
+   "name": "semi-sweet chocolate chips",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "3/4 milk chocolate chips",
+   "name": "milk chocolate chips",
+   "quantity": 0.75,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "flaky sea salt",
+   "name": "flaky sea salt",
+   "quantity": null,
+   "unit": null,
+   "note": "topping"
+  }
+ ]
+}

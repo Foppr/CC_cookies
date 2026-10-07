@@ -1,0 +1,85 @@
+{
+ "recipe_name": "Perfect Brown Butter Chocolate Chip Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "18 tbsp of butter (browned)",
+   "name": "butter",
+   "quantity": 18,
+   "unit": "tbsp",
+   "note": "browned"
+  },
+  {
+   "raw": "3/4 cup granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 0.75,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 cup dark brown sugar",
+   "name": "dark brown sugar",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "2 eggs",
+   "name": "egg",
+   "quantity": 2,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tablespoon vanilla bean paste",
+   "name": "vanilla bean paste",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "3 cups AP flour",
+   "name": "all-purpose flour",
+   "quantity": 3,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "2 teaspoons baking soda",
+   "name": "baking soda",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 teaspoon salt",
+   "name": "salt",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 cup semi sweet chocolate chunks",
+   "name": "semi-sweet chocolate chips",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 cup dark chocolate chunks",
+   "name": "dark chocolate",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "flakey salt optional",
+   "name": "flaky sea salt",
+   "quantity": null,
+   "unit": null,
+   "note": "optional"
+  }
+ ]
+}

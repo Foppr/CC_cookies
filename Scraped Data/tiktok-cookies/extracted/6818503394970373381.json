@@ -1,0 +1,43 @@
+{
+ "recipe_name": "5-Ingredient Peanut Butter Oatmeal Cookies",
+ "cookie_type": "peanut butter",
+ "is_recipe": true,
+ "source": "audio",
+ "ingredients": [
+  {
+   "raw": "two cups of Quaker oats",
+   "name": "rolled oats",
+   "quantity": 2,
+   "unit": "cup",
+   "note": "quick oats"
+  },
+  {
+   "raw": "one cup of brown sugar",
+   "name": "brown sugar",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "two eggs",
+   "name": "egg",
+   "quantity": 2,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "a cup of peanut butter",
+   "name": "peanut butter",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "teaspoon of baking soda",
+   "name": "baking soda",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": "audio says tablespoon then teaspoon"
+  }
+ ]
+}

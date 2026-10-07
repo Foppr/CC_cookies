@@ -1,0 +1,78 @@
+{
+ "recipe_name": "Chewy Vanilla Sugar Cookies (double batch)",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "16 tablespoons (226g) unsalted butter",
+   "name": "unsalted butter",
+   "quantity": 226,
+   "unit": "g",
+   "note": "room temperature"
+  },
+  {
+   "raw": "1 cup (192g) granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 192,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 cup (120g) powdered sugar",
+   "name": "powdered sugar",
+   "quantity": 120,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "2 large eggs",
+   "name": "egg",
+   "quantity": 2,
+   "unit": null,
+   "note": "room temperature"
+  },
+  {
+   "raw": "2 teaspoons vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "2 teaspoons vanilla bean paste optional",
+   "name": "vanilla bean paste",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": "optional"
+  },
+  {
+   "raw": "3 cups (360g) all purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 360,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 teaspoon baking soda",
+   "name": "baking soda",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 teaspoon baking powder",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 teaspoon salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  }
+ ]
+}

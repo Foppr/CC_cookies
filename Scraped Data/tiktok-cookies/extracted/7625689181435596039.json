@@ -1,0 +1,85 @@
+{
+ "recipe_name": "Stuffed Chocolate Chip Cookies",
+ "cookie_type": "stuffed",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "نصف كوب سكر بني ١٠٠ جرام",
+   "name": "brown sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "زبدة ١٠٠ غرام",
+   "name": "butter",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "بيضه",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "ملعقة صغيرة فانيلا",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "كوب وربع دقيق ١٨٥ جرام",
+   "name": "all-purpose flour",
+   "quantity": 185,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "رشه ملح",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "م صغيرة بيكربونات الصودا",
+   "name": "baking soda",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "م صغيرة باكينج باودر",
+   "name": "baking powder",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "م صغيرة نشا",
+   "name": "cornstarch",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "كوب هيرشي حبيبات",
+   "name": "chocolate chips",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "شوكولاتة ٢٠ جرام لكل حبة",
+   "name": "chocolate",
+   "quantity": 20,
+   "unit": "g",
+   "note": "stuffing, per cookie"
+  }
+ ]
+}

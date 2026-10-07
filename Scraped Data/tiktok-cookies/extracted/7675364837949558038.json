@@ -1,0 +1,78 @@
+{
+ "recipe_name": "Kinder White Chocolate Cookies (Romanian)",
+ "cookie_type": "kinder",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "115-120g unt",
+   "name": "butter",
+   "quantity": 117,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "80g zahăr brun Muscovado",
+   "name": "muscovado sugar",
+   "quantity": 80,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "30g zahăr alb",
+   "name": "granulated sugar",
+   "quantity": 30,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "250g făină",
+   "name": "all-purpose flour",
+   "quantity": 250,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "puțină esență de vanilie",
+   "name": "vanilla extract",
+   "quantity": null,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 ou",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 linguriță bicarbonat",
+   "name": "baking soda",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 praf de sare",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "1 ciocolată alba",
+   "name": "white chocolate",
+   "quantity": 1,
+   "unit": "bar",
+   "note": null
+  },
+  {
+   "raw": "ciocolatele Kinder",
+   "name": "kinder chocolate",
+   "quantity": null,
+   "unit": null,
+   "note": null
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "recipe_name": "Tiramisu Cookies",
+ "cookie_type": "tiramisu",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "110 g unsalted butter, melted",
+   "name": "unsalted butter",
+   "quantity": 110,
+   "unit": "g",
+   "note": "melted"
+  },
+  {
+   "raw": "95 g granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 95,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "105 g dark brown sugar",
+   "name": "dark brown sugar",
+   "quantity": 105,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 large egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 tbsp instant espresso powder",
+   "name": "espresso powder",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "225 g all purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 225,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "½ tsp baking powder",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "½ tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "½ tsp salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "180 g mascarpone",
+   "name": "mascarpone",
+   "quantity": 180,
+   "unit": "g",
+   "note": "cream"
+  },
+  {
+   "raw": "115 g heavy cream",
+   "name": "heavy cream",
+   "quantity": 115,
+   "unit": "g",
+   "note": "cream"
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": "cream"
+  },
+  {
+   "raw": "90 g icing sugar",
+   "name": "powdered sugar",
+   "quantity": 90,
+   "unit": "g",
+   "note": "cream"
+  },
+  {
+   "raw": "1 tbsp unsweetened cocoa powder",
+   "name": "cocoa powder",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": "dusting"
+  }
+ ]
+}

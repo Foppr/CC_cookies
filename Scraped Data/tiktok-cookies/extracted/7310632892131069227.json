@@ -1,0 +1,57 @@
+{
+ "recipe_name": "No-Chill Cut-Out Sugar Cookies",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "audio",
+ "ingredients": [
+  {
+   "raw": "two sticks of unsalted butter",
+   "name": "unsalted butter",
+   "quantity": 2,
+   "unit": "stick",
+   "note": "room temperature"
+  },
+  {
+   "raw": "one cup of sugar",
+   "name": "granulated sugar",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "three cups of flour",
+   "name": "all-purpose flour",
+   "quantity": 3,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "half a teaspoon of salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "two teaspoons of baking powder",
+   "name": "baking powder",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "one teaspoon of vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "half a teaspoon of almond extract",
+   "name": "almond extract",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  }
+ ]
+}

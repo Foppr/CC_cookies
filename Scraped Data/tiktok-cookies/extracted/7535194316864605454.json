@@ -1,0 +1,78 @@
+{
+ "recipe_name": "Brown Butter White Chocolate Cookies",
+ "cookie_type": "white chocolate",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "3/4 cups unsalted butter, browned and cooled",
+   "name": "unsalted butter",
+   "quantity": 0.75,
+   "unit": "cup",
+   "note": "browned"
+  },
+  {
+   "raw": "1 cup light brown sugar",
+   "name": "light brown sugar",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1/3 cup white granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 0.333,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "2 large eggs",
+   "name": "egg",
+   "quantity": 2,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 1/2 tbsp vanilla bean paste",
+   "name": "vanilla bean paste",
+   "quantity": 1.5,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "2 1/4 cups all purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 2.25,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp baking powder",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/4 tsp salt",
+   "name": "salt",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "2 Ghirardelli white chocolate barks, chopped",
+   "name": "white chocolate",
+   "quantity": 2,
+   "unit": "bar",
+   "note": "chopped"
+  }
+ ]
+}

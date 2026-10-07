@@ -1,0 +1,92 @@
+{
+ "recipe_name": "Soft Snickerdoodles with Cream Cheese Icing",
+ "cookie_type": "snickerdoodle",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "165g flour",
+   "name": "all-purpose flour",
+   "quantity": 165,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "113g unsalted butter, room temperature",
+   "name": "unsalted butter",
+   "quantity": 113,
+   "unit": "g",
+   "note": "room temperature"
+  },
+  {
+   "raw": "80g granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 80,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 large egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/4 tsp cinnamon",
+   "name": "cinnamon",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "2 tbsp sugar",
+   "name": "granulated sugar",
+   "quantity": 2,
+   "unit": "tbsp",
+   "note": "coating"
+  },
+  {
+   "raw": "1 tbsp cinnamon",
+   "name": "cinnamon",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": "coating"
+  },
+  {
+   "raw": "50g unsalted butter",
+   "name": "unsalted butter",
+   "quantity": 50,
+   "unit": "g",
+   "note": "icing"
+  },
+  {
+   "raw": "90g cream cheese",
+   "name": "cream cheese",
+   "quantity": 90,
+   "unit": "g",
+   "note": "icing"
+  },
+  {
+   "raw": "65g icing sugar",
+   "name": "powdered sugar",
+   "quantity": 65,
+   "unit": "g",
+   "note": "icing"
+  }
+ ]
+}

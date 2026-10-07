@@ -1,0 +1,78 @@
+{
+ "recipe_name": "Dave's Favorite Chocolate Chip Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "1 stick of melted salted butter",
+   "name": "salted butter",
+   "quantity": 1,
+   "unit": "stick",
+   "note": "melted, 85-95°F"
+  },
+  {
+   "raw": "140g dark brown sugar",
+   "name": "dark brown sugar",
+   "quantity": 140,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "70g white sugar",
+   "name": "granulated sugar",
+   "quantity": 70,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 egg yolk",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "15g (1 Tbs) heavy cream",
+   "name": "heavy cream",
+   "quantity": 15,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "5g (1 tsp) vanilla paste",
+   "name": "vanilla bean paste",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "140g all purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 140,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "2g (1/2 tsp) salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "2g (1/2tsp) baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "140g bitter sweet chocolate",
+   "name": "bittersweet chocolate",
+   "quantity": 140,
+   "unit": "g",
+   "note": null
+  }
+ ]
+}

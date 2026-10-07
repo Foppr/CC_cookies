@@ -1,0 +1,99 @@
+{
+ "recipe_name": "Brown Butter Chocolate Chip Cookies (cinnamon & espresso)",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "3/4 cup (113g) butter",
+   "name": "butter",
+   "quantity": 113,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "1 cup (150g) dark brown sugar",
+   "name": "dark brown sugar",
+   "quantity": 150,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1/2 cup (100g) white sugar",
+   "name": "granulated sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "2 eggs",
+   "name": "egg",
+   "quantity": 2,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1/2 tbsp pure vanilla",
+   "name": "vanilla extract",
+   "quantity": 0.5,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "2 cups (250g) flour",
+   "name": "all-purpose flour",
+   "quantity": 250,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp (3g) baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp (1g) baking powder",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp (1g) cinnamon (optional)",
+   "name": "cinnamon",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": "optional"
+  },
+  {
+   "raw": "1/2 tsp (3g) salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp (1g) instant espresso (optional)",
+   "name": "espresso powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": "optional"
+  },
+  {
+   "raw": "1/2 cup (85g) chocolate chips",
+   "name": "chocolate chips",
+   "quantity": 85,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "flakey salt (optional)",
+   "name": "flaky sea salt",
+   "quantity": null,
+   "unit": null,
+   "note": "optional"
+  }
+ ]
+}

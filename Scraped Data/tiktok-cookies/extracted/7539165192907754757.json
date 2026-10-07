@@ -1,0 +1,57 @@
+{
+ "recipe_name": "Crumbl-Style Chocolate Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "мука 185 гр",
+   "name": "all-purpose flour",
+   "quantity": 185,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "яйцо 1 шт",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "сахар 200 гр",
+   "name": "granulated sugar",
+   "quantity": 200,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "сливочное масло 115 гр",
+   "name": "butter",
+   "quantity": 115,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "шоколад 200 гр",
+   "name": "chocolate chips",
+   "quantity": 200,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "щепотка соли",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "щепотка соды",
+   "name": "baking soda",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  }
+ ]
+}

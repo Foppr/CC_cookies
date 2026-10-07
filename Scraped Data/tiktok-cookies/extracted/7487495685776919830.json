@@ -1,0 +1,64 @@
+{
+ "recipe_name": "Kinder Bueno Cookies",
+ "cookie_type": "kinder",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "125 gram ongezouten roomboter",
+   "name": "unsalted butter",
+   "quantity": 125,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "125 gram licht bruine basterdsuiker",
+   "name": "light brown sugar",
+   "quantity": 125,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "100 gram kristalsuiker",
+   "name": "granulated sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "2 eieren",
+   "name": "egg",
+   "quantity": 2,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 theelepel bakpoeder",
+   "name": "baking powder",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "365 gram patentbloem",
+   "name": "all-purpose flour",
+   "quantity": 365,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "200 gram Kinder chocolade",
+   "name": "kinder chocolate",
+   "quantity": 200,
+   "unit": "g",
+   "note": "chopped"
+  },
+  {
+   "raw": "5 Kinder bueno's",
+   "name": "kinder bueno",
+   "quantity": 5,
+   "unit": "piece",
+   "note": "topping"
+  }
+ ]
+}

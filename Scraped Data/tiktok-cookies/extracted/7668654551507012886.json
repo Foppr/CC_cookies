@@ -1,0 +1,78 @@
+{
+ "recipe_name": "Bakery Style Brown Butter Chocolate Chip Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "115g butter",
+   "name": "butter",
+   "quantity": 115,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "160g light brown sugar",
+   "name": "light brown sugar",
+   "quantity": 160,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "40g granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 40,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 large egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "2tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "320g plain flour",
+   "name": "all-purpose flour",
+   "quantity": 320,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1tsp baking powder",
+   "name": "baking powder",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1tsp bicarbonate of soda",
+   "name": "baking soda",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "a pinch of salt",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "250g chocolate chips",
+   "name": "chocolate chips",
+   "quantity": 250,
+   "unit": "g",
+   "note": null
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "recipe_name": "Bakery-Style Brown Butter Chocolate Chip Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "125 g salted butter, melted",
+   "name": "salted butter",
+   "quantity": 125,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "100 g granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "50 g brown sugar",
+   "name": "brown sugar",
+   "quantity": 50,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 large egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "8 g vanilla sugar",
+   "name": "vanilla sugar",
+   "quantity": 8,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "177 g flour",
+   "name": "all-purpose flour",
+   "quantity": 177,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "2 g baking soda",
+   "name": "baking soda",
+   "quantity": 2,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "3 g baking powder",
+   "name": "baking powder",
+   "quantity": 3,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "110 g dark chocolate, chopped",
+   "name": "dark chocolate",
+   "quantity": 110,
+   "unit": "g",
+   "note": "chopped"
+  }
+ ]
+}

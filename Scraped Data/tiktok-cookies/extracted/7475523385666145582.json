@@ -1,0 +1,43 @@
+{
+ "recipe_name": "3-Ingredient Protein Cookies",
+ "cookie_type": "healthy",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "1 small ripe banana",
+   "name": "banana",
+   "quantity": 1,
+   "unit": null,
+   "note": "mashed"
+  },
+  {
+   "raw": "1/2 cup natural peanut butter",
+   "name": "peanut butter",
+   "quantity": 0.5,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1/2 cup vanilla protein powder",
+   "name": "protein powder",
+   "quantity": 0.5,
+   "unit": "cup",
+   "note": "vanilla"
+  },
+  {
+   "raw": "chocolate chips (optional)",
+   "name": "chocolate chips",
+   "quantity": null,
+   "unit": null,
+   "note": "optional"
+  },
+  {
+   "raw": "sea salt (optional)",
+   "name": "flaky sea salt",
+   "quantity": null,
+   "unit": null,
+   "note": "optional"
+  }
+ ]
+}

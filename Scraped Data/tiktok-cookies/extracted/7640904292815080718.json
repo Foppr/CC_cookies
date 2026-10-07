@@ -1,0 +1,92 @@
+{
+ "recipe_name": "Bakery Style Oreo Stuffed Cookies",
+ "cookie_type": "cookies and cream",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "¾ cup salted butter, softened (170 g)",
+   "name": "salted butter",
+   "quantity": 170,
+   "unit": "g",
+   "note": "softened"
+  },
+  {
+   "raw": "¾ cup packed brown sugar (150 g)",
+   "name": "brown sugar",
+   "quantity": 150,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "¼ cup granulated sugar (50 g)",
+   "name": "granulated sugar",
+   "quantity": 50,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 large egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tsp vanilla",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "2 cups all-purpose flour (240 g)",
+   "name": "all-purpose flour",
+   "quantity": 240,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 tbsp cornstarch (8 g)",
+   "name": "cornstarch",
+   "quantity": 8,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "½ tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "¼ tsp salt",
+   "name": "salt",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "oreos",
+   "name": "oreo cookies",
+   "quantity": null,
+   "unit": null,
+   "note": "whole and chopped"
+  },
+  {
+   "raw": "white chocolate",
+   "name": "white chocolate",
+   "quantity": null,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "cookie and cream chocolate",
+   "name": "cookies and cream chocolate",
+   "quantity": null,
+   "unit": null,
+   "note": null
+  }
+ ]
+}

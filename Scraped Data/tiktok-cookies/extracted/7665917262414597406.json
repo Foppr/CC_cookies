@@ -1,0 +1,106 @@
+{
+ "recipe_name": "Brown Butter Bakery-Style Mini M&M Cookies",
+ "cookie_type": "m&m",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "227g (1 cup) salted butter",
+   "name": "salted butter",
+   "quantity": 227,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "220g (1 cup packed) light brown sugar",
+   "name": "light brown sugar",
+   "quantity": 220,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "100g (½ cup) granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 large egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": "room temperature"
+  },
+  {
+   "raw": "2 large egg yolk",
+   "name": "egg yolk",
+   "quantity": 2,
+   "unit": null,
+   "note": "room temperature"
+  },
+  {
+   "raw": "2 teaspoons vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "45g whole milk",
+   "name": "milk",
+   "quantity": 45,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "360g (3 cups) all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 360,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "15g (2 tablespoons) cornstarch",
+   "name": "cornstarch",
+   "quantity": 15,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "10g (2 tablespoons) nonfat dry milk powder",
+   "name": "milk powder",
+   "quantity": 10,
+   "unit": "g",
+   "note": "optional"
+  },
+  {
+   "raw": "1 teaspoon baking powder",
+   "name": "baking powder",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "¾ teaspoon baking soda",
+   "name": "baking soda",
+   "quantity": 0.75,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "½ teaspoon fine sea salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "200g Mini M&M's",
+   "name": "m&ms",
+   "quantity": 200,
+   "unit": "g",
+   "note": null
+  }
+ ]
+}

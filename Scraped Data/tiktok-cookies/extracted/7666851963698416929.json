@@ -1,0 +1,64 @@
+{
+ "recipe_name": "Apple-Shaped Butter Cookies (small batch)",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "110g soften butter",
+   "name": "butter",
+   "quantity": 110,
+   "unit": "g",
+   "note": "softened"
+  },
+  {
+   "raw": "2-3 tbs sugar",
+   "name": "granulated sugar",
+   "quantity": 2.5,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "1 egg yolk",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "Vanilla (vanilla sugar)",
+   "name": "vanilla sugar",
+   "quantity": null,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "180g flour",
+   "name": "all-purpose flour",
+   "quantity": 180,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "A pinch of baking powder",
+   "name": "baking powder",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "A pinch of salt",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "red and green food coloring",
+   "name": "food coloring",
+   "quantity": null,
+   "unit": null,
+   "note": "red and green"
+  }
+ ]
+}

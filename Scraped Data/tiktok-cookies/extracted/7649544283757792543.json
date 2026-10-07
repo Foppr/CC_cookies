@@ -1,0 +1,57 @@
+{
+ "recipe_name": "Simple Chocolate Chip Cookies (1 of 9 in post)",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "1 cup flour",
+   "name": "all-purpose flour",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1/2 cup butter",
+   "name": "butter",
+   "quantity": 0.5,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1/2 cup brown sugar",
+   "name": "brown sugar",
+   "quantity": 0.5,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 cup chocolate chips",
+   "name": "chocolate chips",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  }
+ ]
+}

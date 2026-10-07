@@ -1,0 +1,71 @@
+{
+ "recipe_name": "Homemade Chewy Sugar Cookies",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "1 cup unsalted butter, melted and cooled",
+   "name": "unsalted butter",
+   "quantity": 1,
+   "unit": "cup",
+   "note": "melted"
+  },
+  {
+   "raw": "1 2/3 cups white granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 1.667,
+   "unit": "cup",
+   "note": "plus extra for rolling"
+  },
+  {
+   "raw": "1 large egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": "room temperature"
+  },
+  {
+   "raw": "1 large egg yolk",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 1/2 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "2 1/2 cups all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 2.5,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 tsp baking soda",
+   "name": "baking soda",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp baking powder",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/4 tsp salt",
+   "name": "salt",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  }
+ ]
+}

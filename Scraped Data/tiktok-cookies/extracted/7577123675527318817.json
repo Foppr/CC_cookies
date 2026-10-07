@@ -1,0 +1,78 @@
+{
+ "recipe_name": "Kinder Bueno Cookies",
+ "cookie_type": "kinder",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "125 g super zachte ongezouten roomboter",
+   "name": "unsalted butter",
+   "quantity": 125,
+   "unit": "g",
+   "note": "very soft"
+  },
+  {
+   "raw": "100 g lichte basterdsuiker",
+   "name": "light brown sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "75 g kristalsuiker",
+   "name": "granulated sugar",
+   "quantity": 75,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 ei",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tl vanille-extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "300 g (gezeefde) bloem",
+   "name": "all-purpose flour",
+   "quantity": 300,
+   "unit": "g",
+   "note": "sifted"
+  },
+  {
+   "raw": "1½ tl bakpoeder",
+   "name": "baking powder",
+   "quantity": 1.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "½ tl baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "½ tl zout",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "200 gr Kinder chocolade",
+   "name": "kinder chocolate",
+   "quantity": 200,
+   "unit": "g",
+   "note": "chopped, plus topping"
+  }
+ ]
+}

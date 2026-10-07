@@ -1,0 +1,120 @@
+{
+ "recipe_name": "Kinder Bueno Stuffed Cookies",
+ "cookie_type": "kinder",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "227g cold European unsalted butter, cubed",
+   "name": "unsalted butter",
+   "quantity": 227,
+   "unit": "g",
+   "note": "cold, cubed"
+  },
+  {
+   "raw": "180g brown sugar",
+   "name": "brown sugar",
+   "quantity": 180,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "110g granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 110,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 large egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 large egg yolk",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tbsp vanilla bean paste",
+   "name": "vanilla bean paste",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "405g all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 405,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 tsp espresso powder",
+   "name": "espresso powder",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 tsp baking powder",
+   "name": "baking powder",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 tsp cornstarch",
+   "name": "cornstarch",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 cup semi sweet chocolate chips",
+   "name": "semi-sweet chocolate chips",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "5–6 Kinder Bueno bars, chopped",
+   "name": "kinder bueno",
+   "quantity": 5.5,
+   "unit": "piece",
+   "note": "chopped, plus topping"
+  },
+  {
+   "raw": "3/4 cup hazelnut chocolate spread",
+   "name": "hazelnut spread",
+   "quantity": 0.75,
+   "unit": "cup",
+   "note": "frozen filling"
+  },
+  {
+   "raw": "Kinder wafer chocolate",
+   "name": "kinder chocolate",
+   "quantity": null,
+   "unit": null,
+   "note": "filling"
+  }
+ ]
+}

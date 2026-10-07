@@ -1,0 +1,85 @@
+{
+ "recipe_name": "Sourdough Discard Brown Butter Chocolate Chip Cookies",
+ "cookie_type": "sourdough",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "110g butter, browned",
+   "name": "butter",
+   "quantity": 110,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "188g all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 188,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "½ tsp baking powder",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "½ tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "¾ tsp salt",
+   "name": "salt",
+   "quantity": 0.75,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "110g sugar",
+   "name": "granulated sugar",
+   "quantity": 110,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "110g light brown sugar",
+   "name": "light brown sugar",
+   "quantity": 110,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 large egg yolk",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": "room temperature"
+  },
+  {
+   "raw": "115g sourdough starter discard",
+   "name": "sourdough discard",
+   "quantity": 115,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "2 tsp vanilla paste",
+   "name": "vanilla bean paste",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "Mix of semi-sweet, dark, and/or milk chocolate chips",
+   "name": "chocolate chips",
+   "quantity": null,
+   "unit": null,
+   "note": null
+  }
+ ]
+}

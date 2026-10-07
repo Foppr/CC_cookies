@@ -1,0 +1,92 @@
+{
+ "recipe_name": "Levain-Inspired Two-Chip Chocolate Chip Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "2 1/4 cups (313g) all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 313,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 ½ teaspoons baking powder",
+   "name": "baking powder",
+   "quantity": 1.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 teaspoon baking soda",
+   "name": "baking soda",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 teaspoon cornstarch",
+   "name": "cornstarch",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "3/4 cup (150g) dark brown sugar",
+   "name": "dark brown sugar",
+   "quantity": 150,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1/4 cup (50g) granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 50,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "2 cold eggs",
+   "name": "egg",
+   "quantity": 2,
+   "unit": null,
+   "note": "cold"
+  },
+  {
+   "raw": "1 tablespoons vanilla bean paste",
+   "name": "vanilla bean paste",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "1 cup (225g) unsalted butter",
+   "name": "unsalted butter",
+   "quantity": 225,
+   "unit": "g",
+   "note": "slightly softened"
+  },
+  {
+   "raw": "Pinch of salt",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "1 1/4 cup (215g) semi-sweet chocolate chips",
+   "name": "semi-sweet chocolate chips",
+   "quantity": 215,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "3/4 cup (180 g) dark chocolate chips",
+   "name": "dark chocolate chips",
+   "quantity": 180,
+   "unit": "g",
+   "note": null
+  }
+ ]
+}

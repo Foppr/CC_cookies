@@ -1,0 +1,71 @@
+{
+ "recipe_name": "Soft-Bake Sugar Cookies with Heavy Cream",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "1 cup room temp butter",
+   "name": "butter",
+   "quantity": 1,
+   "unit": "cup",
+   "note": "room temperature"
+  },
+  {
+   "raw": "1 cup granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 1,
+   "unit": "cup",
+   "note": "plus extra for rolling"
+  },
+  {
+   "raw": "4 tbsp brown sugar",
+   "name": "brown sugar",
+   "quantity": 4,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tbsp vanilla",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "2 tbsp heavy cream",
+   "name": "heavy cream",
+   "quantity": 2,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "2 ¾ cups flour",
+   "name": "all-purpose flour",
+   "quantity": 2.75,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 tsp baking soda",
+   "name": "baking soda",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "½ tsp baking powder",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  }
+ ]
+}

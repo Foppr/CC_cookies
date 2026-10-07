@@ -1,0 +1,85 @@
+{
+ "recipe_name": "Valentine's Sugar Cookies with Royal Icing",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "1 cup softened unsalted butter",
+   "name": "unsalted butter",
+   "quantity": 1,
+   "unit": "cup",
+   "note": "softened"
+  },
+  {
+   "raw": "1 cup sugar",
+   "name": "granulated sugar",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 cold egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": "cold"
+  },
+  {
+   "raw": "1 tsp salt",
+   "name": "salt",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "2 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "2 tsp almond extract",
+   "name": "almond extract",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "3 cups flour",
+   "name": "all-purpose flour",
+   "quantity": 3,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "4 cups confectioners sugar",
+   "name": "powdered sugar",
+   "quantity": 4,
+   "unit": "cup",
+   "note": "royal icing"
+  },
+  {
+   "raw": "3 tbsp meringue powder",
+   "name": "meringue powder",
+   "quantity": 3,
+   "unit": "tbsp",
+   "note": "royal icing"
+  },
+  {
+   "raw": "~5 tbsp room temp water",
+   "name": "water",
+   "quantity": 5,
+   "unit": "tbsp",
+   "note": "royal icing"
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": "royal icing"
+  }
+ ]
+}

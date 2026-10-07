@@ -1,0 +1,92 @@
+{
+ "recipe_name": "Holiday Sprinkle Sugar Cookies",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "2 cup (240g) all purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 240,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 tbsp corn starch",
+   "name": "cornstarch",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "1/3 tsp salt",
+   "name": "salt",
+   "quantity": 0.333,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "2 tsp vanilla bean paste",
+   "name": "vanilla bean paste",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/4 cup (50g) light brown sugar",
+   "name": "light brown sugar",
+   "quantity": 50,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "3/4 cup (150g) granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 150,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": "room temperature"
+  },
+  {
+   "raw": "1 egg yolk",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1/4 cup sprinkles",
+   "name": "sprinkles",
+   "quantity": 0.25,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "3/4 cup (170g) unsalted butter, melted",
+   "name": "unsalted butter",
+   "quantity": 170,
+   "unit": "g",
+   "note": "melted"
+  },
+  {
+   "raw": "4 tbsp granulated sugar, for rolling",
+   "name": "granulated sugar",
+   "quantity": 4,
+   "unit": "tbsp",
+   "note": "rolling"
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "recipe_name": "Healthy Honey Peanut Butter Oatmeal Cookies",
+ "cookie_type": "healthy",
+ "is_recipe": true,
+ "source": "audio",
+ "ingredients": [
+  {
+   "raw": "two cups of oats",
+   "name": "rolled oats",
+   "quantity": 2,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "one and one-half teaspoon of baking powder",
+   "name": "baking powder",
+   "quantity": 1.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "one-eighth teaspoon of baking soda",
+   "name": "baking soda",
+   "quantity": 0.125,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "one-fourth teaspoon of cinnamon",
+   "name": "cinnamon",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "one-half teaspoon of salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "a half cup of creamy peanut butter",
+   "name": "peanut butter",
+   "quantity": 0.5,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "one large egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": "room temperature"
+  },
+  {
+   "raw": "one teaspoon vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "one-half cup of honey",
+   "name": "honey",
+   "quantity": 0.5,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "a fourth cup of chocolate chips",
+   "name": "chocolate chips",
+   "quantity": 0.25,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "a fourth cup of peanut butter chips",
+   "name": "peanut butter chips",
+   "quantity": 0.25,
+   "unit": "cup",
+   "note": null
+  }
+ ]
+}

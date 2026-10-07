@@ -1,0 +1,92 @@
+{
+ "recipe_name": "White Chocolate Raspberry Macadamia Cookies",
+ "cookie_type": "white chocolate",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "175 gram roomboter",
+   "name": "butter",
+   "quantity": 175,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "180 gram lichte basterdsuiker",
+   "name": "light brown sugar",
+   "quantity": 180,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "50 gram witte kristalsuiker",
+   "name": "granulated sugar",
+   "quantity": 50,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "220 gram bloem",
+   "name": "all-purpose flour",
+   "quantity": 220,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 eidooier",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 ei",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 theelepel bakingsoda",
+   "name": "baking soda",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 theelepel vanillearoma",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "snufje zout",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "200 gr witte chocola",
+   "name": "white chocolate",
+   "quantity": 200,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "100 gr diepvries frambozen",
+   "name": "frozen raspberries",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "handje gehakte macademianoten",
+   "name": "macadamia nuts",
+   "quantity": null,
+   "unit": "handful",
+   "note": "chopped"
+  }
+ ]
+}

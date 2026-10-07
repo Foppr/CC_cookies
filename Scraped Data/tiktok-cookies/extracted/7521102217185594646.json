@@ -1,0 +1,99 @@
+{
+ "recipe_name": "Chocolate Chip Brookies",
+ "cookie_type": "brookie",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "115g butter",
+   "name": "butter",
+   "quantity": 115,
+   "unit": "g",
+   "note": "melted"
+  },
+  {
+   "raw": "120g light brown sugar",
+   "name": "light brown sugar",
+   "quantity": 120,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "50g granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 50,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 medium egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp baking powder",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp bicarbonate of soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 tsp salt",
+   "name": "salt",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "75g plain flour",
+   "name": "all-purpose flour",
+   "quantity": 75,
+   "unit": "g",
+   "note": "brownie half"
+  },
+  {
+   "raw": "15g cocoa powder",
+   "name": "cocoa powder",
+   "quantity": 15,
+   "unit": "g",
+   "note": "brownie half"
+  },
+  {
+   "raw": "100g white chocolate chunks",
+   "name": "white chocolate",
+   "quantity": 100,
+   "unit": "g",
+   "note": "brownie half"
+  },
+  {
+   "raw": "90g plain flour",
+   "name": "all-purpose flour",
+   "quantity": 90,
+   "unit": "g",
+   "note": "cookie half"
+  },
+  {
+   "raw": "100g milk chocolate chunks",
+   "name": "milk chocolate",
+   "quantity": 100,
+   "unit": "g",
+   "note": "cookie half"
+  }
+ ]
+}

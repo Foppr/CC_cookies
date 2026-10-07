@@ -1,0 +1,85 @@
+{
+ "recipe_name": "Gluten-Free Brown Butter Chocolate Chip Cookies",
+ "cookie_type": "gluten-free",
+ "is_recipe": true,
+ "source": "audio",
+ "ingredients": [
+  {
+   "raw": "3 quarters of a cup of butter",
+   "name": "butter",
+   "quantity": 0.75,
+   "unit": "cup",
+   "note": "browned"
+  },
+  {
+   "raw": "a cup of light brown sugar",
+   "name": "light brown sugar",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "a quarter cup of white sugar",
+   "name": "granulated sugar",
+   "quantity": 0.25,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "one large egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "one egg yolk",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "one tablespoon of vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "one and three quarter cups gluten-free flour",
+   "name": "gluten-free flour",
+   "quantity": 1.75,
+   "unit": "cup",
+   "note": "1:1 baking flour"
+  },
+  {
+   "raw": "three quarter teaspoon baking soda",
+   "name": "baking soda",
+   "quantity": 0.75,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "a teaspoon salt",
+   "name": "salt",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "two cups of chocolate chips",
+   "name": "chocolate chips",
+   "quantity": 2,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "flaky sea salt",
+   "name": "flaky sea salt",
+   "quantity": null,
+   "unit": null,
+   "note": "topping"
+  }
+ ]
+}

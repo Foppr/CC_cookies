@@ -1,0 +1,120 @@
+{
+ "recipe_name": "Birthday Cake Cookies with Cream Cheese Frosting",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "115 gr zachte roomboter",
+   "name": "butter",
+   "quantity": 115,
+   "unit": "g",
+   "note": "softened"
+  },
+  {
+   "raw": "100 gr kristalsuiker",
+   "name": "granulated sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "80 gr lichte bastardsuiker",
+   "name": "light brown sugar",
+   "quantity": 80,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 ei",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "2 tl vanille extract",
+   "name": "vanilla extract",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "halve tl amandel extract",
+   "name": "almond extract",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "190gr bloem",
+   "name": "all-purpose flour",
+   "quantity": 190,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "15 gr maizena",
+   "name": "cornstarch",
+   "quantity": 15,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "halve theelepel baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "halve theelepel zout",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "rainbow sprinkles",
+   "name": "sprinkles",
+   "quantity": null,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "100 gr philadelphia",
+   "name": "cream cheese",
+   "quantity": 100,
+   "unit": "g",
+   "note": "frosting"
+  },
+  {
+   "raw": "40 gr boter",
+   "name": "butter",
+   "quantity": 40,
+   "unit": "g",
+   "note": "frosting"
+  },
+  {
+   "raw": "75 gr poedersuiker",
+   "name": "powdered sugar",
+   "quantity": 75,
+   "unit": "g",
+   "note": "frosting"
+  },
+  {
+   "raw": "1 tl vanille",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": "frosting"
+  },
+  {
+   "raw": "snufje zout",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": "frosting"
+  }
+ ]
+}

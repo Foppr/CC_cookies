@@ -1,0 +1,92 @@
+{
+ "recipe_name": "Pink Frosted Sour Cream Sugar Cookies",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "audio",
+ "ingredients": [
+  {
+   "raw": "one stick softened butter",
+   "name": "butter",
+   "quantity": 1,
+   "unit": "stick",
+   "note": "softened; audio says 'one sixth'"
+  },
+  {
+   "raw": "three quarters cup sugar",
+   "name": "granulated sugar",
+   "quantity": 0.75,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "an egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "a little too much vanilla",
+   "name": "vanilla extract",
+   "quantity": null,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "a third of a cup of sour cream",
+   "name": "sour cream",
+   "quantity": 0.333,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "one and a half tablespoons of cornstarch",
+   "name": "cornstarch",
+   "quantity": 1.5,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "a half teaspoon of baking powder",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "a half teaspoon of baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "quarter teaspoon of cream of tartar",
+   "name": "cream of tartar",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "a pinch of salt",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "one and three quarters cups of flour",
+   "name": "all-purpose flour",
+   "quantity": 1.75,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "classic buttercream",
+   "name": "buttercream",
+   "quantity": null,
+   "unit": null,
+   "note": "frosting"
+  }
+ ]
+}

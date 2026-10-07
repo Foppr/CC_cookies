@@ -1,0 +1,50 @@
+{
+ "recipe_name": "Almond Sugar Cookie Dough (Arabic, for decorating)",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "٢٠٠ غم طحين",
+   "name": "all-purpose flour",
+   "quantity": 200,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "٨٠ غم سكر مطحون",
+   "name": "powdered sugar",
+   "quantity": 80,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "٣٠ غم طحين اللوز",
+   "name": "almond flour",
+   "quantity": 30,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "٢ غم ملح",
+   "name": "salt",
+   "quantity": 2,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "١١٠ غم زبدة باردة",
+   "name": "butter",
+   "quantity": 110,
+   "unit": "g",
+   "note": "cold"
+  },
+  {
+   "raw": "٤٠ غم بيض",
+   "name": "egg",
+   "quantity": 40,
+   "unit": "g",
+   "note": "beaten"
+  }
+ ]
+}

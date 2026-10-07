@@ -1,0 +1,92 @@
+{
+ "recipe_name": "Soft-Baked Earl Grey Chocolate Chip Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "115 g ongezouten roomboter",
+   "name": "unsalted butter",
+   "quantity": 115,
+   "unit": "g",
+   "note": "melted with tea"
+  },
+  {
+   "raw": "2 zakjes earl grey thee",
+   "name": "earl grey tea",
+   "quantity": 2,
+   "unit": "bag",
+   "note": null
+  },
+  {
+   "raw": "140 g lichte basterdsuiker",
+   "name": "light brown sugar",
+   "quantity": 140,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "30 g kristalsuiker",
+   "name": "granulated sugar",
+   "quantity": 30,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 ei",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tl vanille-extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "220 g bloem",
+   "name": "all-purpose flour",
+   "quantity": 220,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "4 g zout",
+   "name": "salt",
+   "quantity": 4,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "½ tl bakpoeder",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "½ tl baksoda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "170 g pure chocolate chips",
+   "name": "dark chocolate chips",
+   "quantity": 170,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "6 blokjes witte chocolade",
+   "name": "white chocolate",
+   "quantity": 6,
+   "unit": "piece",
+   "note": "stuffed in center"
+  }
+ ]
+}

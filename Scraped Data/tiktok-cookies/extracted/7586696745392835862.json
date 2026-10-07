@@ -1,0 +1,99 @@
+{
+ "recipe_name": "Christmas Sprinkle Sugar Cookies",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "113 g unsalted butter",
+   "name": "unsalted butter",
+   "quantity": 113,
+   "unit": "g",
+   "note": "room temperature"
+  },
+  {
+   "raw": "150 g granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 150,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "½ large egg",
+   "name": "egg",
+   "quantity": 0.5,
+   "unit": null,
+   "note": "room temperature"
+  },
+  {
+   "raw": "½ large egg yolk",
+   "name": "egg yolk",
+   "quantity": 0.5,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "½ Tbsp semi-skimmed milk",
+   "name": "milk",
+   "quantity": 0.5,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "⅛ tsp almond extract",
+   "name": "almond extract",
+   "quantity": 0.125,
+   "unit": "tsp",
+   "note": "optional"
+  },
+  {
+   "raw": "172½ g all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 172.5,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "¾ tsp baking powder",
+   "name": "baking powder",
+   "quantity": 0.75,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "⅜ tsp salt",
+   "name": "salt",
+   "quantity": 0.375,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "¼ tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "40 g red and green jimmies sprinkles",
+   "name": "sprinkles",
+   "quantity": 40,
+   "unit": "g",
+   "note": "plus topping"
+  },
+  {
+   "raw": "25 g granulated sugar (for rolling)",
+   "name": "granulated sugar",
+   "quantity": 25,
+   "unit": "g",
+   "note": "rolling"
+  }
+ ]
+}

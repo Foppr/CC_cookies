@@ -1,0 +1,78 @@
+{
+ "recipe_name": "Viral Brown Butter Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "both",
+ "ingredients": [
+  {
+   "raw": "127g butter",
+   "name": "butter",
+   "quantity": 127,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "120g light brown sugar",
+   "name": "light brown sugar",
+   "quantity": 120,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "55g granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 55,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1tbsp heavy cream",
+   "name": "heavy cream",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "1tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "170g flour",
+   "name": "all-purpose flour",
+   "quantity": 170,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "2.5g baking soda",
+   "name": "baking soda",
+   "quantity": 2.5,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "pinch of salt",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "150g chopped dark & milk choc",
+   "name": "chocolate",
+   "quantity": 150,
+   "unit": "g",
+   "note": "dark and milk, chopped"
+  }
+ ]
+}

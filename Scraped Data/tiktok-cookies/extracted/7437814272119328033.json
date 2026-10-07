@@ -1,0 +1,71 @@
+{
+ "recipe_name": "Crumbl-Style Vanilla Sugar Cookie Base (6 flavours)",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "both",
+ "ingredients": [
+  {
+   "raw": "113g butter",
+   "name": "butter",
+   "quantity": 113,
+   "unit": "g",
+   "note": "softened"
+  },
+  {
+   "raw": "56g oil",
+   "name": "vegetable oil",
+   "quantity": 56,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "100g caster sugar",
+   "name": "granulated sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "15g icing sugar",
+   "name": "powdered sugar",
+   "quantity": 15,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "300g plain flour",
+   "name": "all-purpose flour",
+   "quantity": 300,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "0.25 tsp salt",
+   "name": "salt",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 tsp baking powder",
+   "name": "baking powder",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  }
+ ]
+}

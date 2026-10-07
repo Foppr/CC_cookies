@@ -1,0 +1,113 @@
+{
+ "recipe_name": "Valentine's Sprinkle Sugar Cookies with Cream Cheese Frosting",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "2 cups + 2 Tbsp all-purpose flour (255g)",
+   "name": "all-purpose flour",
+   "quantity": 255,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "¼ tsp baking powder",
+   "name": "baking powder",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "½ tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "¼ tsp salt",
+   "name": "salt",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "10 Tbsp unsalted butter (141g)",
+   "name": "unsalted butter",
+   "quantity": 141,
+   "unit": "g",
+   "note": "softened"
+  },
+  {
+   "raw": "½ cup granulated sugar (100g)",
+   "name": "granulated sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "⅓ cup light brown sugar (71g)",
+   "name": "light brown sugar",
+   "quantity": 71,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": "room temperature"
+  },
+  {
+   "raw": "1 Tbsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "¾ cup Valentine sprinkles (120g)",
+   "name": "sprinkles",
+   "quantity": 120,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "6 oz cream cheese (170g)",
+   "name": "cream cheese",
+   "quantity": 170,
+   "unit": "g",
+   "note": "frosting"
+  },
+  {
+   "raw": "5 Tbsp unsalted butter (70g)",
+   "name": "unsalted butter",
+   "quantity": 70,
+   "unit": "g",
+   "note": "frosting"
+  },
+  {
+   "raw": "1 Tbsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": "frosting"
+  },
+  {
+   "raw": "Pinch of salt",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": "frosting"
+  },
+  {
+   "raw": "2 cups powdered sugar (227g)",
+   "name": "powdered sugar",
+   "quantity": 227,
+   "unit": "g",
+   "note": "frosting"
+  }
+ ]
+}

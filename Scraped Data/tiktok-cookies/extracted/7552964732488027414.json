@@ -1,0 +1,106 @@
+{
+ "recipe_name": "Brown Butter Triple Choc Cookies with Condensed Milk",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "250 g Unsalted Butter, diced",
+   "name": "unsalted butter",
+   "quantity": 250,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "115 g Light Brown Sugar",
+   "name": "light brown sugar",
+   "quantity": 115,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "110 g Caster Sugar",
+   "name": "granulated sugar",
+   "quantity": 110,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 Large Egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "115 g Condensed Milk",
+   "name": "sweetened condensed milk",
+   "quantity": 115,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1.5 tsp Vanilla Bean Paste",
+   "name": "vanilla bean paste",
+   "quantity": 1.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "310 g Plain Flour, sifted",
+   "name": "all-purpose flour",
+   "quantity": 310,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "50 g Cornflour, sifted",
+   "name": "cornstarch",
+   "quantity": 50,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 tsp Baking Powder",
+   "name": "baking powder",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "½ tsp Bicarb",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "½ tsp Sea Salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "100 g Milk Chocolate",
+   "name": "milk chocolate",
+   "quantity": 100,
+   "unit": "g",
+   "note": "chopped"
+  },
+  {
+   "raw": "100 g Dark Chocolate",
+   "name": "dark chocolate",
+   "quantity": 100,
+   "unit": "g",
+   "note": "chopped"
+  },
+  {
+   "raw": "80 g White Chocolate",
+   "name": "white chocolate",
+   "quantity": 80,
+   "unit": "g",
+   "note": "chopped"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "recipe_name": "Salted Maple Peanut Butter Oat Cookies",
+ "cookie_type": "healthy",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "180g oats TOTAL (most blended into flour)",
+   "name": "rolled oats",
+   "quantity": 180,
+   "unit": "g",
+   "note": "3 tbsp whole, rest blended"
+  },
+  {
+   "raw": "Pinch of salt",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp baking powder",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "115g maple syrup",
+   "name": "maple syrup",
+   "quantity": 115,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 small egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 heaped tbsp of peanut butter",
+   "name": "peanut butter",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "45g olive oil",
+   "name": "olive oil",
+   "quantity": 45,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "Flaky salt to top",
+   "name": "flaky sea salt",
+   "quantity": null,
+   "unit": null,
+   "note": "topping"
+  }
+ ]
+}

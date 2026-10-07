@@ -1,0 +1,106 @@
+{
+ "recipe_name": "Brown Butter Sourdough Chocolate Chip Cookies",
+ "cookie_type": "sourdough",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "1 cup (226g) salted butter",
+   "name": "salted butter",
+   "quantity": 226,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "1 cup (220g) brown sugar",
+   "name": "brown sugar",
+   "quantity": 220,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 cup (210g) granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 210,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": "room temperature"
+  },
+  {
+   "raw": "2 egg yolks",
+   "name": "egg yolk",
+   "quantity": 2,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 cup (250g) sourdough discard",
+   "name": "sourdough discard",
+   "quantity": 250,
+   "unit": "g",
+   "note": "room temperature"
+  },
+  {
+   "raw": "2 tbsp (30g) heavy cream",
+   "name": "heavy cream",
+   "quantity": 30,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 tbsp (13g) vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "2 1/2 cups (375g) all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 375,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 tsp (5g) baking powder",
+   "name": "baking powder",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 tsp (6g) baking soda",
+   "name": "baking soda",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 tsp (5g) salt",
+   "name": "salt",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 1/2 cups (300g) chocolate chips",
+   "name": "chocolate chips",
+   "quantity": 300,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "Flaky sea salt",
+   "name": "flaky sea salt",
+   "quantity": null,
+   "unit": null,
+   "note": "topping"
+  }
+ ]
+}

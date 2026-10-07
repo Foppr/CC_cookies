@@ -1,0 +1,71 @@
+{
+ "recipe_name": "Lotus Speculoos Cookies",
+ "cookie_type": "biscoff",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "125 gram ongezouten roomboter",
+   "name": "unsalted butter",
+   "quantity": 125,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "125 gram licht bruine basterdsuiker",
+   "name": "light brown sugar",
+   "quantity": 125,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "100 gram kristalsuiker",
+   "name": "granulated sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "2 eieren",
+   "name": "egg",
+   "quantity": 2,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 theelepel bakpoeder",
+   "name": "baking powder",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "365 gram patentbloem",
+   "name": "all-purpose flour",
+   "quantity": 365,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "100 gram witte chocolade",
+   "name": "white chocolate",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "50 gram speculoos",
+   "name": "speculoos spread",
+   "quantity": 50,
+   "unit": "g",
+   "note": "plus extra for topping"
+  },
+  {
+   "raw": "100 gram lotus koekjes",
+   "name": "lotus biscoff biscuits",
+   "quantity": 100,
+   "unit": "g",
+   "note": "plus 10 for topping"
+  }
+ ]
+}

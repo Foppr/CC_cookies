@@ -1,0 +1,99 @@
+{
+ "recipe_name": "Big Norwegian Chocolate Cookies (17 x 150g)",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "1 l siktet mel",
+   "name": "all-purpose flour",
+   "quantity": 1,
+   "unit": "l",
+   "note": null
+  },
+  {
+   "raw": "2 ts vaniljesukker",
+   "name": "vanilla sugar",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "2 ts bakepulver",
+   "name": "baking powder",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "2-3 ss maisstivelse",
+   "name": "cornstarch",
+   "quantity": 2.5,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "4 ts havsalt",
+   "name": "salt",
+   "quantity": 4,
+   "unit": "tsp",
+   "note": "sea salt"
+  },
+  {
+   "raw": "2 ts kaffepulver",
+   "name": "espresso powder",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "4-5 dl brunt sukker",
+   "name": "brown sugar",
+   "quantity": 4.5,
+   "unit": "dl",
+   "note": null
+  },
+  {
+   "raw": "2 dl hvitt sukker",
+   "name": "granulated sugar",
+   "quantity": 2,
+   "unit": "dl",
+   "note": null
+  },
+  {
+   "raw": "2 egg",
+   "name": "egg",
+   "quantity": 2,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "2 eggeplomme",
+   "name": "egg yolk",
+   "quantity": 2,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "450 g meierismør",
+   "name": "butter",
+   "quantity": 450,
+   "unit": "g",
+   "note": "cubed"
+  },
+  {
+   "raw": "2 plater melkesjokolade",
+   "name": "milk chocolate",
+   "quantity": 2,
+   "unit": "bar",
+   "note": null
+  },
+  {
+   "raw": "2 plater Freia dronningsjokolade",
+   "name": "dark chocolate",
+   "quantity": 2,
+   "unit": "bar",
+   "note": null
+  }
+ ]
+}

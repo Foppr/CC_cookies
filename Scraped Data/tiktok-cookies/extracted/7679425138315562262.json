@@ -1,0 +1,78 @@
+{
+ "recipe_name": "Brown Butter Chocolate Chip Cookies (Romanian)",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "130 g unt caramelizat (160 g înainte)",
+   "name": "butter",
+   "quantity": 160,
+   "unit": "g",
+   "note": "browned to 130 g"
+  },
+  {
+   "raw": "o lingură de smântână lichidă (optional)",
+   "name": "heavy cream",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": "optional"
+  },
+  {
+   "raw": "80 g zahăr alb",
+   "name": "granulated sugar",
+   "quantity": 80,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "150 g zahăr brun",
+   "name": "brown sugar",
+   "quantity": 150,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 ou mare",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 lingură extract de vanilie",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "5 g sare",
+   "name": "salt",
+   "quantity": 5,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "180 g făină albă",
+   "name": "all-purpose flour",
+   "quantity": 180,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "3 g bicarbonat de sodiu",
+   "name": "baking soda",
+   "quantity": 3,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "200 g ciocolată",
+   "name": "chocolate",
+   "quantity": 200,
+   "unit": "g",
+   "note": null
+  }
+ ]
+}

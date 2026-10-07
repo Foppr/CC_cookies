@@ -1,0 +1,64 @@
+{
+ "recipe_name": "Brown Butter Choc Chip Cookies with Ice Cream",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "225 gram boter",
+   "name": "butter",
+   "quantity": 225,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "225 gram donkerbruine basterdsuiker",
+   "name": "dark brown sugar",
+   "quantity": 225,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "75 gram kristalsuiker",
+   "name": "granulated sugar",
+   "quantity": 75,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "2 eieren",
+   "name": "egg",
+   "quantity": 2,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tl vanille extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "300 gram zelfrijzend bakmeel",
+   "name": "self-raising flour",
+   "quantity": 300,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "Snuf zout",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "Pure choco (70%) grof gehakt",
+   "name": "dark chocolate",
+   "quantity": null,
+   "unit": null,
+   "note": "70%, chopped"
+  }
+ ]
+}

@@ -1,0 +1,99 @@
+{
+ "recipe_name": "Small-Batch Thin Brown Butter Chocolate Chip Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "¼ cup + ½ tbsp unsalted butter (54g after browning)",
+   "name": "unsalted butter",
+   "quantity": 54,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "3 tbsp brown sugar (38g)",
+   "name": "brown sugar",
+   "quantity": 38,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "3 tbsp granulated white sugar (37g)",
+   "name": "granulated sugar",
+   "quantity": 37,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 egg yolk",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "2 tsp milk (10g)",
+   "name": "milk",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "splash of vanilla extract",
+   "name": "vanilla extract",
+   "quantity": null,
+   "unit": "splash",
+   "note": null
+  },
+  {
+   "raw": "1/2 cup flour (56g)",
+   "name": "all-purpose flour",
+   "quantity": 56,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp espresso powder",
+   "name": "espresso powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "¼ tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "¼ tsp baking powder",
+   "name": "baking powder",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "pinch of salt",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "heaping 1/3 cup chopped chocolate (~60g)",
+   "name": "chocolate",
+   "quantity": 60,
+   "unit": "g",
+   "note": "chopped"
+  },
+  {
+   "raw": "Flaky sea salt",
+   "name": "flaky sea salt",
+   "quantity": null,
+   "unit": null,
+   "note": "topping"
+  }
+ ]
+}

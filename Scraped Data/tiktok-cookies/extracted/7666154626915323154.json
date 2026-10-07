@@ -1,0 +1,106 @@
+{
+ "recipe_name": "One Dough, 4 Flavours: Brown Butter Base",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "113 g unsalted butter melted",
+   "name": "unsalted butter",
+   "quantity": 113,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "100 g brown sugar",
+   "name": "brown sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "50 g granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 50,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 large egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": "room temperature"
+  },
+  {
+   "raw": "156 g all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 156,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/4 tsp salt",
+   "name": "salt",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "15 g milk powder",
+   "name": "milk powder",
+   "quantity": 15,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "100-130 g semi-sweet chocolate chunks/chips",
+   "name": "semi-sweet chocolate chips",
+   "quantity": 115,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "Crushed Biscoff cookies",
+   "name": "lotus biscoff biscuits",
+   "quantity": null,
+   "unit": null,
+   "note": "variation"
+  },
+  {
+   "raw": "Biscoff spread",
+   "name": "speculoos spread",
+   "quantity": null,
+   "unit": null,
+   "note": "variation"
+  },
+  {
+   "raw": "Crushed oreos",
+   "name": "oreo cookies",
+   "quantity": null,
+   "unit": null,
+   "note": "variation"
+  },
+  {
+   "raw": "Cocoa powder",
+   "name": "cocoa powder",
+   "quantity": null,
+   "unit": null,
+   "note": "variation"
+  }
+ ]
+}

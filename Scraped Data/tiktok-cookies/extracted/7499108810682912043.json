@@ -1,0 +1,78 @@
+{
+ "recipe_name": "PB Oatmeal Chocolate Chunk Breakfast Cookies",
+ "cookie_type": "breakfast",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "1 large banana",
+   "name": "banana",
+   "quantity": 1,
+   "unit": null,
+   "note": "mashed"
+  },
+  {
+   "raw": "1/2 cup natural nut butter",
+   "name": "peanut butter",
+   "quantity": 0.5,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1/3 cup maple syrup",
+   "name": "maple syrup",
+   "quantity": 0.333,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 cup oat flour",
+   "name": "oat flour",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 & 1/4 cup rolled oats",
+   "name": "rolled oats",
+   "quantity": 1.25,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 tsp cinnamon",
+   "name": "cinnamon",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 tsp baking soda",
+   "name": "baking soda",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 cup chocolate chips",
+   "name": "chocolate chips",
+   "quantity": 0.5,
+   "unit": "cup",
+   "note": null
+  }
+ ]
+}

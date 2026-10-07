@@ -1,0 +1,71 @@
+{
+ "recipe_name": "Best Cookies (Czech)",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "3/4 hrnku másla",
+   "name": "butter",
+   "quantity": 0.75,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1/2 hrnku hnědého cukru",
+   "name": "brown sugar",
+   "quantity": 0.5,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1/4 hrnku cukr krystal",
+   "name": "granulated sugar",
+   "quantity": 0.25,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 vejce",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 žloutek",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "Vanilka",
+   "name": "vanilla extract",
+   "quantity": null,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 a půl hrnku hladké mouky",
+   "name": "all-purpose flour",
+   "quantity": 1.5,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "Lžička jedlé sody",
+   "name": "baking soda",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "Čokoláda (asi 200g)",
+   "name": "chocolate",
+   "quantity": 200,
+   "unit": "g",
+   "note": null
+  }
+ ]
+}

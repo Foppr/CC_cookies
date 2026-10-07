@@ -1,0 +1,92 @@
+{
+ "recipe_name": "Christmas Tree Sugar Cookies with Buttercream",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "1 cup unsalted butter, soft",
+   "name": "unsalted butter",
+   "quantity": 1,
+   "unit": "cup",
+   "note": "softened"
+  },
+  {
+   "raw": "1 cup granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 large egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 tsp almond extract",
+   "name": "almond extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp baking powder",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "2 3/4 cups plain flour",
+   "name": "all-purpose flour",
+   "quantity": 2.75,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 cup unsalted butter",
+   "name": "unsalted butter",
+   "quantity": 1,
+   "unit": "cup",
+   "note": "buttercream"
+  },
+  {
+   "raw": "3 1/2 cups of powdered sugar",
+   "name": "powdered sugar",
+   "quantity": 3.5,
+   "unit": "cup",
+   "note": "buttercream"
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": "buttercream"
+  },
+  {
+   "raw": "2 tbsp whole milk",
+   "name": "milk",
+   "quantity": 2,
+   "unit": "tbsp",
+   "note": "buttercream"
+  }
+ ]
+}

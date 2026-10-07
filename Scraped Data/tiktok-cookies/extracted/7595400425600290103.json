@@ -1,0 +1,120 @@
+{
+ "recipe_name": "Red Velvet Chocolate Chunk Cookies",
+ "cookie_type": "red velvet",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "2 1/4 cups (285g) all purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 285,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "2 tbsp corn starch",
+   "name": "cornstarch",
+   "quantity": 2,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "2 tbsp natural cocoa powder",
+   "name": "cocoa powder",
+   "quantity": 2,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "1/4 tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp baking powder",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "Pinch of salt",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "1 cup (225g) cold unsalted butter",
+   "name": "unsalted butter",
+   "quantity": 225,
+   "unit": "g",
+   "note": "cold, cubed"
+  },
+  {
+   "raw": "1 cup (220g) dark brown sugar",
+   "name": "dark brown sugar",
+   "quantity": 220,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "3 tbsp (37g) granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 37,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 large egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": "cold"
+  },
+  {
+   "raw": "1 egg yolk",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": "cold"
+  },
+  {
+   "raw": "1 tbsp vanilla bean paste",
+   "name": "vanilla bean paste",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "1 tsp white vinegar",
+   "name": "white vinegar",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 tbsp gel red food coloring",
+   "name": "red food coloring",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "1 cup semi sweet chocolate chips, chopped",
+   "name": "semi-sweet chocolate chips",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1/2 cup white chocolate chips, chopped",
+   "name": "white chocolate chips",
+   "quantity": 0.5,
+   "unit": "cup",
+   "note": null
+  }
+ ]
+}

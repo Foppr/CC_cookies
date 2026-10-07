@@ -1,0 +1,7 @@
+{
+ "recipe_name": "Refers to another video's base recipe",
+ "cookie_type": null,
+ "is_recipe": false,
+ "source": null,
+ "ingredients": []
+}

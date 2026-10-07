@@ -1,0 +1,43 @@
+{
+ "recipe_name": "4-Ingredient Cut-Out Sugar Cookies",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "200g real block butter",
+   "name": "butter",
+   "quantity": 200,
+   "unit": "g",
+   "note": "salted preferred"
+  },
+  {
+   "raw": "200g castor sugar",
+   "name": "granulated sugar",
+   "quantity": 200,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "420g plain flour",
+   "name": "all-purpose flour",
+   "quantity": 420,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 large egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "splash of vanilla or lemon extract",
+   "name": "vanilla extract",
+   "quantity": null,
+   "unit": "splash",
+   "note": "optional"
+  }
+ ]
+}

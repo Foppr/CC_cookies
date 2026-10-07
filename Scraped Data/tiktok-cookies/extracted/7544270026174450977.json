@@ -1,0 +1,78 @@
+{
+ "recipe_name": "All-Time Favourite Chocolate Chip Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "125 gram roomboter",
+   "name": "butter",
+   "quantity": 125,
+   "unit": "g",
+   "note": "room temperature"
+  },
+  {
+   "raw": "100 gram kristalsuiker",
+   "name": "granulated sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "80 gram lichtbruine basterdsuiker",
+   "name": "light brown sugar",
+   "quantity": 80,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 ei",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tl vanille extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "230 gram bloem",
+   "name": "all-purpose flour",
+   "quantity": 230,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1,5 tl bakpoeder",
+   "name": "baking powder",
+   "quantity": 1.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "0,5 tl baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "Flinke snuf zout",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "200 gram chocolade chips",
+   "name": "chocolate chips",
+   "quantity": 200,
+   "unit": "g",
+   "note": null
+  }
+ ]
+}

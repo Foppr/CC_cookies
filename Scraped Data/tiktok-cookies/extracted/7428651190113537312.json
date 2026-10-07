@@ -1,0 +1,85 @@
+{
+ "recipe_name": "Salvo-Style Pistachio Cookies",
+ "cookie_type": "pistachio",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "120 g roomboter (kamertemperatuur)",
+   "name": "butter",
+   "quantity": 120,
+   "unit": "g",
+   "note": "room temperature"
+  },
+  {
+   "raw": "85 g basterdsuiker",
+   "name": "light brown sugar",
+   "quantity": 85,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 ei",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1/2 tl baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "flinke snuf zout",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "1 tl vanille (extract)",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "210 g patentbloem",
+   "name": "all-purpose flour",
+   "quantity": 210,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "40 g pistachenoten",
+   "name": "pistachios",
+   "quantity": 40,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "80 g witte chocolade",
+   "name": "white chocolate",
+   "quantity": 80,
+   "unit": "g",
+   "note": "chopped"
+  },
+  {
+   "raw": "80 g pure chocolade",
+   "name": "dark chocolate",
+   "quantity": 80,
+   "unit": "g",
+   "note": "chopped"
+  },
+  {
+   "raw": "6-8 tl pistachepasta",
+   "name": "pistachio cream",
+   "quantity": 7,
+   "unit": "tsp",
+   "note": "filling"
+  }
+ ]
+}

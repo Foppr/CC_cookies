@@ -1,0 +1,106 @@
+{
+ "recipe_name": "Classic Frosted Christmas Sugar Cookies",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "1/2 cup unsalted butter",
+   "name": "unsalted butter",
+   "quantity": 0.5,
+   "unit": "cup",
+   "note": "room temperature"
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp almond extract",
+   "name": "almond extract",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 1/2 cup flour",
+   "name": "all-purpose flour",
+   "quantity": 1.5,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "3/4 cup sugar",
+   "name": "granulated sugar",
+   "quantity": 0.75,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1/4 tsp salt",
+   "name": "salt",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/4 tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/4 tsp baking powder",
+   "name": "baking powder",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "holiday sprinkles",
+   "name": "sprinkles",
+   "quantity": null,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "3-4 tbsp milk",
+   "name": "milk",
+   "quantity": 3.5,
+   "unit": "tbsp",
+   "note": "frosting"
+  },
+  {
+   "raw": "4 cups powder sugar",
+   "name": "powdered sugar",
+   "quantity": 4,
+   "unit": "cup",
+   "note": "frosting"
+  },
+  {
+   "raw": "4 tbsp butter",
+   "name": "butter",
+   "quantity": 4,
+   "unit": "tbsp",
+   "note": "frosting"
+  },
+  {
+   "raw": "2 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": "frosting"
+  }
+ ]
+}

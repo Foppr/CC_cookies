@@ -1,0 +1,92 @@
+{
+ "recipe_name": "Dark Chocolate Orange Chocolate Chip Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "250г масло",
+   "name": "butter",
+   "quantity": 250,
+   "unit": "g",
+   "note": "softened"
+  },
+  {
+   "raw": "150г бяла захар",
+   "name": "granulated sugar",
+   "quantity": 150,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "200г кафява захар",
+   "name": "brown sugar",
+   "quantity": 200,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "2 яйца",
+   "name": "egg",
+   "quantity": 2,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "ванилия",
+   "name": "vanilla extract",
+   "quantity": null,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 портокал (кора)",
+   "name": "orange zest",
+   "quantity": 1,
+   "unit": "piece",
+   "note": null
+  },
+  {
+   "raw": "400г брашно",
+   "name": "all-purpose flour",
+   "quantity": 400,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 ч.л. сода бикарбонат",
+   "name": "baking soda",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 ч.л. бакпулвер",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 ч.л. сол",
+   "name": "salt",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "300г тъмен шоколад (70%)",
+   "name": "dark chocolate",
+   "quantity": 300,
+   "unit": "g",
+   "note": "70%"
+  },
+  {
+   "raw": "150г захаросани портокалови корички",
+   "name": "candied orange peel",
+   "quantity": 150,
+   "unit": "g",
+   "note": null
+  }
+ ]
+}

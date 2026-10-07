@@ -1,0 +1,85 @@
+{
+ "recipe_name": "Brown Butter Chocolate Chunk Cookies (Dutch)",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "135 g ongezouten boter",
+   "name": "unsalted butter",
+   "quantity": 135,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "120 g bruine basterdsuiker",
+   "name": "light brown sugar",
+   "quantity": 120,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "50 g kristalsuiker",
+   "name": "granulated sugar",
+   "quantity": 50,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 groot ei",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tl vanille-extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 zakje vanille suiker",
+   "name": "vanilla sugar",
+   "quantity": 1,
+   "unit": "packet",
+   "note": null
+  },
+  {
+   "raw": "180 g bloem",
+   "name": "all-purpose flour",
+   "quantity": 180,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "½ tl baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "¼ tl bakpoeder",
+   "name": "baking powder",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "½ tl zout",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "170–190 g chocolade chunks",
+   "name": "chocolate",
+   "quantity": 180,
+   "unit": "g",
+   "note": "milk, dark or mix"
+  }
+ ]
+}

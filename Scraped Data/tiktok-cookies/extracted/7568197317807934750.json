@@ -1,0 +1,57 @@
+{
+ "recipe_name": "Classic Roll-Out Sugar Cookies (large batch)",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "2 cups white sugar",
+   "name": "granulated sugar",
+   "quantity": 2,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1½ cups softened butter",
+   "name": "butter",
+   "quantity": 1.5,
+   "unit": "cup",
+   "note": "softened"
+  },
+  {
+   "raw": "4 large eggs",
+   "name": "egg",
+   "quantity": 4,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 teaspoon vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "5 cups flour",
+   "name": "all-purpose flour",
+   "quantity": 5,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "2 teaspoons baking powder",
+   "name": "baking powder",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 teaspoon salt",
+   "name": "salt",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  }
+ ]
+}

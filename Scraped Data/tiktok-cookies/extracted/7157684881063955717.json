@@ -1,0 +1,92 @@
+{
+ "recipe_name": "Salted Caramel Brown Butter Cookies",
+ "cookie_type": "caramel",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "185g brown butter",
+   "name": "butter",
+   "quantity": 185,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "215g light brown sugar",
+   "name": "light brown sugar",
+   "quantity": 215,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 yolk",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tsp vanilla",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "225g plain flour",
+   "name": "all-purpose flour",
+   "quantity": 225,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "3/4 tsp bicarb",
+   "name": "baking soda",
+   "quantity": 0.75,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 tsp salt",
+   "name": "salt",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "120g milk chocolate",
+   "name": "milk chocolate",
+   "quantity": 120,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "120g dark chocolate",
+   "name": "dark chocolate",
+   "quantity": 120,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "150g chewy caramels",
+   "name": "caramels",
+   "quantity": 150,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "sea salt",
+   "name": "flaky sea salt",
+   "quantity": null,
+   "unit": null,
+   "note": "topping"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "recipe_name": "Christmas Cut-Out Sugar Cookies",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "1 cup butter softened",
+   "name": "butter",
+   "quantity": 1,
+   "unit": "cup",
+   "note": "softened"
+  },
+  {
+   "raw": "1 cup granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 tbsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "1 tbsp almond extract",
+   "name": "almond extract",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "1 large egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp baking powder",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "2 3/4 cups flour",
+   "name": "all-purpose flour",
+   "quantity": 2.75,
+   "unit": "cup",
+   "note": null
+  }
+ ]
+}

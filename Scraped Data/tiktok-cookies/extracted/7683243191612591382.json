@@ -1,0 +1,92 @@
+{
+ "recipe_name": "M&S Cookie Dupe",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "65g unsalted butter",
+   "name": "unsalted butter",
+   "quantity": 65,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "100g caster sugar",
+   "name": "granulated sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "45g light brown sugar",
+   "name": "light brown sugar",
+   "quantity": 45,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 large egg yolk",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "10g black treacle",
+   "name": "black treacle",
+   "quantity": 10,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1-2 tsp water",
+   "name": "water",
+   "quantity": 1.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "130g plain flour",
+   "name": "all-purpose flour",
+   "quantity": 130,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "25g whole milk powder",
+   "name": "milk powder",
+   "quantity": 25,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "¼ tsp bicarbonate of soda",
+   "name": "baking soda",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "½ tsp fine salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "170g chocolate",
+   "name": "chocolate",
+   "quantity": 170,
+   "unit": "g",
+   "note": "70g grated, rest chopped"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "recipe_name": "Chewy No-Chill Chocolate Chip Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "175 g unsalted butter",
+   "name": "unsalted butter",
+   "quantity": 175,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "225 g light brown soft sugar",
+   "name": "light brown sugar",
+   "quantity": 225,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "100 g white granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 medium egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 egg yolk",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "275 g plain flour",
+   "name": "all-purpose flour",
+   "quantity": 275,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp bicarbonate of soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp sea salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "325 g chocolate chips",
+   "name": "chocolate chips",
+   "quantity": 325,
+   "unit": "g",
+   "note": null
+  }
+ ]
+}

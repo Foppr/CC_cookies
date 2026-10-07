@@ -1,0 +1,99 @@
+{
+ "recipe_name": "Brown Butter Snickerdoodles",
+ "cookie_type": "snickerdoodle",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "125g butter, unsalted",
+   "name": "unsalted butter",
+   "quantity": 125,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "100g brown sugar",
+   "name": "brown sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "50g granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 50,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 large egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tsp heavy cream",
+   "name": "heavy cream",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 tsp vanilla",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "220g plain flour",
+   "name": "all-purpose flour",
+   "quantity": 220,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp baking powder",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/4 tsp salt",
+   "name": "salt",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp ground cinnamon",
+   "name": "cinnamon",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "30g sugar",
+   "name": "granulated sugar",
+   "quantity": 30,
+   "unit": "g",
+   "note": "coating"
+  },
+  {
+   "raw": "1 tsp ground cinnamon",
+   "name": "cinnamon",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": "coating"
+  }
+ ]
+}

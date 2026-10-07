@@ -1,0 +1,148 @@
+{
+ "recipe_name": "Brown Butter Brookies (bar)",
+ "cookie_type": "brookie",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "1/2 cup (115g) unsalted butter, melted",
+   "name": "unsalted butter",
+   "quantity": 115,
+   "unit": "g",
+   "note": "cookie layer"
+  },
+  {
+   "raw": "1/2 cup (100g) light brown sugar",
+   "name": "light brown sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": "cookie layer"
+  },
+  {
+   "raw": "1/3 cup (65g) granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 65,
+   "unit": "g",
+   "note": "cookie layer"
+  },
+  {
+   "raw": "1 large egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": "cookie layer"
+  },
+  {
+   "raw": "1 tbsp (15g) vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": "cookie layer"
+  },
+  {
+   "raw": "1 1/4 cups (160g) all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 160,
+   "unit": "g",
+   "note": "cookie layer"
+  },
+  {
+   "raw": "1/2 tsp (2g) baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": "cookie layer"
+  },
+  {
+   "raw": "Pinch of salt",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": "cookie layer"
+  },
+  {
+   "raw": "1 1/2 cups (250g) semi-sweet chocolate chips",
+   "name": "semi-sweet chocolate chips",
+   "quantity": 250,
+   "unit": "g",
+   "note": "cookie layer"
+  },
+  {
+   "raw": "1 cup (225g) unsalted butter",
+   "name": "unsalted butter",
+   "quantity": 225,
+   "unit": "g",
+   "note": "brownie layer"
+  },
+  {
+   "raw": "1/2 cup (60g) cocoa powder",
+   "name": "cocoa powder",
+   "quantity": 60,
+   "unit": "g",
+   "note": "brownie layer"
+  },
+  {
+   "raw": "1 teaspoon (5g) vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": "brownie layer"
+  },
+  {
+   "raw": "1/2 cup (100g) light brown sugar",
+   "name": "light brown sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": "brownie layer"
+  },
+  {
+   "raw": "1 3/4 cups (210g) powdered sugar",
+   "name": "powdered sugar",
+   "quantity": 210,
+   "unit": "g",
+   "note": "brownie layer"
+  },
+  {
+   "raw": "3/4 cup (125g) semi-sweet chocolate chips",
+   "name": "semi-sweet chocolate chips",
+   "quantity": 125,
+   "unit": "g",
+   "note": "brownie layer"
+  },
+  {
+   "raw": "1/3 cup (60g) semi-sweet chocolate, chopped",
+   "name": "semi-sweet chocolate",
+   "quantity": 60,
+   "unit": "g",
+   "note": "brownie layer"
+  },
+  {
+   "raw": "3 large eggs",
+   "name": "egg",
+   "quantity": 3,
+   "unit": null,
+   "note": "brownie layer"
+  },
+  {
+   "raw": "1/2 cup (60g) all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 60,
+   "unit": "g",
+   "note": "brownie layer"
+  },
+  {
+   "raw": "Pinch of salt",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": "brownie layer"
+  },
+  {
+   "raw": "3 tablespoons (45g) olive oil",
+   "name": "olive oil",
+   "quantity": 45,
+   "unit": "g",
+   "note": "brownie layer"
+  }
+ ]
+}

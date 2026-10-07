@@ -1,0 +1,127 @@
+{
+ "recipe_name": "Coraline Cheesecake Cookies",
+ "cookie_type": "stuffed",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "6 oz cream cheese",
+   "name": "cream cheese",
+   "quantity": 6,
+   "unit": "oz",
+   "note": "filling"
+  },
+  {
+   "raw": "1 cup powdered sugar",
+   "name": "powdered sugar",
+   "quantity": 1,
+   "unit": "cup",
+   "note": "filling"
+  },
+  {
+   "raw": "¼ cup sugar",
+   "name": "granulated sugar",
+   "quantity": 0.25,
+   "unit": "cup",
+   "note": "filling"
+  },
+  {
+   "raw": "1 tsp vanilla",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": "filling"
+  },
+  {
+   "raw": "black food coloring",
+   "name": "black food coloring",
+   "quantity": null,
+   "unit": null,
+   "note": "filling"
+  },
+  {
+   "raw": "½ cup butter",
+   "name": "butter",
+   "quantity": 0.5,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "½ cup sugar",
+   "name": "granulated sugar",
+   "quantity": 0.5,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "½ cup brown sugar",
+   "name": "brown sugar",
+   "quantity": 0.5,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tbsp vanilla",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "blue + purple food coloring",
+   "name": "food coloring",
+   "quantity": null,
+   "unit": null,
+   "note": "blue and purple"
+  },
+  {
+   "raw": "1¾ cups flour",
+   "name": "all-purpose flour",
+   "quantity": 1.75,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 tbsp cornstarch",
+   "name": "cornstarch",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "½ tsp baking powder",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "½ tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "½ tsp salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "mini chocolate chips",
+   "name": "mini chocolate chips",
+   "quantity": null,
+   "unit": null,
+   "note": null
+  }
+ ]
+}

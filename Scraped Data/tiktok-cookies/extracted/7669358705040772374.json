@@ -1,0 +1,106 @@
+{
+ "recipe_name": "Brown Butter Chocolate Chunk Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "both",
+ "ingredients": [
+  {
+   "raw": "155g browned butter",
+   "name": "butter",
+   "quantity": 155,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "140g light brown sugar",
+   "name": "light brown sugar",
+   "quantity": 140,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "60g granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 60,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 egg yolk",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 tbsp double cream",
+   "name": "heavy cream",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "240g plain flour",
+   "name": "all-purpose flour",
+   "quantity": 240,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp baking powder",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp bicarbonate soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "100g milk chocolate chunks",
+   "name": "milk chocolate",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "100g dark chocolate chunks",
+   "name": "dark chocolate",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "50g milk chocolate chips (optional)",
+   "name": "milk chocolate chips",
+   "quantity": 50,
+   "unit": "g",
+   "note": "optional"
+  }
+ ]
+}

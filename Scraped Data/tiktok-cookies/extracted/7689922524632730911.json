@@ -1,0 +1,78 @@
+{
+ "recipe_name": "Brownie Cookies",
+ "cookie_type": "brownie",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "1 stick of butter",
+   "name": "butter",
+   "quantity": 1,
+   "unit": "stick",
+   "note": "melted"
+  },
+  {
+   "raw": "8 oz chocolate (chips or chunks)",
+   "name": "chocolate",
+   "quantity": 8,
+   "unit": "oz",
+   "note": "melted"
+  },
+  {
+   "raw": "150g granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 150,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "50g brown sugar",
+   "name": "brown sugar",
+   "quantity": 50,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "2 eggs (room temp)",
+   "name": "egg",
+   "quantity": 2,
+   "unit": null,
+   "note": "room temperature"
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "95g all purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 95,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "25g cocoa powder",
+   "name": "cocoa powder",
+   "quantity": 25,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  }
+ ]
+}

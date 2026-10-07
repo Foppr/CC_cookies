@@ -1,0 +1,71 @@
+{
+ "recipe_name": "Go-To Brown Butter Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "120g salted butter, browned",
+   "name": "salted butter",
+   "quantity": 120,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "75g caster sugar",
+   "name": "granulated sugar",
+   "quantity": 75,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "100g light brown sugar",
+   "name": "light brown sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "2 eggs",
+   "name": "egg",
+   "quantity": 2,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "200g plain flour",
+   "name": "all-purpose flour",
+   "quantity": 200,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp baking powder",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp bicarbonate of soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "180g dark choc chips",
+   "name": "dark chocolate chips",
+   "quantity": 180,
+   "unit": "g",
+   "note": null
+  }
+ ]
+}

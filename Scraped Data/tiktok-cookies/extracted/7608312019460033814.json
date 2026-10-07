@@ -1,0 +1,85 @@
+{
+ "recipe_name": "Classic Chocolate Chip Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "230g Cold Chopped Unsalted Butter",
+   "name": "unsalted butter",
+   "quantity": 230,
+   "unit": "g",
+   "note": "cold, cubed"
+  },
+  {
+   "raw": "160g Caster Sugar",
+   "name": "granulated sugar",
+   "quantity": 160,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "160g Light Brown Sugar",
+   "name": "light brown sugar",
+   "quantity": 160,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "450g Chocolate Chunks or chips",
+   "name": "chocolate chips",
+   "quantity": 450,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "475g Plain Flour",
+   "name": "all-purpose flour",
+   "quantity": 475,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 tsp Salt",
+   "name": "salt",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "3 tsp Baking Powder",
+   "name": "baking powder",
+   "quantity": 3,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "3/4 tsp Baking Soda",
+   "name": "baking soda",
+   "quantity": 0.75,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "2 Eggs",
+   "name": "egg",
+   "quantity": 2,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 Egg Yolk",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tsp Vanilla",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  }
+ ]
+}

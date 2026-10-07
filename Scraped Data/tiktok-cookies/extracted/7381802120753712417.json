@@ -1,0 +1,71 @@
+{
+ "recipe_name": "Subway-Style White Chocolate Raspberry Cookies",
+ "cookie_type": "white chocolate",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "150 g farinsocker",
+   "name": "brown sugar",
+   "quantity": 150,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "100 g socker",
+   "name": "granulated sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "150 g smör",
+   "name": "butter",
+   "quantity": 150,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 ägg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "3,75 dl mjöl",
+   "name": "all-purpose flour",
+   "quantity": 3.75,
+   "unit": "dl",
+   "note": null
+  },
+  {
+   "raw": "1 tsk bakpulver",
+   "name": "baking powder",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1,5 tsk vaniljsocker",
+   "name": "vanilla sugar",
+   "quantity": 1.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "Vit choklad",
+   "name": "white chocolate",
+   "quantity": null,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "Hallon",
+   "name": "raspberries",
+   "quantity": null,
+   "unit": null,
+   "note": null
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "recipe_name": "Walnut Chocolate Chip Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "1 cup (226g) unsalted butter",
+   "name": "unsalted butter",
+   "quantity": 226,
+   "unit": "g",
+   "note": "softened"
+  },
+  {
+   "raw": "2 1/2 cups (305g) ap flour",
+   "name": "all-purpose flour",
+   "quantity": 305,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 tsp (6g) baking soda",
+   "name": "baking soda",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 tsp (3g) salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "3/4 cup (150g) brown sugar",
+   "name": "brown sugar",
+   "quantity": 150,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "4 tbsp (50g) white sugar",
+   "name": "granulated sugar",
+   "quantity": 50,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "2 eggs",
+   "name": "egg",
+   "quantity": 2,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "2 tsp (8g) vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 1/2 cups (260g) chocolate",
+   "name": "chocolate chips",
+   "quantity": 260,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 cup (100g) chopped walnuts",
+   "name": "walnuts",
+   "quantity": 100,
+   "unit": "g",
+   "note": "chopped"
+  }
+ ]
+}

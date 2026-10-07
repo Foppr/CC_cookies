@@ -1,0 +1,120 @@
+{
+ "recipe_name": "Cinnamon Roll Cookies",
+ "cookie_type": "cinnamon",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "370g plain flour",
+   "name": "all-purpose flour",
+   "quantity": 370,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "2 tsp cream of tartar",
+   "name": "cream of tartar",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 tsp baking soda",
+   "name": "baking soda",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "3 tsp ground cinnamon",
+   "name": "cinnamon",
+   "quantity": 3,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "½ tsp salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "220g unsalted butter, softened",
+   "name": "unsalted butter",
+   "quantity": 220,
+   "unit": "g",
+   "note": "softened"
+  },
+  {
+   "raw": "260g granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 260,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 large egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 large egg yolk",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "2 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "70g granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 70,
+   "unit": "g",
+   "note": "coating"
+  },
+  {
+   "raw": "2 tsp ground cinnamon",
+   "name": "cinnamon",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": "coating"
+  },
+  {
+   "raw": "180g cream cheese",
+   "name": "cream cheese",
+   "quantity": 180,
+   "unit": "g",
+   "note": "topping"
+  },
+  {
+   "raw": "115g double cream",
+   "name": "heavy cream",
+   "quantity": 115,
+   "unit": "g",
+   "note": "topping"
+  },
+  {
+   "raw": "90g icing sugar",
+   "name": "powdered sugar",
+   "quantity": 90,
+   "unit": "g",
+   "note": "topping"
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": "topping"
+  }
+ ]
+}

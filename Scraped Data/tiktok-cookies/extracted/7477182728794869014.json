@@ -1,0 +1,99 @@
+{
+ "recipe_name": "Levain-Style Chocolate Chip Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "100 gr of dark brown sugar",
+   "name": "dark brown sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "225gr unsalted butter, room temperature",
+   "name": "unsalted butter",
+   "quantity": 225,
+   "unit": "g",
+   "note": "room temperature"
+  },
+  {
+   "raw": "50 gr of white sugar",
+   "name": "granulated sugar",
+   "quantity": 50,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "50 gr of brown sugar",
+   "name": "brown sugar",
+   "quantity": 50,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "2 eggs",
+   "name": "egg",
+   "quantity": 2,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "2 teaspoons vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "313 gr all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 313,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 ½ teaspoons baking powder",
+   "name": "baking powder",
+   "quantity": 1.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 teaspoon baking soda",
+   "name": "baking soda",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 teaspoon cornstarch",
+   "name": "cornstarch",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "Pinch of salt",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "100 gr semi-sweet chocolate chips",
+   "name": "semi-sweet chocolate chips",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "100 gr dark chocolate chips or chunks",
+   "name": "dark chocolate chips",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "recipe_name": "Browned Butter Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "¾ cup (170 g) unsalted butter",
+   "name": "unsalted butter",
+   "quantity": 170,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "¾ cup (150 g) brown sugar",
+   "name": "brown sugar",
+   "quantity": 150,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "⅓ cup + 1 tbsp (70 g) white sugar",
+   "name": "granulated sugar",
+   "quantity": 70,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 large egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 egg yolk",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tsp (5 g) vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1½ cups (180 g) all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 180,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "½ tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "½ tsp salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "½ cup (100 g) chocolate chips or chopped chocolate",
+   "name": "chocolate chips",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "Flaky salt, optional",
+   "name": "flaky sea salt",
+   "quantity": null,
+   "unit": null,
+   "note": "optional"
+  }
+ ]
+}

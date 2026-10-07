@@ -1,0 +1,99 @@
+{
+ "recipe_name": "Brown Butter Cookies with Coffee",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "125 grams Unsalted Butter (Browned)",
+   "name": "unsalted butter",
+   "quantity": 125,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "60 grams Light Brown Sugar",
+   "name": "light brown sugar",
+   "quantity": 60,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "50 grams Dark Brown Sugar",
+   "name": "dark brown sugar",
+   "quantity": 50,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "50 grams Caster Sugar",
+   "name": "granulated sugar",
+   "quantity": 50,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 Medium Egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "½ tsp Salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "½ tsp Ground Instant Coffee",
+   "name": "espresso powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "150 grams Plain Flour",
+   "name": "all-purpose flour",
+   "quantity": 150,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "¼ tsp Baking powder",
+   "name": "baking powder",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "¼ tsp Baking soda",
+   "name": "baking soda",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 tsp Vanilla Bean Paste",
+   "name": "vanilla bean paste",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "100 grams Dark Chocolate Bar",
+   "name": "dark chocolate",
+   "quantity": 100,
+   "unit": "g",
+   "note": "chopped"
+  },
+  {
+   "raw": "100 grams Milk chocolate Bar",
+   "name": "milk chocolate",
+   "quantity": 100,
+   "unit": "g",
+   "note": "chopped"
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "recipe_name": "Brown Butter Chocolate Chip Cookies (Dutch translation)",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "1/2 kopje (115 g) ongezouten boter",
+   "name": "unsalted butter",
+   "quantity": 115,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "1/2 kopje (79 g) lichtbruine suiker",
+   "name": "light brown sugar",
+   "quantity": 79,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1/3 kop (69 g) kristalsuiker",
+   "name": "granulated sugar",
+   "quantity": 69,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 groot ei",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": "room temperature"
+  },
+  {
+   "raw": "1 eetlepel (15 g) vanille-extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "1 1/4 kopjes (160 g) bloem",
+   "name": "all-purpose flour",
+   "quantity": 160,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1/2 theelepel zuiveringszout",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "Snufje zout",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "1 1/2 kopjes (225 g) halfzoete chocoladeschilfers",
+   "name": "semi-sweet chocolate chips",
+   "quantity": 225,
+   "unit": "g",
+   "note": null
+  }
+ ]
+}

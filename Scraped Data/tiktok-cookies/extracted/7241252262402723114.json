@@ -1,0 +1,78 @@
+{
+ "recipe_name": "Crispy-Chewy Brown Butter Chocolate Chip Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "audio",
+ "ingredients": [
+  {
+   "raw": "a cup of brown sugar",
+   "name": "brown sugar",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "a fourth cup of white sugar",
+   "name": "granulated sugar",
+   "quantity": 0.25,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "two-third of a cup of brown butter",
+   "name": "butter",
+   "quantity": 0.667,
+   "unit": "cup",
+   "note": "browned"
+  },
+  {
+   "raw": "a tablespoon of vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "two eggs",
+   "name": "egg",
+   "quantity": 2,
+   "unit": null,
+   "note": "room temperature"
+  },
+  {
+   "raw": "a fourth teaspoon of espresso powder",
+   "name": "espresso powder",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": "optional"
+  },
+  {
+   "raw": "a teaspoon of baking soda",
+   "name": "baking soda",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "half a teaspoon of cornstarch",
+   "name": "cornstarch",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "a cup and three-fourths of flour",
+   "name": "all-purpose flour",
+   "quantity": 1.75,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "a cup and a half to two cups of chocolate chips",
+   "name": "chocolate chips",
+   "quantity": 1.75,
+   "unit": "cup",
+   "note": null
+  }
+ ]
+}

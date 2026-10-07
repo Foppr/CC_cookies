@@ -1,0 +1,71 @@
+{
+ "recipe_name": "Brown Butter Chocolate Chip Cookies (Turkish)",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "113 g tereyağı",
+   "name": "butter",
+   "quantity": 113,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "100 g esmer şeker",
+   "name": "brown sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "50 g toz şeker",
+   "name": "granulated sugar",
+   "quantity": 50,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 adet büyük boy yumurta",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 çay kaşığı vanilya",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "150 g un",
+   "name": "all-purpose flour",
+   "quantity": 150,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "3 g karbonat",
+   "name": "baking soda",
+   "quantity": 3,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1,5 g tuz",
+   "name": "salt",
+   "quantity": 1.5,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "Bolca damla çikolata",
+   "name": "chocolate chips",
+   "quantity": null,
+   "unit": null,
+   "note": "to taste"
+  }
+ ]
+}

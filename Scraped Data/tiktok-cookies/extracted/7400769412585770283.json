@@ -1,0 +1,85 @@
+{
+ "recipe_name": "Brown Butter Chocolate Chip Cookies (with cream, v1)",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "1 cup + 2 tbsp salted butter",
+   "name": "salted butter",
+   "quantity": 1.125,
+   "unit": "cup",
+   "note": "browned"
+  },
+  {
+   "raw": "1 cup brown sugar",
+   "name": "brown sugar",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1/2 cup granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 0.5,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "2 eggs",
+   "name": "egg",
+   "quantity": 2,
+   "unit": null,
+   "note": "room temperature"
+  },
+  {
+   "raw": "2 tbsp heavy cream",
+   "name": "heavy cream",
+   "quantity": 2,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "2 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 2,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "2 3/4 cups all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 2.75,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 tsp baking soda",
+   "name": "baking soda",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 tsp baking powder",
+   "name": "baking powder",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/4 tsp salt",
+   "name": "salt",
+   "quantity": 0.25,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 1/2 cups semi-sweet or dark chocolate chips",
+   "name": "semi-sweet chocolate chips",
+   "quantity": 1.5,
+   "unit": "cup",
+   "note": null
+  }
+ ]
+}

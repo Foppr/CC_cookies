@@ -1,0 +1,78 @@
+{
+ "recipe_name": "Brooki-Style Dark Chocolate Walnut Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "185g maslac (hladan)",
+   "name": "butter",
+   "quantity": 185,
+   "unit": "g",
+   "note": "cold, cubed"
+  },
+  {
+   "raw": "130g bijeli šećer",
+   "name": "granulated sugar",
+   "quantity": 130,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "130g smedji šećer",
+   "name": "brown sugar",
+   "quantity": 130,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "2 velika jaja",
+   "name": "egg",
+   "quantity": 2,
+   "unit": null,
+   "note": "room temperature"
+  },
+  {
+   "raw": "400g glatko brašno",
+   "name": "all-purpose flour",
+   "quantity": 400,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 i pol žličica praška za pecivo",
+   "name": "baking powder",
+   "quantity": 1.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 žličice sode bikarbone",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "prstohvat soli",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "320g tamna čokolada",
+   "name": "dark chocolate",
+   "quantity": 320,
+   "unit": "g",
+   "note": "chopped"
+  },
+  {
+   "raw": "80g orasi",
+   "name": "walnuts",
+   "quantity": 80,
+   "unit": "g",
+   "note": "chopped"
+  }
+ ]
+}

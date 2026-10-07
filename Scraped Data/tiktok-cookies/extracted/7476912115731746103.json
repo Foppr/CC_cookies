@@ -1,0 +1,113 @@
+{
+ "recipe_name": "Monster Cookies (Oreo, Chips Ahoy, Chocolate)",
+ "cookie_type": "monster",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "3/4 of melted unsalted butter",
+   "name": "unsalted butter",
+   "quantity": 0.75,
+   "unit": "cup",
+   "note": "melted"
+  },
+  {
+   "raw": "1 cup of brown sugar",
+   "name": "brown sugar",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1/4 cup of granulated white sugar",
+   "name": "granulated sugar",
+   "quantity": 0.25,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "2 eggs",
+   "name": "egg",
+   "quantity": 2,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tsp of salt",
+   "name": "salt",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "3/4 tsp of BP",
+   "name": "baking powder",
+   "quantity": 0.75,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "3/4 tsp of BS",
+   "name": "baking soda",
+   "quantity": 0.75,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "3/4 tsp of cornstarch",
+   "name": "cornstarch",
+   "quantity": 0.75,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1 tsp of vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "2 cups of AP flour",
+   "name": "all-purpose flour",
+   "quantity": 2,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1/2 cup of bread flour",
+   "name": "bread flour",
+   "quantity": 0.5,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 cup of Oreos",
+   "name": "oreo cookies",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 cup of chips ahoy",
+   "name": "chips ahoy cookies",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 cup of white chocolate chips",
+   "name": "white chocolate chips",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 cup of chocolate chips",
+   "name": "chocolate chips",
+   "quantity": 1,
+   "unit": "cup",
+   "note": null
+  }
+ ]
+}

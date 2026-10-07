@@ -1,0 +1,99 @@
+{
+ "recipe_name": "White Chocolate Biscoff Cookies",
+ "cookie_type": "biscoff",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "½ cup butter, softened (113g)",
+   "name": "butter",
+   "quantity": 113,
+   "unit": "g",
+   "note": "softened"
+  },
+  {
+   "raw": "⅔ cup brown sugar (133g)",
+   "name": "brown sugar",
+   "quantity": 133,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "⅓ cup granulated sugar (67g)",
+   "name": "granulated sugar",
+   "quantity": 67,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 large egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 egg yolk",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "2 cups all-purpose flour (240g)",
+   "name": "all-purpose flour",
+   "quantity": 240,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 tbsp cornstarch (8g)",
+   "name": "cornstarch",
+   "quantity": 8,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "½ tsp baking soda",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "½ tsp salt",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "¼ cup biscoff spread",
+   "name": "speculoos spread",
+   "quantity": 0.25,
+   "unit": "cup",
+   "note": "2 tbsp reserved for drizzle"
+  },
+  {
+   "raw": "6–8 biscoff cookies",
+   "name": "lotus biscoff biscuits",
+   "quantity": 7,
+   "unit": "piece",
+   "note": null
+  },
+  {
+   "raw": "white chocolate",
+   "name": "white chocolate",
+   "quantity": null,
+   "unit": null,
+   "note": "amount not given"
+  }
+ ]
+}

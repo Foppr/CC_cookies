@@ -1,0 +1,85 @@
+{
+ "recipe_name": "Brown Butter Chocolate Walnut Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "180g unsalted butter (150g after browning)",
+   "name": "unsalted butter",
+   "quantity": 180,
+   "unit": "g",
+   "note": "browned"
+  },
+  {
+   "raw": "100g granulated sugar",
+   "name": "granulated sugar",
+   "quantity": 100,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "80g light brown sugar",
+   "name": "light brown sugar",
+   "quantity": 80,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 large egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 large egg yolk",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 teaspoon vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "220g all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 220,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "4g baking powder",
+   "name": "baking powder",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "80g milk chocolate chips",
+   "name": "milk chocolate chips",
+   "quantity": 80,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "80g semi-sweet chocolate chips",
+   "name": "semi-sweet chocolate chips",
+   "quantity": 80,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "50g walnuts, chopped",
+   "name": "walnuts",
+   "quantity": 50,
+   "unit": "g",
+   "note": "chopped"
+  }
+ ]
+}

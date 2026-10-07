@@ -1,0 +1,78 @@
+{
+ "recipe_name": "Single-Serve Peanut Butter Oatmeal Chip Cookie",
+ "cookie_type": "peanut butter",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "2 tablespoons melted butter",
+   "name": "butter",
+   "quantity": 2,
+   "unit": "tbsp",
+   "note": "melted"
+  },
+  {
+   "raw": "2 tablespoon packed dark brown sugar",
+   "name": "dark brown sugar",
+   "quantity": 2,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "1 heaping tablespoon of peanut butter",
+   "name": "peanut butter",
+   "quantity": 1,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "1 large egg yolk only",
+   "name": "egg yolk",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1/8 teaspoon vanilla bean paste",
+   "name": "vanilla bean paste",
+   "quantity": 0.125,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/4 cup AP flour",
+   "name": "all-purpose flour",
+   "quantity": 0.25,
+   "unit": "cup",
+   "note": null
+  },
+  {
+   "raw": "1 1/2 tablespoons oats",
+   "name": "rolled oats",
+   "quantity": 1.5,
+   "unit": "tbsp",
+   "note": null
+  },
+  {
+   "raw": "1/8 teaspoon baking soda",
+   "name": "baking soda",
+   "quantity": 0.125,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/8 teaspoon fine table salt",
+   "name": "salt",
+   "quantity": 0.125,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "2 tablespoons semi sweet chocolate chips",
+   "name": "semi-sweet chocolate chips",
+   "quantity": 2,
+   "unit": "tbsp",
+   "note": null
+  }
+ ]
+}

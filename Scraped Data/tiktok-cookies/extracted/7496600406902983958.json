@@ -1,0 +1,85 @@
+{
+ "recipe_name": "NYC Triple Chocolate Cookies",
+ "cookie_type": "double chocolate",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "120g Butter (Room Temp)",
+   "name": "butter",
+   "quantity": 120,
+   "unit": "g",
+   "note": "room temperature"
+  },
+  {
+   "raw": "1 Egg",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1tsp Vanilla",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "110g White Sugar",
+   "name": "granulated sugar",
+   "quantity": 110,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "160g Dark Brown Sugar",
+   "name": "dark brown sugar",
+   "quantity": 160,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "170g Plain Flour",
+   "name": "all-purpose flour",
+   "quantity": 170,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "60g Cocoa Powder",
+   "name": "cocoa powder",
+   "quantity": 60,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "200g Baking Chocolate (dark, milk and white)",
+   "name": "chocolate",
+   "quantity": 200,
+   "unit": "g",
+   "note": "mix of dark, milk and white"
+  },
+  {
+   "raw": "Fudge Pieces (optional)",
+   "name": "fudge pieces",
+   "quantity": null,
+   "unit": null,
+   "note": "optional"
+  },
+  {
+   "raw": "Pinch of Bicarbonate Soda",
+   "name": "baking soda",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "Sprinkle of Salt",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  }
+ ]
+}

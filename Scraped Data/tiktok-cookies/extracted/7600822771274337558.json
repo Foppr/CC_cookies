@@ -1,0 +1,78 @@
+{
+ "recipe_name": "Melt-in-Your-Mouth Chocolate Chip Cookies",
+ "cookie_type": "chocolate chip",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "200 g βούτυρο μαλακό",
+   "name": "butter",
+   "quantity": 200,
+   "unit": "g",
+   "note": "softened"
+  },
+  {
+   "raw": "140 g λευκή ζάχαρη",
+   "name": "granulated sugar",
+   "quantity": 140,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "80 g καστανή ζάχαρη",
+   "name": "brown sugar",
+   "quantity": 80,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1 μεγάλο αυγό",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": "room temperature"
+  },
+  {
+   "raw": "1 κ.γ. βανίλια",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "240 g αλεύρι",
+   "name": "all-purpose flour",
+   "quantity": 240,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "1/2 κ.γ. baking powder",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 κ.γ. μαγειρική σόδα",
+   "name": "baking soda",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "1/2 κ.γ. αλάτι",
+   "name": "salt",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "130 g σοκολάτα 70%",
+   "name": "dark chocolate",
+   "quantity": 130,
+   "unit": "g",
+   "note": "70%"
+  }
+ ]
+}

@@ -1,0 +1,64 @@
+{
+ "recipe_name": "Lower-Sugar Christmas Cut-Out Cookies",
+ "cookie_type": "sugar",
+ "is_recipe": true,
+ "source": "caption",
+ "ingredients": [
+  {
+   "raw": "100 g softened butter",
+   "name": "butter",
+   "quantity": 100,
+   "unit": "g",
+   "note": "softened"
+  },
+  {
+   "raw": "70 g sugar",
+   "name": "granulated sugar",
+   "quantity": 70,
+   "unit": "g",
+   "note": "or half erythritol"
+  },
+  {
+   "raw": "1 egg (medium)",
+   "name": "egg",
+   "quantity": 1,
+   "unit": null,
+   "note": null
+  },
+  {
+   "raw": "1 tsp vanilla extract",
+   "name": "vanilla extract",
+   "quantity": 1,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "200 g all-purpose flour",
+   "name": "all-purpose flour",
+   "quantity": 200,
+   "unit": "g",
+   "note": null
+  },
+  {
+   "raw": "½ tsp baking powder",
+   "name": "baking powder",
+   "quantity": 0.5,
+   "unit": "tsp",
+   "note": null
+  },
+  {
+   "raw": "Pinch of salt",
+   "name": "salt",
+   "quantity": null,
+   "unit": "pinch",
+   "note": null
+  },
+  {
+   "raw": "Christmas sprinkles",
+   "name": "sprinkles",
+   "quantity": null,
+   "unit": null,
+   "note": "optional"
+  }
+ ]
+}
