@@ -55,14 +55,13 @@ from deap import algorithms, base, creator, tools
 # CONFIGURATION
 # ============================================================================
 
-ROLES = ["structure", "fat", "sugar", "binder", "leavener", "salt",
-         "liquid", "texturizer", "flavor", "add_in", "decoration"]
+ROLES = ["flour (structure)", "fat", "sugar", "egg", "leavening agents",
+         "salt/flavorings", "Other (Mix-ins)", "Other (Liquids)", "Other"]
 
-ESSENTIAL_ROLES = ["structure", "fat", "sugar"]   # every recipe must contain these
+ESSENTIAL_ROLES = ["flour (structure)", "fat", "sugar", "egg"]   # every recipe must contain these
 
-MAX_PER_ROLE = {"structure": 2, "fat": 2, "sugar": 3, "binder": 2, "leavener": 2,
-                "salt": 1, "liquid": 2, "texturizer": 2, "flavor": 4,
-                "add_in": 3, "decoration": 2}
+MAX_PER_ROLE = {"flour (structure)": 2, "fat": 2, "sugar": 3, "egg": 2, "leavening agents": 2,
+                "salt/flavorings": 1, "Other (Liquids)": 2, "Other (Mix-ins)": 2}
 MAX_INGREDIENTS = 14
 MIN_PROPORTION = 0.0003          # below 0.03% of the dough an ingredient is dropped
 
@@ -71,9 +70,8 @@ MUTATION_WEIGHTS = {"amount": 0.50, "substitute": 0.25, "add": 0.15, "remove": 0
 AMOUNT_SIGMA = 0.15              # amount mutation: amount *= exp(N(0, sigma))
 
 # How likely each role is picked when the "add" mutation adds an ingredient
-ROLE_ADD_WEIGHT = {"flavor": 1.0, "add_in": 1.0, "salt": 0.5, "texturizer": 0.4,
-                   "liquid": 0.3, "decoration": 0.3, "binder": 0.3, "sugar": 0.3,
-                   "leavener": 0.3, "fat": 0.2, "structure": 0.2}
+ROLE_ADD_WEIGHT = {"salt/flavorings": 1.0, "Other (Mix-ins)": 1.0, "Other (Liquids)": 0.4,
+                   "egg": 0.3, "sugar": 0.3, "leavening agent": 0.3, "fat": 0.2, "flour (structure)": 0.2}
 
 MUTATION_LOG = Counter()         # counts which mutation types were applied
 
@@ -92,12 +90,12 @@ class IngredientDB:
         self.index = {n: i for i, n in enumerate(self.names)}
         self.role, self.popularity, raw_median = {}, {}, {}
         for r, name in zip(rows, self.names):
-            role = r["role"].strip()
+            role = r["category"].strip()
             if role not in ROLES:
                 raise ValueError(f"Unknown role '{role}' for ingredient '{name}'")
             self.role[name] = role
-            self.popularity[name] = float(r["pct_of_recipes"]) / 100
-            v = (r.get("median_pct_of_recipe") or "").strip()
+            self.popularity[name] = int(r.get('recipe_count_')) / len(rows)
+            v = (r.get("pct_of_recipe_mean") or "").strip()
             raw_median[name] = float(v) / 100 if v else None
 
         role_medians = defaultdict(list)
@@ -237,34 +235,36 @@ class FitnessModel:
         raise NotImplementedError
 
 
-class MockFitness(FitnessModel):
-    """Stand-in plausibility score from role ratios (targets from ingredient medians).
-    Replace or combine with the real fitness function."""
-    name = "mock"
-    # role: (target share of dough, tolerance, weight)
-    TARGETS = {"structure": (0.28, 0.07, 2), "fat": (0.19, 0.06, 2),
-               "sugar": (0.26, 0.07, 2), "binder": (0.08, 0.04, 1),
-               "leavener": (0.006, 0.005, 1), "salt": (0.004, 0.003, 1),
-               "add_in": (0.15, 0.12, 1)}
+class CategoryStatsFitness(FitnessModel):
+    """Evaluates recipes based on how closely their category proportions
+    match the ideal means from category_stats.csv."""
+    name = "category_stats"
 
-    def __init__(self, db):
+    def __init__(self, db, category_stats_csv="category_stats.csv", deviation_scalar=-20):
         self.db = db
+        self.targets = {}
+        self.dev_scalar = deviation_scalar
+
+        # Load the ideal proportions
+        with open(category_stats_csv, encoding="utf-8") as f:
+            for row in csv.DictReader(f):
+                # The EA uses 0.0-1.0 proportions, but your CSV uses 0-100 percentages.
+                # We divide by 100 to align them.
+                self.targets[row["category"]] = float(row["pct_of_recipe_mean"]) / 100.0
 
     def evaluate(self, recipe):
+        # Calculate the actual proportions in the generated recipe
         t = role_totals(recipe, self.db)
-        total_w = sum(w for _, _, w in self.TARGETS.values())
-        score = sum(w * gauss(t[r], tg, s) for r, (tg, s, w) in self.TARGETS.items()) / total_w
 
-        if t["liquid"] > 0.08:                                   # too wet = batter
-            score *= gauss(t["liquid"], 0.08, 0.04)
-        n_flavor = sum(1 for i in recipe if self.db.role[i] == "flavor")
-        if n_flavor == 0:
-            score *= 0.8
-        elif n_flavor > 3:
-            score *= 0.85 ** (n_flavor - 3)
-        if len(recipe) > 12:
-            score *= 0.9 ** (len(recipe) - 12)
-        return score
+        # Calculate Sum of Squared Errors (SSE)
+        sse = 0.0
+        for category, target_prop in self.targets.items():
+            actual_prop = t.get(category, 0.0)
+            sse += (actual_prop - target_prop) ** 2
+
+        # Convert error to a fitness score where 1.0 is perfect (0 error).
+        # Multiplying by a constant (e.g., 20) controls how harshly deviations are punished.
+        return math.exp(self.dev_scalar * sse)
 
 
 class RatingKNNFitness(FitnessModel):
@@ -313,11 +313,11 @@ def build_fitness(mode, db, recipe_db):
     if mode == "auto":
         mode = "ratings" if recipe_db is not None and recipe_db.rated_matrix is not None else "mock"
     if mode == "mock":
-        return MockFitness(db)
+        return CategoryStatsFitness(db)
     if mode == "ratings":
         # Placeholder weights - to be replaced by your teammate's fitness design.
         return CombinedFitness([(RatingKNNFitness(recipe_db), 0.6),
-                                (MockFitness(db), 0.3),
+                                (CategoryStatsFitness(db), 0.3),
                                 (NoveltyFitness(recipe_db), 0.1)])
     raise ValueError(f"unknown fitness mode {mode}")
 
@@ -341,6 +341,8 @@ def role_groups(recipe, db):
 
 
 def weighted_pick(candidates, weights):
+    print(f'Candidates: {candidates}')
+    print(f'Weights: {weights}')
     return random.choices(candidates, weights=weights, k=1)[0]
 
 
@@ -381,9 +383,16 @@ def repair(recipe, db):
 
 def random_recipe(db):
     """A plausible random recipe, built role by role from typical amounts."""
-    plan = {"structure": (1, 1.0), "fat": (1, 1.0), "sugar": (2, 0.9), "binder": (1, 0.85),
-            "leavener": (1, 0.8), "salt": (1, 0.8), "flavor": (2, 0.9), "add_in": (2, 0.7),
-            "liquid": (1, 0.15), "texturizer": (1, 0.15), "decoration": (1, 0.1)}
+    plan = {
+        "flour (structure)": (2, 1.0),
+        "fat": (1, 1.0),
+        "sugar": (2, 0.9),
+        "egg": (1, 0.85),
+        "leavening agents": (1, 0.8),
+        "salt/flavorings": (2, 0.8),
+        "Other (Mix-ins)": (2, 0.7),
+        "Other (Liquids)": (1, 0.15)
+    }
     rec = {}
     for role, (max_n, prob) in plan.items():
         for _ in range(random.randint(1, max_n)):
@@ -652,11 +661,11 @@ def make_demo_data(db, n=300):
 
 def parse_args():
     p = argparse.ArgumentParser(description="Evolve a cookie recipe book with DEAP.")
-    p.add_argument("--ingredients", default="ingredients.csv")
+    p.add_argument("--ingredients", default="ingredient_stats_categorized.csv")
     p.add_argument("--recipes", help="existing recipes CSV: recipe_id,ingredient,grams")
     p.add_argument("--ratings", help="ratings CSV: recipe_id,likes,views")
     p.add_argument("--fitness", default="auto", choices=["auto", "mock", "ratings"])
-    p.add_argument("--generations", type=int, default=100)
+    p.add_argument("--generations", type=int, default=1000)
     p.add_argument("--pop", type=int, default=80, help="population size per island")
     p.add_argument("--islands", type=int, default=3, help="number of sub-populations")
     p.add_argument("--recipes-in-book", type=int, default=3)
@@ -685,6 +694,7 @@ def main():
         np.random.seed(args.seed)
 
     db = IngredientDB(args.ingredients)
+    print(db)
     print(f"[IngredientDB] {len(db.names)} ingredients in {len(db.by_role)} roles")
     if args.make_demo_data:
         make_demo_data(db)
