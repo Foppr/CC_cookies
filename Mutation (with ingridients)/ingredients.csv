@@ -1,0 +1,119 @@
+ingredient,role,pct_of_recipes,median_pct_of_recipe
+butter,fat,85.0,17.69
+all-purpose flour,structure,83.2,26.34
+salt,salt,79.0,0.31
+granulated sugar,sugar,78.8,12.01
+egg,binder,76.0,7.0
+vanilla extract,flavor,75.7,0.72
+baking soda,leavener,65.5,0.37
+brown sugar,sugar,60.5,14.61
+baking powder,leavener,40.2,0.32
+chocolate chips,add_in,29.1,19.53
+powdered sugar,sugar,18.6,15.62
+cinnamon,flavor,16.9,0.31
+cornstarch,texturizer,16.4,0.7
+cocoa powder,flavor,13.0,4.6
+egg yolk,binder,12.9,2.32
+white chocolate,add_in,12.7,14.79
+milk,liquid,11.3,4.14
+dark chocolate,add_in,9.7,13.82
+oats,structure,8.1,18.53
+oil,fat,6.7,9.6
+ginger,flavor,6.0,0.25
+peanut butter,fat,4.9,20.22
+chocolate,add_in,4.6,17.55
+food coloring,decoration,4.6,0.82
+almond extract,flavor,4.5,0.47
+molasses,sugar,4.5,13.03
+water,liquid,4.3,5.06
+cream cheese,fat,4.1,12.1
+citrus juice,liquid,4.0,4.84
+espresso powder,flavor,3.9,0.46
+cloves,flavor,3.8,0.1
+dried fruit,add_in,3.8,11.13
+cream,liquid,3.7,2.77
+flaky sea salt,decoration,3.7,0.11
+cream of tartar,leavener,3.6,0.46
+vanilla bean paste,flavor,3.6,0.9
+walnuts,add_in,3.6,7.94
+almond flour,structure,3.5,18.33
+egg white,binder,3.5,13.31
+macadamia nuts,add_in,3.4,9.59
+nutmeg,flavor,3.2,0.07
+citrus zest,flavor,3.1,1.07
+cake flour,structure,3.0,13.12
+raisins,add_in,3.0,14.7
+matcha powder,flavor,2.9,1.11
+coconut,add_in,2.6,21.35
+milk chocolate,add_in,2.6,12.56
+hazelnut spread,add_in,2.5,21.45
+maple syrup,sugar,2.5,11.83
+pumpkin puree,binder,2.5,14.38
+graham crackers,add_in,2.2,7.95
+pecans,add_in,2.2,8.24
+spice mix,flavor,2.2,0.24
+corn syrup,sugar,2.1,3.74
+honey,sugar,2.1,4.0
+m&ms,add_in,2.1,23.19
+sprinkles,decoration,2.1,7.64
+berries,add_in,2.0,7.46
+caramel,add_in,2.0,13.46
+marshmallows,add_in,1.8,5.47
+almonds,add_in,1.7,11.23
+other extract,flavor,1.7,0.7
+other spice,flavor,1.6,0.09
+sour cream / yogurt,liquid,1.5,5.44
+coarse sugar,decoration,1.3,9.69
+jam,add_in,1.3,20.3
+biscoff biscuits,add_in,1.2,8.03
+gluten-free flour,structure,1.2,23.29
+speculoos spread,add_in,1.2,6.31
+coconut sugar,sugar,1.1,12.51
+milk powder,texturizer,1.1,2.47
+vinegar,liquid,1.1,0.44
+meringue powder,decoration,1.0,2.28
+oreo cookies,add_in,1.0,7.79
+shortening,fat,1.0,8.98
+banana,binder,0.9,38.02
+nut butter,fat,0.9,20.07
+nuts,add_in,0.9,7.62
+vanilla sugar,flavor,0.9,1.02
+bread flour,structure,0.8,24.23
+hazelnuts,add_in,0.7,10.2
+oat flour,structure,0.7,20.93
+whole wheat flour,structure,0.7,13.74
+applesauce,binder,0.6,14.82
+flax / chia seeds,binder,0.6,1.64
+golden syrup,sugar,0.6,13.02
+peanut butter chips,add_in,0.6,6.71
+peanuts,add_in,0.6,15.8
+pistachios,add_in,0.6,5.08
+sweetened condensed milk,sugar,0.6,19.52
+other starch,texturizer,0.5,1.58
+protein powder,texturizer,0.5,11.41
+self-raising flour,structure,0.5,27.96
+cake / cookie mix,structure,0.4,66.35
+chocolate candies,add_in,0.4,19.36
+coffee,liquid,0.4,2.47
+kinder bueno,add_in,0.4,9.54
+freeze-dried fruit,add_in,0.3,2.32
+pistachio cream,add_in,0.3,17.36
+pretzels,add_in,0.3,2.43
+sourdough discard,liquid,0.3,14.48
+sweetener,sugar,0.3,9.42
+tea,flavor,0.3,0.23
+toffee,add_in,0.3,10.29
+buttercream,decoration,0.2,
+buttermilk,liquid,0.2,1.89
+cashews,add_in,0.2,6.61
+coconut flour,structure,0.2,7.21
+margarine,fat,0.2,15.62
+mascarpone,fat,0.2,13.74
+pudding mix,texturizer,0.2,8.88
+butterscotch chips,add_in,0.1,
+chips ahoy cookies,add_in,0.1,7.12
+chocolate sauce,add_in,0.1,9.9
+fudge pieces,add_in,0.1,
+marshmallow fluff,add_in,0.1,13.71
+peanut butter powder,flavor,0.1,4.71
+xanthan gum,texturizer,0.1,0.29
