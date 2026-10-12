@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Plain cookie",
+    "fitness": 0.8750293939878719,
+    "proportions": {
+      "all-purpose flour": 0.2066332791555479,
+      "butter": 0.13609769805212205,
+      "chocolate chips": 0.13093322996323487,
+      "molasses": 0.11688621506003827,
+      "pudding mix": 0.11603318586401459,
+      "egg": 0.09023305097656512,
+      "water": 0.07453485477022805,
+      "matcha powder": 0.03373259626420304,
+      "corn syrup": 0.03364703362637157,
+      "cream": 0.02973560664840627,
+      "cream of tartar": 0.018269716211944394,
+      "baking soda": 0.013263533407323972
+    },
+    "grams": {
+      "all-purpose flour": 165.3,
+      "butter": 108.9,
+      "cream": 23.8,
+      "corn syrup": 26.9,
+      "molasses": 93.5,
+      "egg": 72.2,
+      "cream of tartar": 14.6,
+      "baking soda": 10.6,
+      "matcha powder": 27.0,
+      "chocolate chips": 104.7,
+      "water": 59.6,
+      "pudding mix": 92.8
+    }
+  },
+  {
+    "name": "Plain cookie",
+    "fitness": 0.8189273841806091,
+    "proportions": {
+      "bread flour": 0.15303953399066486,
+      "butter": 0.1452914100203438,
+      "chocolate chips": 0.139778070546013,
+      "molasses": 0.1247821480371061,
+      "pudding mix": 0.12387149348722701,
+      "egg": 0.0963285011285845,
+      "water": 0.07956985553817592,
+      "matcha powder": 0.036011310627549996,
+      "corn syrup": 0.035919968282141654,
+      "cream": 0.03174431526303758,
+      "cream of tartar": 0.019503877531306717,
+      "baking soda": 0.014159515547848863
+    },
+    "grams": {
+      "butter": 116.2,
+      "cream": 25.4,
+      "corn syrup": 28.7,
+      "molasses": 99.8,
+      "egg": 77.1,
+      "cream of tartar": 15.6,
+      "baking soda": 11.3,
+      "matcha powder": 28.8,
+      "chocolate chips": 111.8,
+      "water": 63.7,
+      "pudding mix": 99.1,
+      "bread flour": 122.4
+    }
+  },
+  {
+    "name": "Plain cookie",
+    "fitness": 0.5629799243783619,
+    "proportions": {
+      "oats": 0.17427465945832493,
+      "all-purpose flour": 0.17062234540105484,
+      "butter": 0.11237932522375317,
+      "chocolate chips": 0.10811488056366914,
+      "molasses": 0.09651590651970082,
+      "pudding mix": 0.09581152979012733,
+      "egg": 0.07450768236026324,
+      "water": 0.06154535526562429,
+      "matcha powder": 0.027853860065334458,
+      "corn syrup": 0.02778320921653856,
+      "cream": 0.024553444449839503,
+      "cream of tartar": 0.015085766264240696,
+      "baking soda": 0.010952035421529012
+    },
+    "grams": {
+      "all-purpose flour": 136.5,
+      "butter": 89.9,
+      "cream": 19.6,
+      "corn syrup": 22.2,
+      "molasses": 77.2,
+      "egg": 59.6,
+      "cream of tartar": 12.1,
+      "baking soda": 8.8,
+      "matcha powder": 22.3,
+      "chocolate chips": 86.5,
+      "water": 49.2,
+      "pudding mix": 76.6,
+      "oats": 139.4
+    }
+  }
+]

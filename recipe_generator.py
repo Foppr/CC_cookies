@@ -19,6 +19,36 @@ def get_ingredient_stats(csv_path):
     return stats
 
 
+def get_category_stats(input_csv, output_csv):
+    df = pd.read_csv(input_csv)
+
+    # Handle the trailing underscore on recipe_count if it exists
+    if 'recipe_count_' in df.columns:
+        df = df.rename(columns={'recipe_count_': 'recipe_count'})
+
+    # Define appropriate aggregations for each column
+    agg_funcs = {
+        'grams_mean': 'mean',  # Average of the means across ingredients
+        'grams_std': 'mean',  # Average of the standard deviations
+        'grams_min': 'min',  # Absolute minimum across the category
+        'grams_max': 'max',  # Absolute maximum across the category
+        'pct_of_recipe_mean': 'mean',
+        'pct_of_recipe_std': 'mean',
+        'pct_of_recipe_min': 'min',
+        'pct_of_recipe_max': 'max',
+        'recipe_count': 'sum'  # Total instances of this category
+    }
+
+    # Group by category, aggregate, and round to 2 decimal places
+    cat_stats = df.groupby('category').agg(agg_funcs).round(2).reset_index()
+
+    # Sort by recipe_count to see the most dominant baking blocks first
+    cat_stats = cat_stats.sort_values(by='recipe_count', ascending=False)
+
+    cat_stats.to_csv(output_csv, index=False)
+    return cat_stats
+
+
 def generate_train_data(drop_na=True):
     df = pd.read_csv('Scraped Data/Clean ingredients/ingredients_metric.csv')
 
@@ -103,3 +133,4 @@ if __name__ == '__main__':
     get_ingredient_stats('Scraped Data/Clean ingredients/ingredients_metric.csv')
     # generate_train_data()
     # train_forest()
+
