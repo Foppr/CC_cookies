@@ -1,119 +1,119 @@
-ingredient,grams_mean,grams_std,grams_min,grams_max,pct_of_recipe_mean,pct_of_recipe_std,pct_of_recipe_min,pct_of_recipe_max,recipe_count_,category,note
-all-purpose flour,255.81,112.95,0.0,1050.0,27.92,9.27,0.0,57.59,841,flour (structure),
-almond extract,3.72,3.29,0.0,13.0,0.51,0.48,0.0,1.94,46,salt/flavorings,
-almond flour,145.63,91.46,12.0,384.0,24.79,17.79,1.71,57.14,35,flour (structure),
-almonds,91.62,84.34,0.0,260.0,16.67,18.81,0.0,58.43,17,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-applesauce,96.88,35.52,63.8,135.0,14.8,6.74,7.9,26.25,6,fat,Often used as fat/moisture replacers in baking
-baking powder,3.77,2.77,0.0,24.0,0.43,0.34,0.0,3.39,406,leavening agents,
-baking soda,3.83,2.17,0.4,20.0,0.41,0.22,0.05,1.81,662,leavening agents,
-banana,157.78,62.0,100.0,240.0,35.06,15.27,15.71,67.49,9,fat,Often used as fat/moisture replacers in baking
-berries,79.0,90.94,0.0,280.0,7.59,7.24,0.0,24.5,20,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-biscoff biscuits,90.25,77.13,0.0,280.0,8.05,5.48,0.0,20.7,12,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-bread flour,237.74,110.53,65.0,385.0,19.37,8.58,4.63,27.56,8,flour (structure),
-brown sugar,148.2,71.15,0.0,560.0,14.97,5.74,0.0,48.63,612,sugar,
-butter,171.85,81.66,0.0,1047.0,19.26,7.91,0.0,100.0,859,fat,
-buttercream,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,Other (Mix-ins),
-buttermilk,15.05,0.07,15.0,15.1,1.89,1.18,1.05,2.72,2,fat,
-butterscotch chips,0.0,,0.0,0.0,0.0,,0.0,0.0,1,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-cake / cookie mix,417.9,28.2,375.6,432.0,69.96,22.0,47.12,100.0,4,flour (structure),Pre-mixed base acting primarily as structural dry ingredient
-cake flour,161.35,87.86,55.0,450.0,18.85,12.72,3.98,44.17,30,flour (structure),
-caramel,139.54,102.42,0.0,312.0,14.99,15.87,0.0,73.54,20,fat,High-fat spreads adding moisture/fat and flavor
-cashews,97.5,45.96,65.0,130.0,6.6,0.7,6.11,7.1,2,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-chips ahoy cookies,100.0,,100.0,100.0,7.12,,7.12,7.12,1,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-chocolate,138.56,88.3,0.0,300.0,15.45,10.51,0.0,49.17,47,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-chocolate candies,108.75,87.79,0.0,180.0,11.5,9.55,0.0,19.36,4,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-chocolate chips,185.88,105.19,0.0,595.0,18.41,8.34,0.0,42.51,294,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-chocolate sauce,99.9,,99.9,99.9,9.9,,9.9,9.9,1,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-cinnamon,3.85,3.58,0.0,23.4,0.41,0.39,0.0,2.72,171,salt/flavorings,
-citrus juice,44.49,48.5,5.0,240.0,5.77,5.47,0.4,25.86,40,Other (Liquids),"Provides moisture or acidity, not a core structural block"
-citrus zest,11.65,27.35,0.0,156.0,1.26,1.76,0.0,9.94,31,salt/flavorings,
-cloves,0.99,0.68,0.3,3.1,0.11,0.07,0.03,0.36,38,salt/flavorings,
-coarse sugar,79.69,35.57,40.0,165.0,10.27,5.93,4.14,28.93,13,sugar,
-cocoa powder,42.0,29.6,0.0,133.4,4.68,3.21,0.0,16.78,131,flour (structure),Dry powders that absorb liquid and alter structure
-coconut,151.41,123.56,11.9,487.5,23.37,16.66,1.49,64.54,26,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-coconut flour,22.15,21.43,7.0,37.3,7.21,8.02,1.54,12.88,2,flour (structure),
-coconut sugar,72.68,48.59,9.7,150.0,13.49,6.24,2.98,21.67,11,sugar,
-coffee,18.5,14.17,0.0,29.6,2.06,2.09,0.0,4.8,4,salt/flavorings,
-corn syrup,42.16,37.59,10.2,164.0,5.32,3.27,0.96,11.1,21,sugar,
-cornstarch,9.97,11.32,0.7,100.0,1.34,2.42,0.12,24.03,166,flour (structure),Acts as a structural binder/thickener
-cream,62.46,81.29,0.0,360.0,5.96,7.05,0.0,28.36,37,fat,Dairy provides fat and moisture
-cream cheese,152.97,85.12,14.2,453.0,13.02,6.03,2.27,26.43,41,fat,Dairy provides fat and moisture
-cream of tartar,4.27,2.27,0.0,9.6,0.45,0.23,0.0,0.87,36,leavening agents,Acid used to activate baking soda/stabilize egg
-dark chocolate,145.05,94.4,0.0,567.0,14.02,8.27,0.0,37.96,98,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-dried fruit,95.86,57.37,0.0,250.0,10.47,7.11,0.0,36.57,38,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-egg,72.46,35.5,0.0,300.0,7.87,4.24,0.0,57.68,768,egg,
-egg white,72.58,40.81,0.0,205.4,13.55,9.0,0.0,38.71,35,egg,
-egg yolk,23.5,10.52,0.0,72.0,3.31,2.64,0.0,18.92,130,egg,
-espresso powder,6.83,9.26,0.5,50.0,0.7,1.03,0.02,5.7,39,salt/flavorings,
-flaky sea salt,0.04,0.25,0.0,1.5,0.0,0.02,0.0,0.11,37,salt/flavorings,
-flax / chia seeds,19.72,22.99,0.0,65.0,4.47,6.88,0.0,18.28,6,egg,Often used as vegan egg replacements (flax egg)
-food coloring,4.37,5.52,0.0,18.8,0.49,0.61,0.0,2.36,47,salt/flavorings,
-freeze-dried fruit,11.67,10.41,0.0,20.0,1.55,1.43,0.0,2.83,3,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-fudge pieces,0.0,,0.0,0.0,0.0,,0.0,0.0,1,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-ginger,6.16,21.8,0.2,171.1,0.69,2.47,0.03,19.31,61,salt/flavorings,
-gluten-free flour,337.23,339.79,70.0,1338.8,24.67,9.12,8.34,41.79,12,flour (structure),
-golden syrup,115.77,130.21,7.1,360.0,12.78,10.84,0.89,28.36,6,sugar,
-graham crackers,90.64,68.37,0.0,240.0,13.16,18.04,0.0,66.67,22,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-granulated sugar,131.02,88.53,0.0,800.0,14.61,9.16,0.0,67.3,797,sugar,
-hazelnut spread,174.35,111.49,0.0,350.0,23.63,21.04,0.0,71.09,25,fat,High-fat spreads adding moisture/fat and flavor
-hazelnuts,99.06,62.73,8.4,200.0,11.48,6.51,0.7,22.15,7,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-honey,66.21,54.03,7.0,168.0,8.98,8.49,0.82,26.54,21,sugar,
-jam,188.72,174.68,0.0,640.0,17.46,13.02,0.0,46.3,13,fat,High-fat spreads adding moisture/fat and flavor
-kinder bueno,99.42,72.04,0.0,172.0,7.19,5.03,0.0,11.48,4,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-m&ms,181.0,104.63,0.0,340.0,19.39,10.84,0.0,36.18,21,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-macadamia nuts,99.02,54.78,0.0,260.0,9.4,3.95,0.0,20.33,34,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-maple syrup,77.95,46.66,10.0,208.0,15.72,13.91,3.26,56.37,25,sugar,
-margarine,166.75,75.31,113.5,220.0,15.62,2.74,13.69,17.56,2,fat,
-marshmallow fluff,96.0,,96.0,96.0,13.71,,13.71,13.71,1,fat,High-fat spreads adding moisture/fat and flavor
-marshmallows,60.46,44.59,0.0,168.0,7.93,9.64,0.0,33.33,18,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-mascarpone,146.75,47.02,113.5,180.0,13.74,6.05,9.46,18.02,2,fat,Dairy provides fat and moisture
-matcha powder,13.31,20.67,3.0,117.0,1.6,1.76,0.45,9.98,29,salt/flavorings,
-meringue powder,31.0,3.16,30.0,40.0,2.3,1.16,0.53,4.61,10,egg,Dried egg white substitute
-milk,52.76,71.85,0.0,541.6,6.25,6.88,0.0,46.44,114,fat,Dairy provides fat and moisture
-milk chocolate,117.0,60.46,0.0,200.0,12.1,6.83,0.0,29.19,26,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-milk powder,20.27,14.5,7.0,50.0,3.18,3.19,0.69,11.35,11,flour (structure),Dry powders that absorb liquid and alter structure
-molasses,134.92,82.68,10.0,340.0,13.71,7.71,1.42,30.49,46,sugar,
-nut butter,133.92,75.77,48.0,256.0,22.5,15.01,7.55,44.89,9,Other (Mix-ins),
-nutmeg,0.9,0.79,0.0,4.6,0.11,0.1,0.0,0.53,32,salt/flavorings,
-nuts,73.33,71.24,0.0,180.0,6.06,3.62,0.0,9.63,9,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-oat flour,101.21,41.56,46.0,161.0,21.21,6.46,12.95,28.62,7,flour (structure),
-oats,159.38,77.8,0.0,315.0,18.66,8.4,0.0,45.31,82,flour (structure),Provides bulk/structure similar to flour
-oil,81.64,51.8,9.1,218.0,9.97,5.87,0.96,29.97,68,fat,
-oreo cookies,76.3,56.22,0.0,141.8,5.72,3.89,0.0,10.43,10,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-other extract,7.51,6.72,0.0,26.0,0.83,0.62,0.0,2.02,17,salt/flavorings,
-other spice,1.26,1.19,0.2,4.0,0.14,0.15,0.0,0.47,16,salt/flavorings,
-other starch,60.24,112.02,1.2,260.0,10.14,17.86,0.96,41.94,5,flour (structure),Acts as a structural binder/thickener
-peanut butter,180.36,114.51,15.0,396.0,22.56,13.9,1.02,64.29,50,Other (Mix-ins),
-peanut butter chips,84.03,91.6,0.0,226.7,6.79,7.01,0.0,18.65,6,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-peanut butter powder,40.0,,40.0,40.0,4.71,,4.71,4.71,1,Other (Mix-ins),
-peanuts,242.08,201.11,50.0,580.0,28.48,35.59,4.56,98.23,6,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-pecans,104.13,70.11,27.5,275.0,9.4,6.06,2.91,28.89,22,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-pistachio cream,126.47,81.15,39.4,200.0,14.29,7.69,5.53,19.97,3,fat,High-fat spreads adding moisture/fat and flavor
-pistachios,79.17,61.19,40.0,200.0,6.73,6.83,1.16,20.26,6,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-powdered sugar,184.66,212.12,0.0,1900.0,21.63,20.67,0.0,87.63,188,sugar,
-pretzels,26.67,34.03,0.0,65.0,1.62,2.07,0.0,3.95,3,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-protein powder,49.0,21.33,30.0,80.0,12.29,4.35,7.93,19.05,5,flour (structure),Dry powders that absorb liquid and alter structure
-pudding mix,105.4,122.47,18.8,192.0,8.88,6.3,4.43,13.34,2,Other,Requires manual review
-pumpkin puree,158.2,91.67,0.0,340.0,16.36,11.31,0.0,57.02,25,fat,Often used as fat/moisture replacers in baking
-raisins,160.53,80.92,40.0,375.0,14.85,4.73,6.29,24.7,30,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-salt,2.98,2.05,0.0,27.2,0.33,0.2,0.0,2.6,799,salt/flavorings,
-self-raising flour,225.0,51.72,160.0,300.0,26.58,10.43,12.04,39.31,5,flour (structure),
-shortening,82.78,51.07,2.0,190.0,9.08,5.55,0.24,19.42,10,fat,
-sour cream / yogurt,76.57,62.46,14.7,235.0,7.84,7.23,0.89,29.38,15,fat,Dairy provides fat and moisture
-sourdough discard,155.0,82.61,100.0,250.0,13.32,4.52,8.33,17.14,3,flour (structure),Flour/water mixture with natural yeast
-speculoos spread,41.83,43.67,0.0,130.0,4.69,5.64,0.0,15.13,12,fat,High-fat spreads adding moisture/fat and flavor
-spice mix,2.6,1.57,0.0,6.2,0.28,0.2,0.0,0.83,22,salt/flavorings,
-sprinkles,24.14,43.59,0.0,142.5,2.52,4.04,0.0,11.93,21,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-sweetened condensed milk,190.2,114.25,38.2,380.0,19.5,11.44,6.32,35.76,6,fat,Dairy provides fat and moisture
-sweetener,93.5,100.43,0.5,200.0,15.36,18.88,0.16,36.49,3,sugar,
-tea,3.67,1.53,2.0,5.0,0.33,0.18,0.23,0.54,3,salt/flavorings,
-toffee,92.33,82.8,0.0,160.0,6.86,5.98,0.0,10.96,3,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-vanilla bean paste,8.7,5.37,0.7,24.4,0.99,0.48,0.38,2.32,36,salt/flavorings,
-vanilla extract,7.67,13.04,0.0,349.6,0.87,0.99,0.0,23.18,765,salt/flavorings,
-vanilla sugar,7.42,5.72,0.0,20.0,1.16,1.22,0.0,3.92,9,sugar,
-vinegar,4.29,2.29,0.0,9.0,0.46,0.25,0.0,0.9,11,Other (Liquids),"Provides moisture or acidity, not a core structural block"
-walnuts,117.67,72.77,10.0,250.0,9.86,4.59,2.33,17.67,36,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-water,94.05,153.08,2.5,948.0,7.96,9.38,0.27,51.8,43,Other (Liquids),"Provides moisture or acidity, not a core structural block"
-white chocolate,135.25,82.62,0.0,340.0,14.18,8.41,0.0,56.55,128,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure"
-whole wheat flour,93.71,29.41,60.0,130.0,18.46,11.03,7.99,35.36,7,flour (structure),
-xanthan gum,1.6,,1.6,1.6,0.29,,0.29,0.29,1,flour (structure),Binding agent mimicking gluten structure
+ingredient,grams_mean,grams_std,grams_min,grams_max,pct_of_recipe_mean,pct_of_recipe_std,pct_of_recipe_min,pct_of_recipe_max,recipe_count_,category,note,dog_toxicity,cat_toxicity,bird_toxicity,toxicity_notes
+all-purpose flour,255.81,112.95,0.0,1050.0,27.92,9.27,0.0,57.59,841,flour (structure),,0,0,0,Raw flour can carry E. coli; fine cooked.
+almond extract,3.72,3.29,0.0,13.0,0.51,0.48,0.0,1.94,46,salt/flavorings,,2,2,3,High alcohol content.
+almond flour,145.63,91.46,12.0,384.0,24.79,17.79,1.71,57.14,35,flour (structure),,1,1,0,Not toxic; high fat GI upset.
+almonds,91.62,84.34,0.0,260.0,16.67,18.81,0.0,58.43,17,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",1,1,0,"Not toxic; GI upset, choking/obstruction in dogs."
+applesauce,96.88,35.52,63.8,135.0,14.8,6.74,7.9,26.25,6,fat,Often used as fat/moisture replacers in baking,0,0,0,Safe unsweetened.
+baking powder,3.77,2.77,0.0,24.0,0.43,0.34,0.0,3.39,406,leavening agents,,2,2,2,"Leavening agent; toxic in larger amounts (electrolytes, bloat)."
+baking soda,3.83,2.17,0.4,20.0,0.41,0.22,0.05,1.81,662,leavening agents,,2,2,2,"Large amounts cause electrolyte imbalance, vomiting, bloat."
+banana,157.78,62.0,100.0,240.0,35.06,15.27,15.71,67.49,9,fat,Often used as fat/moisture replacers in baking,0,0,0,Safe.
+berries,79.0,90.94,0.0,280.0,7.59,7.24,0.0,24.5,20,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",0,0,0,Safe. Sugar-free jams may contain xylitol (severe for dogs).
+biscoff biscuits,90.25,77.13,0.0,280.0,8.05,5.48,0.0,20.7,12,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",1,1,1,"Sugar, fat, cinnamon; not toxic."
+bread flour,237.74,110.53,65.0,385.0,19.37,8.58,4.63,27.56,8,flour (structure),,0,0,0,Non-toxic.
+brown sugar,148.2,71.15,0.0,560.0,14.97,5.74,0.0,48.63,612,sugar,,1,1,1,Not toxic; sugar.
+butter,171.85,81.66,0.0,1047.0,19.26,7.91,0.0,100.0,859,fat,,1,1,1,High fat: GI upset / pancreatitis risk (dogs).
+buttercream,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2,Other (Mix-ins),,1,1,1,Butter + sugar.
+buttermilk,15.05,0.07,15.0,15.1,1.89,1.18,1.05,2.72,2,fat,,1,1,1,Lower lactose than milk.
+butterscotch chips,0.0,,0.0,0.0,0.0,,0.0,0.0,1,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",1,1,1,Sugar/fat.
+cake / cookie mix,417.9,28.2,375.6,432.0,69.96,22.0,47.12,100.0,4,flour (structure),Pre-mixed base acting primarily as structural dry ingredient,1,1,2,Leavening + sugar; red velvet/chocolate mixes contain cocoa.
+cake flour,161.35,87.86,55.0,450.0,18.85,12.72,3.98,44.17,30,flour (structure),,0,0,0,Non-toxic.
+caramel,139.54,102.42,0.0,312.0,14.99,15.87,0.0,73.54,20,fat,High-fat spreads adding moisture/fat and flavor,1,1,1,Sugar/fat; sticky choking hazard.
+cashews,97.5,45.96,65.0,130.0,6.6,0.7,6.11,7.1,2,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",1,1,0,Not toxic (store-bought are heat-treated); fat.
+chips ahoy cookies,100.0,,100.0,100.0,7.12,,7.12,7.12,1,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",2,2,3,Contain chocolate chips.
+chocolate,138.56,88.3,0.0,300.0,15.45,10.51,0.0,49.17,47,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",3,3,4,Theobromine + caffeine; severity depends on cocoa %.
+chocolate candies,108.75,87.79,0.0,180.0,11.5,9.55,0.0,19.36,4,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",2,2,3,"Milk chocolate (Kisses, Rolo)."
+chocolate chips,185.88,105.19,0.0,595.0,18.41,8.34,0.0,42.51,294,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",3,3,4,Theobromine + caffeine. Semi-sweet/dark chips are dangerous; birds extremely sensitive.
+chocolate sauce,99.9,,99.9,99.9,9.9,,9.9,9.9,1,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",2,2,3,"Contains cocoa, diluted."
+cinnamon,3.85,3.58,0.0,23.4,0.41,0.39,0.0,2.72,171,salt/flavorings,,1,1,1,Not toxic in culinary amounts; powder/oil can irritate (cats more sensitive to oils).
+citrus juice,44.49,48.5,5.0,240.0,5.77,5.47,0.4,25.86,40,Other (Liquids),"Provides moisture or acidity, not a core structural block",1,1,0,"Acidic, mild GI upset; citrus fruit flesh is fine for birds."
+citrus zest,11.65,27.35,0.0,156.0,1.26,1.76,0.0,9.94,31,salt/flavorings,,1,2,1,Peel contains essential oils/psoralens; cats more sensitive.
+cloves,0.99,0.68,0.3,3.1,0.11,0.07,0.03,0.36,38,salt/flavorings,,2,3,2,Eugenol; cats are especially sensitive (liver).
+coarse sugar,79.69,35.57,40.0,165.0,10.27,5.93,4.14,28.93,13,sugar,,1,1,1,Not toxic; sugar.
+cocoa powder,42.0,29.6,0.0,133.4,4.68,3.21,0.0,16.78,131,flour (structure),Dry powders that absorb liquid and alter structure,4,4,4,Highest theobromine concentration of any baking ingredient.
+coconut,151.41,123.56,11.9,487.5,23.37,16.66,1.49,64.54,26,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",1,1,0,Not toxic; fat may cause GI upset.
+coconut flour,22.15,21.43,7.0,37.3,7.21,8.02,1.54,12.88,2,flour (structure),,0,0,0,Non-toxic.
+coconut sugar,72.68,48.59,9.7,150.0,13.49,6.24,2.98,21.67,11,sugar,,1,1,1,Not toxic; sugar.
+coffee,18.5,14.17,0.0,29.6,2.06,2.09,0.0,4.8,4,salt/flavorings,,3,3,4,Caffeine; ground beans especially concentrated.
+corn syrup,42.16,37.59,10.2,164.0,5.32,3.27,0.96,11.1,21,sugar,,1,1,1,Not toxic; sugar.
+cornstarch,9.97,11.32,0.7,100.0,1.34,2.42,0.12,24.03,166,flour (structure),Acts as a structural binder/thickener,0,0,0,Non-toxic.
+cream,62.46,81.29,0.0,360.0,5.96,7.05,0.0,28.36,37,fat,Dairy provides fat and moisture,1,2,2,Fat + lactose.
+cream cheese,152.97,85.12,14.2,453.0,13.02,6.03,2.27,26.43,41,fat,Dairy provides fat and moisture,1,2,2,Fat + lactose.
+cream of tartar,4.27,2.27,0.0,9.6,0.45,0.23,0.0,0.87,36,leavening agents,Acid used to activate baking soda/stabilize egg,3,2,2,Tartaric acid (likely the toxin in grapes); linked to kidney injury in dogs. Cats/birds: little data.
+dark chocolate,145.05,94.4,0.0,567.0,14.02,8.27,0.0,37.96,98,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",4,4,4,Very high theobromine; small amounts can be fatal.
+dried fruit,95.86,57.37,0.0,250.0,10.47,7.11,0.0,36.57,38,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",1,1,0,Cranberries/dates are fine; any raisins/currants in a mix = severe for dogs.
+egg,72.46,35.5,0.0,300.0,7.87,4.24,0.0,57.68,768,egg,,1,1,1,"Safe cooked; raw egg = salmonella risk, raw white has avidin."
+egg white,72.58,40.81,0.0,205.4,13.55,9.0,0.0,38.71,35,egg,,1,1,1,"Safe cooked; raw = salmonella, avidin."
+egg yolk,23.5,10.52,0.0,72.0,3.31,2.64,0.0,18.92,130,egg,,1,1,1,Safe cooked; raw = salmonella risk.
+espresso powder,6.83,9.26,0.5,50.0,0.7,1.03,0.02,5.7,39,salt/flavorings,,3,3,4,Concentrated caffeine; birds extremely sensitive.
+flaky sea salt,0.04,0.25,0.0,1.5,0.0,0.02,0.0,0.11,37,salt/flavorings,,2,2,3,Same as salt; birds very sensitive.
+flax / chia seeds,19.72,22.99,0.0,65.0,4.47,6.88,0.0,18.28,6,egg,Often used as vegan egg replacements (flax egg),0,0,0,Safe.
+food coloring,4.37,5.52,0.0,18.8,0.49,0.61,0.0,2.36,47,salt/flavorings,,0,0,0,Generally non-toxic in small amounts.
+freeze-dried fruit,11.67,10.41,0.0,20.0,1.55,1.43,0.0,2.83,3,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",0,0,0,Safe.
+fudge pieces,0.0,,0.0,0.0,0.0,,0.0,0.0,1,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",2,2,3,Chocolate.
+ginger,6.16,21.8,0.2,171.1,0.69,2.47,0.03,19.31,61,salt/flavorings,,0,0,0,Safe in culinary amounts.
+gluten-free flour,337.23,339.79,70.0,1338.8,24.67,9.12,8.34,41.79,12,flour (structure),,0,0,0,Non-toxic.
+golden syrup,115.77,130.21,7.1,360.0,12.78,10.84,0.89,28.36,6,sugar,,1,1,1,Not toxic; sugar.
+graham crackers,90.64,68.37,0.0,240.0,13.16,18.04,0.0,66.67,22,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",1,1,1,Sugar/wheat; not toxic.
+granulated sugar,131.02,88.53,0.0,800.0,14.61,9.16,0.0,67.3,797,sugar,,1,1,1,Not toxic; obesity/dental/GI issues.
+hazelnut spread,174.35,111.49,0.0,350.0,23.63,21.04,0.0,71.09,25,fat,High-fat spreads adding moisture/fat and flavor,2,2,3,"Contains cocoa (low), lots of sugar and fat."
+hazelnuts,99.06,62.73,8.4,200.0,11.48,6.51,0.7,22.15,7,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",1,1,0,Not toxic; choking/fat. Some variants are hazelnut-chocolate spreads.
+honey,66.21,54.03,7.0,168.0,8.98,8.49,0.82,26.54,21,sugar,,1,1,1,Not toxic; sugar. Avoid raw honey for puppies/kittens.
+jam,188.72,174.68,0.0,640.0,17.46,13.02,0.0,46.3,13,fat,High-fat spreads adding moisture/fat and flavor,1,1,1,Sugar. Avoid grape jam (dogs) and xylitol-sweetened jams.
+kinder bueno,99.42,72.04,0.0,172.0,7.19,5.03,0.0,11.48,4,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",2,2,3,Milk chocolate.
+m&ms,181.0,104.63,0.0,340.0,19.39,10.84,0.0,36.18,21,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",2,2,3,Milk chocolate.
+macadamia nuts,99.02,54.78,0.0,260.0,9.4,3.95,0.0,20.33,34,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",3,1,0,"Dogs: weakness, tremors, hyperthermia. Cats: no data. Commonly fed to parrots."
+maple syrup,77.95,46.66,10.0,208.0,15.72,13.91,3.26,56.37,25,sugar,,1,1,1,Not toxic; sugar. Maple extract contains alcohol.
+margarine,166.75,75.31,113.5,220.0,15.62,2.74,13.69,17.56,2,fat,,1,1,1,High fat.
+marshmallow fluff,96.0,,96.0,96.0,13.71,,13.71,13.71,1,fat,High-fat spreads adding moisture/fat and flavor,1,1,1,Sugar.
+marshmallows,60.46,44.59,0.0,168.0,7.93,9.64,0.0,33.33,18,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",1,1,1,Sugar; sugar-free versions may contain xylitol.
+mascarpone,146.75,47.02,113.5,180.0,13.74,6.05,9.46,18.02,2,fat,Dairy provides fat and moisture,1,2,2,Fat + lactose.
+matcha powder,13.31,20.67,3.0,117.0,1.6,1.76,0.45,9.98,29,salt/flavorings,,3,3,4,Concentrated caffeine.
+meringue powder,31.0,3.16,30.0,40.0,2.3,1.16,0.53,4.61,10,egg,Dried egg white substitute,2,1,1,Often contains cream of tartar.
+milk,52.76,71.85,0.0,541.6,6.25,6.88,0.0,46.44,114,fat,Dairy provides fat and moisture,1,2,2,Lactose intolerance (most adult cats; birds lack lactase).
+milk chocolate,117.0,60.46,0.0,200.0,12.1,6.83,0.0,29.19,26,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",2,2,3,"Lower theobromine than dark, still toxic in quantity."
+milk powder,20.27,14.5,7.0,50.0,3.18,3.19,0.69,11.35,11,flour (structure),Dry powders that absorb liquid and alter structure,1,2,2,Lactose.
+molasses,134.92,82.68,10.0,340.0,13.71,7.71,1.42,30.49,46,sugar,,1,1,1,Not toxic; sugar.
+nut butter,133.92,75.77,48.0,256.0,22.5,15.01,7.55,44.89,9,Other (Mix-ins),,1,1,1,Fine plain; check label for xylitol.
+nutmeg,0.9,0.79,0.0,4.6,0.11,0.1,0.0,0.53,32,salt/flavorings,,2,2,2,"Myristicin; toxic in larger amounts (hallucinations, tachycardia)."
+nuts,73.33,71.24,0.0,180.0,6.06,3.62,0.0,9.63,9,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",2,1,1,"Mixes may contain macadamias, moldy walnuts, salt."
+oat flour,101.21,41.56,46.0,161.0,21.21,6.46,12.95,28.62,7,flour (structure),,0,0,0,Safe.
+oats,159.38,77.8,0.0,315.0,18.66,8.4,0.0,45.31,82,flour (structure),Provides bulk/structure similar to flour,0,0,0,Safe.
+oil,81.64,51.8,9.1,218.0,9.97,5.87,0.96,29.97,68,fat,,1,1,1,High fat: GI upset / pancreatitis risk.
+oreo cookies,76.3,56.22,0.0,141.8,5.72,3.89,0.0,10.43,10,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",2,2,3,Contains cocoa; mostly a sugar/fat issue unless many are eaten.
+other extract,7.51,6.72,0.0,26.0,0.83,0.62,0.0,2.02,17,salt/flavorings,,2,2,3,Most extracts are alcohol-based; rose water is fine.
+other spice,1.26,1.19,0.2,4.0,0.14,0.15,0.0,0.47,16,salt/flavorings,,1,2,1,Allspice (eugenol) problematic for cats; black pepper irritant.
+other starch,60.24,112.02,1.2,260.0,10.14,17.86,0.96,41.94,5,flour (structure),Acts as a structural binder/thickener,0,0,0,Non-toxic.
+peanut butter,180.36,114.51,15.0,396.0,22.56,13.9,1.02,64.29,50,Other (Mix-ins),,1,1,1,Fine plain. CHECK LABEL: xylitol/'birch sugar' versions are severe (4) for dogs.
+peanut butter chips,84.03,91.6,0.0,226.7,6.79,7.01,0.0,18.65,6,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",2,2,3,Variants include Reese's (chocolate). Plain PB chips: low.
+peanut butter powder,40.0,,40.0,40.0,4.71,,4.71,4.71,1,Other (Mix-ins),,1,1,1,Check label for sweeteners.
+peanuts,242.08,201.11,50.0,580.0,28.48,35.59,4.56,98.23,6,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",1,1,2,Salt/fat; aflatoxin risk is a particular concern for birds.
+pecans,104.13,70.11,27.5,275.0,9.4,6.06,2.91,28.89,22,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",2,1,0,"Mycotoxins/juglone; GI upset, tremors if moldy. Unsalted pecans fine for birds."
+pistachio cream,126.47,81.15,39.4,200.0,14.29,7.69,5.53,19.97,3,fat,High-fat spreads adding moisture/fat and flavor,1,1,1,Sugar/fat; some contain white chocolate.
+pistachios,79.17,61.19,40.0,200.0,6.73,6.83,1.16,20.26,6,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",1,1,1,"Salt, fat, aflatoxin risk."
+powdered sugar,184.66,212.12,0.0,1900.0,21.63,20.67,0.0,87.63,188,sugar,,1,1,1,Not toxic; sugar.
+pretzels,26.67,34.03,0.0,65.0,1.62,2.07,0.0,3.95,3,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",1,1,2,Salt.
+protein powder,49.0,21.33,30.0,80.0,12.29,4.35,7.93,19.05,5,flour (structure),Dry powders that absorb liquid and alter structure,2,1,2,May contain xylitol/sweeteners (dogs); whey = lactose.
+pudding mix,105.4,122.47,18.8,192.0,8.88,6.3,4.43,13.34,2,Other,Requires manual review,1,1,1,Sugar; chocolate flavors contain cocoa.
+pumpkin puree,158.2,91.67,0.0,340.0,16.36,11.31,0.0,57.02,25,fat,Often used as fat/moisture replacers in baking,0,0,0,"Safe (plain, not pie filling with spices)."
+raisins,160.53,80.92,40.0,375.0,14.85,4.73,6.29,24.7,30,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",4,3,2,"Kidney failure in dogs, unpredictable dose. Cases reported in cats. Birds: data unclear, avoid."
+salt,2.98,2.05,0.0,27.2,0.33,0.2,0.0,2.6,799,salt/flavorings,,2,2,3,Sodium poisoning in larger amounts; birds are very sensitive.
+self-raising flour,225.0,51.72,160.0,300.0,26.58,10.43,12.04,39.31,5,flour (structure),,1,1,1,Contains baking powder.
+shortening,82.78,51.07,2.0,190.0,9.08,5.55,0.24,19.42,10,fat,,1,1,1,High fat.
+sour cream / yogurt,76.57,62.46,14.7,235.0,7.84,7.23,0.89,29.38,15,fat,Dairy provides fat and moisture,1,1,1,Lactose/fat; plain yogurt in small amounts is OK.
+sourdough discard,155.0,82.61,100.0,250.0,13.32,4.52,8.33,17.14,3,flour (structure),Flour/water mixture with natural yeast,3,3,3,Live yeast: raw dough expands in the stomach and produces alcohol.
+speculoos spread,41.83,43.67,0.0,130.0,4.69,5.64,0.0,15.13,12,fat,High-fat spreads adding moisture/fat and flavor,1,1,1,"Sugar, fat, spices; not toxic."
+spice mix,2.6,1.57,0.0,6.2,0.28,0.2,0.0,0.83,22,salt/flavorings,,2,2,2,"Contains nutmeg, cloves, allspice."
+sprinkles,24.14,43.59,0.0,142.5,2.52,4.04,0.0,11.93,21,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",1,1,1,Sugar; chocolate sprinkles carry chocolate risk.
+sweetened condensed milk,190.2,114.25,38.2,380.0,19.5,11.44,6.32,35.76,6,fat,Dairy provides fat and moisture,1,2,2,Lactose + sugar.
+sweetener,93.5,100.43,0.5,200.0,15.36,18.88,0.16,36.49,3,sugar,,3,1,2,"Stevia is safe, but xylitol is severe (4) for dogs; check what's used."
+tea,3.67,1.53,2.0,5.0,0.33,0.18,0.23,0.54,3,salt/flavorings,,2,2,3,Caffeine (small amounts used).
+toffee,92.33,82.8,0.0,160.0,6.86,5.98,0.0,10.96,3,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",1,1,2,Sugar/fat; chocolate-coated toffee bars carry chocolate risk.
+vanilla bean paste,8.7,5.37,0.7,24.4,0.99,0.48,0.38,2.32,36,salt/flavorings,,1,1,2,Usually contains some alcohol; less than extract.
+vanilla extract,7.67,13.04,0.0,349.6,0.87,0.99,0.0,23.18,765,salt/flavorings,,2,2,3,~35% alcohol; ethanol toxicity. Birds very sensitive to alcohol.
+vanilla sugar,7.42,5.72,0.0,20.0,1.16,1.22,0.0,3.92,9,sugar,,1,1,1,Sugar; no alcohol.
+vinegar,4.29,2.29,0.0,9.0,0.46,0.25,0.0,0.9,11,Other (Liquids),"Provides moisture or acidity, not a core structural block",1,1,1,Acidic; mild GI upset.
+walnuts,117.67,72.77,10.0,250.0,9.86,4.59,2.33,17.67,36,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",2,1,0,Moldy walnuts carry tremorgenic mycotoxins; black walnuts toxic to dogs. Unsalted shelled walnuts are fine for birds.
+water,94.05,153.08,2.5,948.0,7.96,9.38,0.27,51.8,43,Other (Liquids),"Provides moisture or acidity, not a core structural block",0,0,0,Safe.
+white chocolate,135.25,82.62,0.0,340.0,14.18,8.41,0.0,56.55,128,Other (Mix-ins),"Inclusion ingredient for texture/flavor, not fundamental structure",1,1,2,Negligible theobromine; mainly fat and sugar.
+whole wheat flour,93.71,29.41,60.0,130.0,18.46,11.03,7.99,35.36,7,flour (structure),,0,0,0,Non-toxic.
+xanthan gum,1.6,,1.6,1.6,0.29,,0.29,0.29,1,flour (structure),Binding agent mimicking gluten structure,0,0,0,Non-toxic in small amounts.
