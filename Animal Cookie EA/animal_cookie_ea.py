@@ -60,7 +60,9 @@ PATHS = {
     "cookie_ingredients": REPO / "Mutation (with ingridients)" / "ingredient_stats_categorized.csv",
     "category_stats": REPO / "Mutation (with ingridients)" / "category_stats.csv",
     "recipes": REPO / "recipes_wide_format.csv",
-    "toxicity": REPO / "Scraped Data" / "Clean ingredients" / "ingredients_list_pet_toxicity.csv",
+    # cooked ratings (eggs etc. are safe once baked); falls back to the raw file if missing
+    "toxicity": REPO / "Scraped Data" / "Clean ingredients" / "ingredients_list_pet_toxicity_cooked.csv",
+    "toxicity_raw": REPO / "Scraped Data" / "Clean ingredients" / "ingredients_list_pet_toxicity.csv",
     "labels": HERE / "data" / "animal_ingredient_labels.csv",
 }
 ANIMAL_FOLDERS = {"cat": "Catfood", "dog": "Dogfood", "bird": "Birdfood", "fish": "Fishfood"}
@@ -86,7 +88,7 @@ ANIMAL_SHARE_TARGET = 0.20    # 20% of the dough from animal-typical ingredients
 
 EDIBLE_SCORE = {"yes": 1.0, "limited": 0.5, "no": 0.0}
 # Division of every ingredient per animal into good / ok / toxic:
-#   cookie ingredients -> toxicity 0-4 from ingredients_list_pet_toxicity.csv:
+#   cookie ingredients -> baked toxicity 0-4 from ingredients_list_pet_toxicity_cooked.csv:
 #                         0 = good, 1-2 = ok, 3-4 = toxic
 #   animal-food ingredients without a toxicity score -> good for the animal whose food
 #                         contains them, ok (unknown) for the other animals
@@ -96,6 +98,9 @@ def toxicity_tier(level):
 
 TIER_SCORE = {"good": 1.0, "ok": 0.6, "toxic": 0.0}
 UNKNOWN_TOXICITY = 1
+
+COOKIE_GRAMS = 25            # dough per cookie
+OUTPUT_DIVISOR = 4           # the EA evolves an 800 g batch; the output is divided by 4 -> 200 g = 8 cookies
 
 MEAT_FISH = {"chicken", "turkey", "salmon", "tuna", "beef", "lamb", "duck", "pork", "poultry",
              "rabbit", "venison", "white fish", "herring", "sardines", "shrimp", "shellfish",
@@ -139,9 +144,11 @@ class IngredientDB:
 
         # toxicity of cookie ingredients for each animal (0 safe .. 4 severe)
         self.toxicity = defaultdict(dict)
-        for r in read_csv(PATHS["toxicity"]):
+        tox_file = PATHS["toxicity"] if PATHS["toxicity"].exists() else PATHS["toxicity_raw"]
+        self.toxicity_source = tox_file.name
+        for r in read_csv(tox_file):
             for animal in ANIMAL_FOLDERS:
-                v = (r.get(f"{animal}_toxicity") or "").strip()
+                v = (r.get(f"{animal}_toxicity_cooked") or r.get(f"{animal}_toxicity") or "").strip()
                 if v:
                     self.toxicity[animal][r["ingredient"].strip().lower()] = int(v)
 
@@ -560,7 +567,8 @@ class Settings:
     migrants: int = 1
     seed_fraction: float = 0.5
     min_distance: float = 0.4
-    batch_grams: float = 800
+    batch_grams: float = 800          # batch the EA works with (proportions are unaffected)
+    output_divisor: float = OUTPUT_DIVISOR   # final amounts are divided by this (800 g / 4 = 8 cookies)
     seed: int | None = None
     weights: dict = field(default_factory=lambda: dict(FITNESS_WEIGHTS))
 
@@ -673,8 +681,20 @@ def run(s: Settings, progress=None) -> Result:
     book = pick_book(islands, hofs, s.recipes_in_book, s.min_distance)
     stats = {"cookie_recipes": len(rdb.recipes), "animal_ingredients": len(db.pool[s.animal]),
              "animal_products": db.n_products[s.animal], "unlabeled_variants": db.unlabeled[s.animal]}
-    return Result(s.animal, [describe(r, db, fitness, s) for r in book], history,
-                  dict(mutation.log), s.batch_grams, stats)
+    book = [divide_amounts(describe(r, db, fitness, s), s.output_divisor) for r in book]
+    return Result(s.animal, book, history, dict(mutation.log),
+                  s.batch_grams / s.output_divisor, stats)
+
+
+def divide_amounts(described, divisor=OUTPUT_DIVISOR):
+    """Scale a finished recipe down: every amount is divided by `divisor`.
+    Proportions stay exactly the same (800 g batch / 4 = 200 g = 8 cookies of 25 g)."""
+    out = dict(described)
+    out["ingredients"] = [{**i, "grams": round(i["grams"] / divisor, 1)}
+                          for i in described["ingredients"]]
+    out["total_grams"] = round(sum(i["grams"] for i in described["ingredients"]) / divisor, 1)
+    out["cookies"] = int(round(out["total_grams"] / COOKIE_GRAMS))
+    return out
 
 
 # ============================================================================
@@ -700,7 +720,7 @@ def method_steps(recipe, db):
     """A simple cookie method generated from the ingredient categories."""
     by = role_groups(recipe, db)
     names = lambda role: ", ".join(sorted(by.get(role, {}), key=by[role].get, reverse=True))
-    steps = ["Preheat the oven to 175 °C (350 °F) and line two baking trays."]
+    steps = ["Preheat the oven to 175 °C (350 °F) and line a baking tray."]
     if any(i in MEAT_FISH for i in recipe):
         steps.append("Cook the " + ", ".join(i for i in recipe if i in MEAT_FISH)
                      + " fully, let it cool and chop it very finely.")
@@ -747,7 +767,8 @@ def fmt_grams(g):
 
 def print_result(res):
     print("\n" + "=" * 72)
-    print(f"{res.animal.upper()} COOKIE BOOK  (batch of {res.batch_grams:.0f} g dough; "
+    print(f"{res.animal.upper()} COOKIE BOOK  ({res.batch_grams:.0f} g dough = "
+          f"{int(res.batch_grams // COOKIE_GRAMS)} cookies; "
           f"mutations drawn from {res.stats['animal_ingredients']} {res.animal}-food ingredients)")
     print("=" * 72)
     for n, r in enumerate(res.book, 1):
@@ -794,14 +815,16 @@ def main():
     p.add_argument("--tournament", type=int, default=3)
     p.add_argument("--elite", type=int, default=2)
     p.add_argument("--seed-fraction", type=float, default=0.5)
-    p.add_argument("--batch-grams", type=float, default=800)
+    p.add_argument("--batch-grams", type=float, default=800, help="batch the EA works with")
+    p.add_argument("--divisor", type=float, default=OUTPUT_DIVISOR,
+                   help="divide the final amounts by this (default 4: 800 g -> 8 cookies)")
     p.add_argument("--seed", type=int)
     p.add_argument("--out-dir", default="output")
     a = p.parse_args()
     s = Settings(animal=a.animal, generations=a.generations, pop=a.pop, islands=a.islands,
                  recipes_in_book=a.recipes_in_book, cxpb=a.cxpb, mutpb=a.mutpb,
                  tournament=a.tournament, elite=a.elite, seed_fraction=a.seed_fraction,
-                 batch_grams=a.batch_grams, seed=a.seed)
+                 batch_grams=a.batch_grams, output_divisor=a.divisor, seed=a.seed)
 
     def progress(g, total):
         if g == 1 or g % 25 == 0 or g == total:
