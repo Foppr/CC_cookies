@@ -1,0 +1,517 @@
+ingredient_nl,ingredient,category,human_edible
+mineralen,mineral premix,salt/flavorings,no
+rijst,rice,flour (structure),yes
+vlees en dierlijke bijproducten,meat and animal by-products,Other (Mix-ins),no
+granen,cereal grains,flour (structure),yes
+maïs,corn,flour (structure),yes
+oliën en vetten,oils and fats (unspecified),fat,limited
+plantaardige bijproducten,vegetable by-products,Other,no
+plantaardige eiwitextracten,vegetable protein extract,flour (structure),limited
+visolie,fish oil,fat,limited
+lijnzaad,flax / chia seeds,Other (Mix-ins),yes
+zalmolie,salmon oil,fat,limited
+gist,yeast,leavening agents,yes
+gedroogde bietenpulp,beet pulp,Other,no
+bietenpulp,beet pulp,Other,no
+tarwe,whole wheat flour,flour (structure),yes
+zaden,mixed seeds,Other (Mix-ins),yes
+biergist,brewer's yeast,salt/flavorings,limited
+groenten,mixed vegetables,Other (Mix-ins),yes
+erwten,peas,Other (Mix-ins),yes
+dierlijk vet,animal fat (unspecified),fat,limited
+kip,chicken,Other (Mix-ins),yes
+dierlijke vetten,animal fat (unspecified),fat,limited
+glucosamine,glucosamine,Other,no
+maïsgluten,corn gluten meal,flour (structure),no
+gerst,barley,flour (structure),yes
+cellulose,cellulose,Other,no
+suikers,granulated sugar,sugar,yes
+plantaardige vezels,plant fibre,Other,limited
+fructo-oligosachariden,fructo-oligosaccharides,Other,limited
+sojaolie,oil,fat,yes
+inuline,inulin,Other,limited
+kippenvet,chicken fat,fat,yes
+suiker,granulated sugar,sugar,yes
+zonnebloemolie,oil,fat,yes
+gehydrolyseerde kippenlever,hydrolysed chicken liver,salt/flavorings,no
+gedehydreerde gevogelte-eiwitten,dehydrated poultry protein,flour (structure),no
+hydrolysaat van dierlijke eiwitten,animal protein hydrolysate,salt/flavorings,no
+vis en visbijproducten,fish and fish by-products,Other (Mix-ins),no
+chondroïtinesulfaat,chondroitin,Other,no
+aardappelzetmeel,other starch,flour (structure),yes
+tagetes extract,marigold extract,Other,no
+mais,corn,flour (structure),yes
+erwteneiwit,pea protein,flour (structure),yes
+mos,mannan-oligosaccharides,Other,no
+gevogeltevet,poultry fat,fat,yes
+kaliumchloride,potassium chloride,salt/flavorings,limited
+vruchten,mixed fruit,Other (Mix-ins),yes
+eiwithydrolysaat,protein hydrolysate,salt/flavorings,no
+eipoeder,egg,egg,yes
+tarwegluten,wheat gluten,flour (structure),yes
+fructo-oligosacchariden,fructo-oligosaccharides,Other,limited
+fructo-oligo-sacchariden,fructo-oligosaccharides,Other,limited
+yucca schidigera,yucca extract,Other,no
+bakkerijproducten,bakery products,flour (structure),yes
+aardappel,potato,flour (structure),yes
+zalm,salmon,Other (Mix-ins),yes
+natriumchloride,salt,salt/flavorings,yes
+verse kip,chicken,Other (Mix-ins),yes
+fos,fructo-oligosaccharides,Other,limited
+sorghum,sorghum,flour (structure),yes
+aardappeleiwit,potato protein,flour (structure),limited
+pluimveevet,poultry fat,fat,yes
+gedroogde hele eieren,egg,egg,yes
+kalkoen,turkey,Other (Mix-ins),yes
+gele erwten,peas,Other (Mix-ins),yes
+vitaminen,vitamin premix,Other,no
+gedroogde kip,dried chicken,Other (Mix-ins),yes
+aardappelen,potato,flour (structure),yes
+psylliumschil en psylliumzaden,psyllium husk,Other,yes
+isolaat van plantaardige eiwitten,vegetable protein isolate,flour (structure),limited
+cardy,safflower seed,Other (Mix-ins),limited
+maïsglutenmeel,corn gluten meal,flour (structure),no
+maïsmeel,cornmeal,flour (structure),yes
+schaal- en weekdieren,shellfish,Other (Mix-ins),yes
+bernagieolie,borage oil,fat,limited
+plantaardige olie,oil,fat,yes
+wortel,carrot,Other (Mix-ins),yes
+ei en eiproducten,egg,egg,yes
+wortelen,carrot,Other (Mix-ins),yes
+lam,lamb,Other (Mix-ins),yes
+gedroogde kip en kalkoen,dried chicken,Other (Mix-ins),yes
+calciumcarbonaat,calcium carbonate,salt/flavorings,limited
+dierlijk eiwitextract,animal protein extract,flour (structure),no
+kurkuma,turmeric,salt/flavorings,yes
+gehydrolyseerde dierlijke eiwitten,animal protein hydrolysate,salt/flavorings,no
+yucca,yucca extract,Other,no
+gedroogde biergist,brewer's yeast,salt/flavorings,limited
+gedroogde appel,dried apple,Other (Mix-ins),yes
+bouillon,broth,Other (Liquids),yes
+lignocellulose,cellulose,Other,no
+sojameel,soybean meal,flour (structure),no
+lijnzaadolie,linseed oil,fat,yes
+maisgluten,corn gluten meal,flour (structure),no
+taurine,taurine,Other,limited
+rundvet,beef tallow,fat,yes
+lecithine,lecithin,Other,yes
+witte duiventarwe,whole wheat flour,flour (structure),yes
+honing,honey,sugar,yes
+kippenjus,chicken broth,Other (Liquids),yes
+digest,animal digest,salt/flavorings,no
+pompoen,pumpkin puree,Other (Mix-ins),yes
+boekweit,buckwheat,flour (structure),yes
+zeealgen,seaweed,Other (Mix-ins),yes
+gepelde haver,oats,flour (structure),yes
+zoete aardappel,sweet potato,Other (Mix-ins),yes
+cichoreipulp,chicory pulp,Other,no
+hydrolysaat van kraakbeen,cartilage hydrolysate,Other,no
+bruin lijnzaad,flax / chia seeds,Other (Mix-ins),yes
+kip- en kalkoenmeel,poultry meal,flour (structure),no
+dicalciumfosfaat,dicalcium phosphate,salt/flavorings,no
+hydrolysaat van gist,yeast extract,salt/flavorings,limited
+rode dari,sorghum,flour (structure),yes
+tarwemeel,whole wheat flour,flour (structure),yes
+spinazie,spinach,Other (Mix-ins),yes
+vis- en bijproducten,fish and fish by-products,Other (Mix-ins),no
+brouwersrijst,brewers rice,flour (structure),limited
+rund,beef,Other (Mix-ins),yes
+peterselie,parsley,salt/flavorings,yes
+gedroogde appels,dried apple,Other (Mix-ins),yes
+mannan-oligosacchariden,mannan-oligosaccharides,Other,no
+katjang idjoe,mung beans,flour (structure),yes
+varkensvet,lard,fat,yes
+zeewier,seaweed,Other (Mix-ins),yes
+gedroogd gevogelte-eiwit,dehydrated poultry protein,flour (structure),no
+eend,duck,Other (Mix-ins),yes
+bosbessen,berries,Other (Mix-ins),yes
+hydrolysaat van schaaldieren,crustacean hydrolysate,Other,no
+kanariezaad,canary seed,Other (Mix-ins),limited
+gele millet,millet,flour (structure),yes
+vismeel,fish meal,flour (structure),no
+gebroken rijst,rice,flour (structure),yes
+gedroogd ei,egg,egg,yes
+rozenbottels,rose hips,Other (Mix-ins),yes
+paddy rijst,paddy rice (unhulled),flour (structure),no
+maïseiwitmeel,corn gluten meal,flour (structure),no
+gedroogde cichoreipulp,chicory pulp,Other,no
+sporenelementen en bèta-caroteen,trace elements,salt/flavorings,no
+cranberries,cranberries,Other (Mix-ins),yes
+cichorei,chicory root,Other (Mix-ins),limited
+haver,oats,flour (structure),yes
+eieren en eibijproducten,egg and egg by-products,egg,limited
+mannan-oligosachariden,mannan-oligosaccharides,Other,no
+varken,pork,Other (Mix-ins),yes
+een natuurlijk antioxidant,natural antioxidant,Other,no
+vitsen,vetch,flour (structure),no
+gevogelte,poultry,Other (Mix-ins),yes
+vlees en dierlijke producten,meat and animal by-products,Other (Mix-ins),no
+gedroogde appelpulp,apple pulp,Other,limited
+gedroogde cichoreiwortel,chicory root,Other (Mix-ins),limited
+kamille,chamomile,salt/flavorings,yes
+chondroïtine,chondroitin,Other,no
+mariadistelzaad,milk thistle seed,Other (Mix-ins),limited
+mariadistel,milk thistle seed,Other (Mix-ins),limited
+wortels,carrot,Other (Mix-ins),yes
+appel,dried apple,Other (Mix-ins),yes
+maple peas,peas,Other (Mix-ins),yes
+kippenlever,chicken liver,Other (Mix-ins),yes
+kippenbouillon,chicken broth,Other (Liquids),yes
+yucca schidigera extract,yucca extract,Other,no
+brandnetel,nettle,salt/flavorings,limited
+eierschaalmeel,eggshell powder,salt/flavorings,no
+erwtenmeel,pea flour,flour (structure),yes
+maïszetmeel,cornstarch,flour (structure),yes
+rozemarijn,rosemary,salt/flavorings,yes
+getoaste sojabonen,toasted soybeans,Other (Mix-ins),yes
+lamsmeel,lamb meal,flour (structure),no
+veenbessen,cranberries,Other (Mix-ins),yes
+vitaminen en mineralen,vitamin premix,Other,no
+spirulina,spirulina,Other (Mix-ins),limited
+chondroitine,chondroitin,Other,no
+glucosaminesulfaat,glucosamine,Other,no
+kempzaad,hemp seed,Other (Mix-ins),yes
+gele dari,sorghum,flour (structure),yes
+dun peas,peas,Other (Mix-ins),yes
+yucca wortel,yucca extract,Other,no
+rode maïs,corn,flour (structure),yes
+kleine cribsmaïs,corn,flour (structure),yes
+gedroogde aardappel,potato,flour (structure),yes
+rundvlees,beef,Other (Mix-ins),yes
+mannanoligosachariden,mannan-oligosaccharides,Other,no
+insecten,insects,Other (Mix-ins),limited
+kleine groene erwten,peas,Other (Mix-ins),yes
+garnalen,shrimp,Other (Mix-ins),yes
+gedroogde aardappelen,potato,flour (structure),yes
+tonijn,tuna,Other (Mix-ins),yes
+kikkererwten,chickpeas,Other (Mix-ins),yes
+lavendel,lavender,salt/flavorings,yes
+l-carnitine,l-carnitine,Other,no
+kliswortel,burdock root,Other (Mix-ins),limited
+heemstwortel,marshmallow root,Other,limited
+salmon oil,salmon oil,fat,limited
+erwtenzetmeel,other starch,flour (structure),yes
+rijstzemelen,rice bran,flour (structure),yes
+minerals,mineral premix,salt/flavorings,no
+cranberry,cranberries,Other (Mix-ins),yes
+cichoreiwortel,chicory root,Other (Mix-ins),limited
+zwart koolzaad,rapeseed,Other (Mix-ins),no
+gedehydreerd gevogelte,dehydrated poultry protein,flour (structure),no
+fruit,mixed fruit,Other (Mix-ins),yes
+witte dari,sorghum,flour (structure),yes
+premium cribsmaïs,corn,flour (structure),yes
+tarwegries,semolina,flour (structure),yes
+gist en delen daarvan,yeast,leavening agents,yes
+kruidenmengsel,mixed herbs,salt/flavorings,yes
+gedroogde veenbessen,cranberries,Other (Mix-ins),yes
+verse spinazie,spinach,Other (Mix-ins),yes
+groene thee,green tea,salt/flavorings,yes
+algen,seaweed,Other (Mix-ins),yes
+noten,nuts,Other (Mix-ins),yes
+kippenmeel,poultry meal,flour (structure),no
+appels,dried apple,Other (Mix-ins),yes
+hele rode linzen,lentils,Other (Mix-ins),yes
+soja-olie,oil,fat,yes
+mojave yucca,yucca extract,Other,no
+yucca schidigera-extract,yucca extract,Other,no
+grote groene erwten,peas,Other (Mix-ins),yes
+gedehydreerd varkenseiwit,dehydrated pork protein,flour (structure),no
+hele erwten,peas,Other (Mix-ins),yes
+brouwers gist,brewer's yeast,salt/flavorings,limited
+linseed,flax / chia seeds,Other (Mix-ins),yes
+vis en -bijproducten,fish and fish by-products,Other (Mix-ins),no
+bruine rijst,brown rice,flour (structure),yes
+lever,liver,Other (Mix-ins),yes
+brouwgist,brewer's yeast,salt/flavorings,limited
+linzen vezel,lentil fibre,Other,limited
+kruidenmix,mixed herbs,salt/flavorings,yes
+gistextract,yeast extract,salt/flavorings,limited
+tomaten,tomato,Other (Mix-ins),yes
+vit,vitamin premix,Other,no
+raapzaad,rapeseed,Other (Mix-ins),no
+koolzaadolie,oil,fat,yes
+tapiocazetmeel,other starch,flour (structure),yes
+gistproducten,yeast,leavening agents,yes
+zink,zinc,salt/flavorings,no
+gedroogde tomaat,tomato,Other (Mix-ins),yes
+broccoli,broccoli,Other (Mix-ins),yes
+kippen- en kalkoenenmeel,poultry meal,flour (structure),no
+zalmmeel,fish meal,flour (structure),no
+peas,peas,Other (Mix-ins),yes
+pluimveelever,poultry liver,Other (Mix-ins),yes
+gedroogde cichorei,chicory root,Other (Mix-ins),limited
+zoete aardappelen,sweet potato,Other (Mix-ins),yes
+kleine gestreepte zonnebloempitten,sunflower seeds,Other (Mix-ins),yes
+gedroogde zalm,dried salmon,Other (Mix-ins),yes
+bijproducten van plantaardige oorsprong,vegetable by-products,Other,no
+gedroogde vis,dried fish,Other (Mix-ins),yes
+msc-gecertificeerde visolie,fish oil,fat,limited
+algenolie,algae oil,fat,limited
+gehydrolyseerde gist,yeast extract,salt/flavorings,limited
+chiazaad,flax / chia seeds,Other (Mix-ins),yes
+gedroogde wortelen,carrot,Other (Mix-ins),yes
+vis,white fish,Other (Mix-ins),yes
+vismeel van zeevis,fish meal,flour (structure),no
+hele gele erwten,peas,Other (Mix-ins),yes
+gedehydreerd fruit,mixed fruit,Other (Mix-ins),yes
+cichoreiwortels,chicory root,Other (Mix-ins),limited
+rice,rice,flour (structure),yes
+groene erwten,peas,Other (Mix-ins),yes
+tapioca,tapioca,flour (structure),yes
+hele kikkererwten,chickpeas,Other (Mix-ins),yes
+maïsgries,cornmeal,flour (structure),yes
+zalm olie,salmon oil,fat,limited
+yeast,yeast,leavening agents,yes
+gedroogde citruspulp,citrus pulp,Other,limited
+gehydroliseerd eiwit,protein hydrolysate,salt/flavorings,no
+courgette,zucchini,Other (Mix-ins),yes
+gepelde gerst,barley,flour (structure),yes
+duivengerst,barley,flour (structure),yes
+diverse suikers,granulated sugar,sugar,yes
+broth,broth,Other (Liquids),yes
+gedroogde algen,seaweed,Other (Mix-ins),yes
+cichorei poeder,chicory root,Other (Mix-ins),limited
+gedroogde wortel,carrot,Other (Mix-ins),yes
+gedroogde spinazie,spinach,Other (Mix-ins),yes
+gedroogde johannesbroodpeulen,carob,Other (Mix-ins),yes
+gedehydreerd fruit & groenten,mixed fruit,Other (Mix-ins),yes
+msc-gecertificeerde vismeel,fish meal,flour (structure),no
+verse zalm,salmon,Other (Mix-ins),yes
+rijsteiwit,rice protein,flour (structure),limited
+gebroken johannesbrood,carob,Other (Mix-ins),yes
+eieren,egg,egg,yes
+cranberry's,cranberries,Other (Mix-ins),yes
+yucca extract,yucca extract,Other,no
+gedroogde johannesbrood,carob,Other (Mix-ins),yes
+havervlokken,oats,flour (structure),yes
+kipfilet,chicken,Other (Mix-ins),yes
+tarwebloem,all-purpose flour,flour (structure),yes
+gedroogd gevogelte,dried chicken,Other (Mix-ins),yes
+hele groene erwten,peas,Other (Mix-ins),yes
+jodium,iodine,salt/flavorings,no
+koper,copper,salt/flavorings,no
+gehydrolyseerde lever,hydrolysed chicken liver,salt/flavorings,no
+gedroogde duindoorn,sea buckthorn,Other (Mix-ins),yes
+vitamine en mineralen mix,vitamin premix,Other,no
+vitamine d ie,vitamin premix,Other,no
+kruiden,mixed herbs,salt/flavorings,yes
+gevogelte eiwit,dehydrated poultry protein,flour (structure),no
+producten van plantaardige oorsprong,vegetable by-products,Other,no
+gezuiverd dierlijk vet,animal fat (unspecified),fat,limited
+teunisbloemolie,evening primrose oil,fat,limited
+haring olie,fish oil,fat,limited
+gisten,yeast,leavening agents,yes
+mangaan,manganese,salt/flavorings,no
+gedroogde tomatenpuree,tomato,Other (Mix-ins),yes
+gedroogde bruine zeewier,seaweed,Other (Mix-ins),yes
+verse pompoen,pumpkin puree,Other (Mix-ins),yes
+verse bosbessen,berries,Other (Mix-ins),yes
+ontsloten rijst,rice,flour (structure),yes
+gevogeltelever,poultry liver,Other (Mix-ins),yes
+boerenkool,kale,Other (Mix-ins),yes
+maize,corn,flour (structure),yes
+kippenvlees,chicken,Other (Mix-ins),yes
+aardappelmeel,other starch,flour (structure),yes
+vet van pluimvee,poultry fat,fat,yes
+sporenelementen,trace elements,salt/flavorings,no
+gemengde kruiden,mixed herbs,salt/flavorings,yes
+gehydrolyseerd eiwit,protein hydrolysate,salt/flavorings,no
+dl-methionine,dl-methionine,Other,no
+gedroogd zeewier,seaweed,Other (Mix-ins),yes
+gedroogde antarctische krill,krill,Other (Mix-ins),limited
+pastinaak,parsnip,Other (Mix-ins),yes
+echinacea,echinacea,Other,limited
+verse red delicious appels,dried apple,Other (Mix-ins),yes
+separator vlees,mechanically separated meat,Other (Mix-ins),no
+goudsbloem,calendula,salt/flavorings,limited
+milo,sorghum,flour (structure),yes
+vers kippenvlees,chicken,Other (Mix-ins),yes
+gevogeltemeel,poultry meal,flour (structure),no
+algenolie schizochytrium sp,algae oil,fat,limited
+gele-erwtenzetmeel,other starch,flour (structure),yes
+verse hele eieren,egg,egg,yes
+dille,dill,salt/flavorings,yes
+zonnebloempitschilfers,sunflower seeds,Other (Mix-ins),yes
+verse hele pompoen,pumpkin puree,Other (Mix-ins),yes
+tagetes meel,marigold extract,Other,no
+verse bartlett peren,pear,Other (Mix-ins),yes
+monocalciumfosfaat,monocalcium phosphate,salt/flavorings,no
+rode bieten,beetroot,Other (Mix-ins),yes
+hart,heart,Other (Mix-ins),yes
+poultry fat,poultry fat,fat,yes
+dried beet pulp,beet pulp,Other,no
+rozemarijnextract,rosemary,salt/flavorings,yes
+venkel,fennel,salt/flavorings,yes
+gisthydrolysaat,yeast extract,salt/flavorings,limited
+raapstelen,turnip greens,Other (Mix-ins),yes
+verse groene boerenkool,kale,Other (Mix-ins),yes
+verse raapstelen,turnip greens,Other (Mix-ins),yes
+zout,salt,salt/flavorings,yes
+natuurlijke smaakstoffen,natural flavourings,salt/flavorings,limited
+blauwe bessen,berries,Other (Mix-ins),yes
+kabeljauw,white fish,Other (Mix-ins),yes
+gedroogde erwten,peas,Other (Mix-ins),yes
+gedroogde kalkoen,turkey,Other (Mix-ins),yes
+kokosolie,coconut oil,fat,yes
+cichorei-inuline,inulin,Other,limited
+druivenpitexpeller,grape seed meal,Other,no
+rozenbottel,rose hips,Other (Mix-ins),yes
+rijstbloem,rice flour,flour (structure),yes
+ontsloten mais,corn,flour (structure),yes
+gierst,millet,flour (structure),yes
+gedroogde broccoli,broccoli,Other (Mix-ins),yes
+vitaminen en sporenelementen,vitamin premix,Other,no
+wilde zaden,wild seeds,Other (Mix-ins),limited
+vers pluimveevlees,poultry,Other (Mix-ins),yes
+gedroogde haring,herring,Other (Mix-ins),yes
+gedroogde eend,duck,Other (Mix-ins),yes
+linzen,lentils,Other (Mix-ins),yes
+varkenslever,pork liver,Other (Mix-ins),yes
+hydrolysed protein,protein hydrolysate,salt/flavorings,no
+verse hele muskaat pompoen,pumpkin puree,Other (Mix-ins),yes
+tomaat,tomato,Other (Mix-ins),yes
+verse boerenkool,kale,Other (Mix-ins),yes
+verse wortelen,carrot,Other (Mix-ins),yes
+lijnolie,linseed oil,fat,yes
+tomatenpulp,tomato pulp,Other,limited
+kaneel,cinnamon,salt/flavorings,yes
+duindoorn,sea buckthorn,Other (Mix-ins),yes
+johannesbroodmeel,carob,Other (Mix-ins),yes
+veenbes,cranberries,Other (Mix-ins),yes
+nigerzaad,niger seed,Other (Mix-ins),limited
+gedroogd varkenseiwit,dehydrated pork protein,flour (structure),no
+hele haring,herring,Other (Mix-ins),yes
+groene linzen,lentils,Other (Mix-ins),yes
+geëxtraheerde sojabonen,soybean meal,flour (structure),no
+weipoeder,milk powder,Other,yes
+heel eipoeder,egg,egg,yes
+kippenleverhydrolysaat,hydrolysed chicken liver,salt/flavorings,no
+hydrolysaat van gevogeltelever,hydrolysed chicken liver,salt/flavorings,no
+gedroogde venkel,fennel,salt/flavorings,yes
+gedroogde kamille,chamomile,salt/flavorings,yes
+gedroogd johannesbrood,carob,Other (Mix-ins),yes
+chondroïtine sulfaat,chondroitin,Other,no
+cellulosepoeder,cellulose,Other,no
+gehydrolyseerd gevogelte eiwit,protein hydrolysate,salt/flavorings,no
+extract van yucca schidigera,yucca extract,Other,no
+zonnebloempitten,sunflower seeds,Other (Mix-ins),yes
+witte millet,millet,flour (structure),yes
+hele sardine,sardines,Other (Mix-ins),yes
+hele kievitsbonen,pinto beans,Other (Mix-ins),yes
+poultry protein,dehydrated poultry protein,flour (structure),no
+lamsvlees,lamb,Other (Mix-ins),yes
+johannesbrood,carob,Other (Mix-ins),yes
+sojaboonolie,oil,fat,yes
+leverhydrolysaat,hydrolysed chicken liver,salt/flavorings,no
+gehydrolyseerde kippeneiwitten,protein hydrolysate,salt/flavorings,no
+verse cranberries,cranberries,Other (Mix-ins),yes
+visjus,fish broth,Other (Liquids),yes
+sodium chloride,salt,salt/flavorings,yes
+psyllium,psyllium husk,Other,yes
+d-glucosamine hydrochloride,glucosamine,Other,no
+rode biet,beetroot,Other (Mix-ins),yes
+pompoenpitten,pumpkin seeds,Other (Mix-ins),yes
+tuna,tuna,Other (Mix-ins),yes
+chicken liver,chicken liver,Other (Mix-ins),yes
+vers kippen orgaanvlees,chicken organ meat,Other (Mix-ins),limited
+linseed oil,linseed oil,fat,yes
+pea starch,other starch,flour (structure),yes
+selderij,celery,Other (Mix-ins),yes
+pumpkin,pumpkin puree,Other (Mix-ins),yes
+bosbes,berries,Other (Mix-ins),yes
+erwt,peas,Other (Mix-ins),yes
+varkenskraakbeen,pork cartilage,Other (Mix-ins),no
+plantaardige producten,vegetable by-products,Other,no
+citrus pulp,citrus pulp,Other,limited
+gedroogde peterselie,parsley,salt/flavorings,yes
+carrots,carrot,Other (Mix-ins),yes
+β-glucanen,beta-glucans,Other,limited
+zwarte maïs,corn,flour (structure),yes
+gepelde zonnebloempitten,sunflower seeds,Other (Mix-ins),yes
+oesterschelpen,oyster shell grit,salt/flavorings,no
+soja-eiwit,soy protein,flour (structure),yes
+wheat,whole wheat flour,flour (structure),yes
+chickpeas,chickpeas,Other (Mix-ins),yes
+gedroogd zalmeiwit,dehydrated salmon protein,flour (structure),no
+ontsloten tarwe,whole wheat flour,flour (structure),yes
+bevleesd karkas,meaty carcass,Other (Mix-ins),no
+long,lung,Other (Mix-ins),no
+tarwekiemen,wheat germ,flour (structure),yes
+chicken fat,chicken fat,fat,yes
+gehele gedroogde eieren,egg,egg,yes
+gevogelte eiwithydrolysaat,protein hydrolysate,salt/flavorings,no
+gedroogde tomaten,tomato,Other (Mix-ins),yes
+extracten uit groene thee en druiven,green tea and grape extract,Other,no
+zwarte zonnebloempitten,sunflower seeds,Other (Mix-ins),yes
+fillets with meat,meat fillets,Other (Mix-ins),limited
+geraffineerde zonnebloemolie,oil,fat,yes
+gedroogd gist,yeast,leavening agents,yes
+visbouillon,fish broth,Other (Liquids),yes
+gedroogd antarctisch krill,krill,Other (Mix-ins),limited
+additieven - voedings,feed additives,Other,no
+nasturtium,nasturtium,salt/flavorings,yes
+gedroogde zoete aardappelen,sweet potato,Other (Mix-ins),yes
+zeevismeel,fish meal,flour (structure),no
+hemoglobinepoeder,haemoglobin powder,Other,no
+konijn,rabbit,Other (Mix-ins),yes
+trimming,meat trimmings,Other (Mix-ins),no
+hert,venison,Other (Mix-ins),yes
+luchtpijp,trachea,Other (Mix-ins),no
+millet,millet,flour (structure),yes
+peer,pear,Other (Mix-ins),yes
+hydrolyzed crustacean shells,crustacean hydrolysate,Other,no
+cartilage extract,cartilage hydrolysate,Other,no
+chicory root,chicory root,Other (Mix-ins),limited
+bordeaux maïs,corn,flour (structure),yes
+soja meelvoer,soybean meal,flour (structure),no
+sucrose,granulated sugar,sugar,yes
+gele panis,millet,flour (structure),yes
+rode millet,millet,flour (structure),yes
+vam-pellets,bird pellets,Other (Mix-ins),no
+zeezout,salt,salt/flavorings,yes
+sesamzaad,sesame seeds,Other (Mix-ins),yes
+witte duivengerst,barley,flour (structure),yes
+gestreepte zonnebloempitten,sunflower seeds,Other (Mix-ins),yes
+klei,clay,Other,no
+cereals,cereal grains,flour (structure),yes
+kopersulfaat,copper,salt/flavorings,no
+roodsteen,mineral grit,salt/flavorings,no
+foliumzuur,vitamin premix,Other,no
+gemalen rijst,rice flour,flour (structure),yes
+montmorillonietklei,clay,Other,no
+dari,sorghum,flour (structure),yes
+japanse millet,millet,flour (structure),yes
+cedernoten,pine nuts,Other (Mix-ins),yes
+zonnepitten,sunflower seeds,Other (Mix-ins),yes
+geel lijnzaad,flax / chia seeds,Other (Mix-ins),yes
+oils and fats,oils and fats (unspecified),fat,limited
+zinksulfaat,zinc,salt/flavorings,no
+mangaansulfaat,manganese,salt/flavorings,no
+rozijnen,raisins,Other (Mix-ins),yes
+algenmeel,seaweed,Other (Mix-ins),yes
+saffloerzaad,safflower seed,Other (Mix-ins),limited
+getopte haver,oats,flour (structure),yes
+witte zonnebloempitten,sunflower seeds,Other (Mix-ins),yes
+chicoreizaad,chicory seed,Other (Mix-ins),limited
+gemalen gele maïs,cornmeal,flour (structure),yes
+gemalen sojabonen,soy flour,flour (structure),yes
+gemalen zonnebloempitten,sunflower seeds,Other (Mix-ins),yes
+gemalen linzen,lentils,Other (Mix-ins),yes
+gemalen groene erwten,pea flour,flour (structure),yes
+gemalen geroosterde havergrutten,oats,flour (structure),yes
+gepelde rijst,rice,flour (structure),yes
+havergort,oats,flour (structure),yes
+gemalen vlaszaad,flax / chia seeds,Other (Mix-ins),yes
+silex,mineral grit,salt/flavorings,no
+natriumseleniet,sodium selenite,salt/flavorings,no
+seeds minerals,mineral premix,salt/flavorings,no
+speltdoppen,spelt husks,Other,no
+organische zuren,organic acids,Other,no
+vitamine e-supplement,vitamin premix,Other,no
+gemalen gedroogde zeekelp,seaweed,Other (Mix-ins),yes
+natuurlijke gemengde tocoferolen,tocopherols,Other,limited
+vitamine a-supplement,vitamin premix,Other,no
+d-biotine,vitamin premix,Other,no
+pyridoxine hydrochloride,vitamin premix,Other,no
+vlierbes,elderberry,Other (Mix-ins),limited
+blauwe bes,berries,Other (Mix-ins),yes
