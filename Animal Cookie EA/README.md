@@ -17,7 +17,7 @@ python animal_cookie_ea.py --animal bird     # command line (--generations, --po
 | `Mutation (with ingridients)/ingredient_stats_categorized.csv` | The 118 cookie ingredients and their categories |
 | `Mutation (with ingridients)/category_stats.csv` | Category targets for the structure fitness |
 | `Catfood/`, `Dogfood/`, `Birdfood/` (`ingredient_dictionary.csv`, `products.csv`) | Ingredient pools for the mutation |
-| `Scraped Data/Clean ingredients/ingredients_list_pet_toxicity.csv` | Toxicity 0-4 per animal for the cookie ingredients → good / ok / toxic |
+| `Scraped Data/Clean ingredients/ingredients_list_pet_toxicity_cooked.csv` | **New:** the toxicity file plus `*_toxicity_cooked` columns (ratings after baking) and a `cooked_note`. Used for good / ok / toxic. Falls back to `ingredients_list_pet_toxicity.csv` if missing |
 | `data/animal_ingredient_labels.csv` (this folder) | **New:** translation and labels for the animal ingredients |
 
 A `Fishfood/` folder with the same files is picked up automatically.
@@ -63,9 +63,11 @@ The like/view ratio is not part of the fitness.
 
 ### Good / ok / toxic per animal
 
-- Cookie ingredients use `dog_toxicity`, `cat_toxicity` and `bird_toxicity` from the Clean ingredients file
-  (identical to the columns now in the root `ingredient_stats_categorized.csv`):
-  **0 = good, 1-2 = ok, 3-4 = toxic**.
+- Cookie ingredients use the **baked** ratings (`*_toxicity_cooked`) from the Clean ingredients folder:
+  **0 = good, 1-2 = ok, 3-4 = toxic**. Changed from raw: egg, egg yolk and egg white 1 → 0 (salmonella
+  and avidin are destroyed by cooking); sourdough discard 3 → 1 (yeast killed); baking soda/powder 2 → 1
+  (reacted during baking); extracts and vanilla bean paste one level lower (most alcohol evaporates).
+  Theobromine, caffeine, xylitol, salt, lactose and mould toxins are not affected by baking, so those stay.
 - Animal-food ingredients have no toxicity score. They count as **good** for the animal whose food
   contains them, and **ok** (unknown) for the other animals. The mutation only draws from the chosen
   animal's own food, so in practice they are good.
